@@ -1,4 +1,3 @@
-````md
 # 🎓 University Transfer Agent (Spain)
 
 **University Transfer Agent** is a Python-based system designed to help international students **decide which Spanish university to transfer to in order to graduate**, using an objective, explainable, and automated analysis.
@@ -195,5 +194,4 @@ This project is suitable as:
 If you find it useful, consider giving it a ⭐
 
 ```
-::contentReference[oaicite:0]{index=0}
-```
+
