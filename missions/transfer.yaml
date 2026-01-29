@@ -1,0 +1,39 @@
+id: transfer-v1
+goal: "Find the best university in Spain to transfer and graduate, maximizing course validation (convalidacion), prestige, and cost of living."
+
+my_profile:
+  name: "Jhonnatan Del Castillo"
+  country: "Spain"
+  currency: "EUR"
+  preferences:
+    weight_match: 0.55
+    weight_prestige: 0.25
+    weight_cost: 0.20
+
+
+# ✅ ahora el plan actual viene de un archivo (todos tus cursos)
+current_studies:
+  degree: "Grado en Ingenieria Informatica"
+  curriculum_file: "missions/my_curriculum.yaml"
+
+targets:
+  universities:
+    - name: "Universitat Politecnica de Valencia"
+      city: "Valencia"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas"
+      program_urls:
+        - "https://www.upv.es/pls/oalu/SIC_PLA.lisbloques?p_tit=157&p_cen=J&p_calendario=&p_tipo=plan&p_cabecera=1&p_idioma=c&p_acceso=G&p_vista=&p_listodmod=S&P_NAVEGA=1&p_caca=2025&p_vermiplan=N"
+        - "https://www.upv.es/titulaciones/GII-A/menu_urlc.html?https://www.epsa.upv.es/pla_estudios/2025/157_plan_estudios_2025_es.pdf"
+
+    - name: "Universidad de León"
+      city: "León"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas"
+      program_urls:
+        - "https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-ingenieria-informatica/plan-estudios"
+ 
+    - name: "Universitat Politecnica de Catalunya"
+      city: "Barcelona"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas"
+      program_urls:
+        - "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios"
+        - "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/asignaturas"

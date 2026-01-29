@@ -1,0 +1,99 @@
+origin_country: "Peru"
+origin_degree: "Ingenieria en Computacion y Sistemas"
+destination_degree_equivalent: "Grado en Ingenieria Informatica (Spain)"
+
+university_origin: "Universidad privada Antenor Orrego - Peru (Trujillo)"
+level: "Pregrado"
+
+courses:
+  # --- Ciencias basicas ---
+  - name: "Matematica I"
+    credits: 4
+  - name: "Matematica II"
+    credits: 4
+  - name: "Algebra Lineal"
+    credits: 4
+  - name: "Matematica Discreta"
+    credits: 4
+  - name: "Fisica I"
+    credits: 4
+  - name: "Fisica II"
+    credits: 4
+  - name: "Estadistica Descriptiva"
+    credits: 2
+  - name: "Estadistica Inferencial"
+    credits: 2
+
+  # --- Programacion y CS core ---
+  - name: "Algoritmia y Programacion"
+    credits: 4
+  - name: "Programacion Orientada a Objetos"
+    credits: 4
+  - name: "Estructuras de Datos y Algoritmos"
+    credits: 4
+  - name: "Paradigmas de Programacion"
+    credits: 4
+  - name: "Patrones de Diseno de Software"
+    credits: 4
+  - name: "Arquitectura de Computadoras"
+    credits: 4
+  - name: "Sistemas Operativos"
+    credits: 4
+  - name: "Arquitectura y Administracion de Redes"
+    credits: 4
+  - name: "Interaccion Hombre Maquina"
+    credits: 4
+  - name: "Bases de Datos"
+    credits: 4
+  - name: "Gestion de Bases de Datos"
+    credits: 4
+  - name: "Sistemas de Informacion Transaccionales"
+    credits: 4
+
+  # --- Ingenieria de software ---
+  - name: "Ingenieria de Requisitos"
+    credits: 2
+  - name: "Ingenieria de Software I"
+    credits: 4
+  - name: "Ingenieria de Software II"
+    credits: 4
+  - name: "Gestion de Procesos de Negocio"
+    credits: 4
+
+  # --- Gestion y proyectos ---
+  - name: "Gestion de Proyectos de Sistemas de Informacion"
+    credits: 4
+  - name: "Direccion de Proyectos"
+    credits: 4
+  - name: "Organizacion y Gestion de Empresas"
+    credits: 4
+  - name: "Metodologia de la Investigacion"
+    credits: 3
+  - name: "Deontologia Profesional"
+    credits: 2
+
+  # --- IA / sistemas avanzados ---
+  - name: "Inteligencia Artificial: Principios y Tecnicas"
+    credits: 4
+  - name: "Percepcion Computacional"
+    credits: 3
+  - name: "Arquitectura de Sistemas"
+    credits: 4
+  - name: "Customer Development"
+    credits: 3
+
+  # --- Humanidades (tambien cuentan para creditos) ---
+  - name: "Lenguaje I"
+    credits: 4
+  - name: "Lenguaje II"
+    credits: 2
+  - name: "Psicologia y Desarrollo Humano"
+    credits: 2
+  - name: "Filosofia de la Ciencia"
+    credits: 2
+  - name: "Ciudadania y Derechos Humanos"
+    credits: 3
+  - name: "Etica y Valores"
+    credits: 2
+  - name: "Realidad Nacional y Regional"
+    credits: 2

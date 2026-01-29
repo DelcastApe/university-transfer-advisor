@@ -1,0 +1,338 @@
+{
+  "university": "Universitat Politecnica de Catalunya",
+  "city": "Barcelona",
+  "query": "grado ingenieria informatica plan de estudios asignaturas",
+  "links": [
+    "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios",
+    "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/asignaturas"
+  ],
+  "program_urls": [
+    "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios",
+    "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/asignaturas"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 230,
+  "match_pct": 65.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Matemáticas I",
+      "method": "fuzzy",
+      "score": 88,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Matemáticas II",
+      "method": "fuzzy",
+      "score": 88,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "América Latina",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Matemáticas I",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a conceptos matemáticos relacionados con la teoría de conjuntos, lógica y estructuras algebraicas, fundamentales en la Ingeniería Informática."
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "FIB Visiona",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Matemáticas II",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "Datos estadísticos",
+      "method": "llm",
+      "score": 58,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la descripción y análisis de datos estadísticos."
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Inteligencia Artificial",
+      "method": "none",
+      "score": 60,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas de Estadistica Inferencial y Inteligencia Artificial son temas distintos en Ingenieria Informatica."
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "Programación II",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y el desarrollo de algoritmos, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "Conceptos Avanzados de Programación",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a conceptos avanzados de programación, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "Estructuras de Datos y Algoritmos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "Lenguajes de Programación",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la programación y sus paradigmas o lenguajes, lo que sugiere una relación cercana."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Gestión de Proyectos de Software",
+      "method": "llm",
+      "score": 71,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas están relacionadas con la gestión y diseño de software, aunque con enfoques diferentes."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Arquitectura de Computadores",
+      "method": "fuzzy",
+      "score": 96,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "Sistemas Operativos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Arquitectura del PC",
+      "method": "fuzzy",
+      "score": 77,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Marquéting en Internet",
+      "method": "none",
+      "score": 62,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la interacción entre humanos y sistemas informáticos, mientras que la asignatura B se enfoca en el marketing en línea, lo que sugiere que son temas distintos."
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Bases de Datos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "Bases de Datos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Sistemas de Información para Las Organitzaciones",
+      "method": "fuzzy",
+      "score": 75,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "Ingeniería de Requisitos",
+      "method": "fuzzy",
+      "score": 95,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "Ingeniería del Software",
+      "method": "fuzzy",
+      "score": 89,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Ingeniería del Software",
+      "method": "fuzzy",
+      "score": 87,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "Centros de Proceso de Datos",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión y organización de procesos y recursos en el ámbito de la informática, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "Proyecto de Sistemas de Información",
+      "method": "fuzzy",
+      "score": 84,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "Proyectos de Programación",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y planificación de proyectos en el ámbito de la programación, lo que sugiere una equivalencia temática clara."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Estrategia Digital en Las Organizaciones",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y gestión de empresas en un contexto digital, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "Tecnologías de la información",
+      "method": "none",
+      "score": 63,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en metodologías de investigación, mientras que la asignatura B se enfoca en tecnologías de la información, temas diferentes."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "Liderazgo y Desarrollo Profesional en la Ingeniería",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con el desarrollo profesional y la ética en la ingeniería, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Inteligencia Artificial",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la misma área de estudio, Inteligencia Artificial, con solo una variación en la descripción de su contenido."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "Geometría Computacional",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la representación y manipulación de formas geométricas en el ámbito de la computación, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Arquitectura del Software",
+      "method": "fuzzy",
+      "score": 77,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "Como estudiar remotamente",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "Lenguajes de Programación",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Lenguajes de Programación",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Software Libre y Desarrollo Social",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas muy diferentes, la Psicología y el Desarrollo Humano no tienen relación directa con el Software Libre y el Desarrollo Social en el contexto de la Ingeniería Informática."
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Grado en Ciencia e Ingeniería de Datos",
+      "method": "none",
+      "score": 60,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la filosofía de la ciencia en general, mientras que la asignatura B se enfoca en la ciencia e ingeniería de datos, lo que sugiere un enfoque más práctico y aplicado."
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "Resultados de aprendizaje",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "Probabilidad y Estadística",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Normativa académica y organización",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}
