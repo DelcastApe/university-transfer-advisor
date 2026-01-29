@@ -193,5 +193,4 @@ This project is suitable as:
 
 If you find it useful, consider giving it a ⭐
 
-```
 
