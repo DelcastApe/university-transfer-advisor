@@ -1,0 +1,78 @@
+{
+  "searchParameters": {
+    "q": "Universidade de Santiago de Compostela grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:usc.gal)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática (2ªedición)",
+      "link": "https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-ingenieria-informatica-2aedicion",
+      "snippet": "Presentación. Duración: 4 años académicos · Plan de estudios por curso. Curso 2025/2026 · Plan de estudios por módulos. Curso 2025/2026 · Recursos materiales.",
+      "position": 1
+    },
+    {
+      "title": "Grados - Santiago de Compostela",
+      "link": "https://www.usc.gal/es/estudios/grados",
+      "snippet": "La mayor parte de las titulaciones de grado tienen una duración de cuatro años (o 240 ECTS), y las de doble grado, por lo general, oscilan entre y cinco y seis ...",
+      "position": 2
+    },
+    {
+      "title": "Xunta da Escola Técnica Superior de Enxeñaría - ETSE",
+      "link": "https://assets.usc.gal/sites/default/files/documents/2025-05/2025_05_21_acordos-xe.pdf",
+      "snippet": "... grado al nuevo escenario marcado por la actualización del plan de estudios del GREI y del Doble Grado en Ingeniería Informática y en Matemáticas ...",
+      "date": "21 may 2025",
+      "position": 3
+    },
+    {
+      "title": "Seguridad de la Información",
+      "link": "https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-ingenieria-informatica-2aedicion/20242025/seguridad-informacion-17632-16883-2-98080",
+      "snippet": "Créditos ECTS Créditos ECTS: 4.5 ; Horas ECTS Criterios/Memorias Trabajo del Alumno/a ECTS: 71.5. Horas de Tutorías: 1. Clase Expositiva: 26. Clase Interactiva: ...",
+      "position": 4
+    },
+    {
+      "title": "Xunta da Escola Técnica Superior de Enxeñaría",
+      "link": "https://assets.usc.gal/sites/default/files/documents/2022-06/2022_05_10_Acordos-XE.pdf",
+      "snippet": "(https://www.udc.es/), Universidade de Santiago de Compostela (USC) ... La implantación del plan de estudios se realizará de manera progresiva en ...",
+      "date": "6 jun 2022",
+      "position": 5
+    },
+    {
+      "title": "Xunta da Escola Técnica Superior de Enxeñaría - ETSE",
+      "link": "https://assets.usc.gal/sites/default/files/documents/2023-06/2023_04_18_Acordos-XE.pdf",
+      "snippet": "Universidad de Santiago de Compostela tiene un total de 90 ECTS (siendo cada ECTS equivalente a 25 h de trabajo del estudiante) distribuidos ...",
+      "date": "2 jun 2023",
+      "position": 6
+    },
+    {
+      "title": "la Universidad de Santiago de",
+      "link": "https://assets.usc.gal/sites/default/files/plan/2021-09/Matema%CC%81tica_Industrial_Min.pdf",
+      "snippet": "por CELASU CARLOS III — 5.1 DESCRIPCIÓN DEL PLAN DE ESTUDIOS ... Todas las asignaturas los dos títulos oficiales (Máster Universitario en Ingeniería Matemática de las Universidades de ...",
+      "position": 7
+    },
+    {
+      "title": "Comisión de Calidade da Escola Técnica Superior de ...",
+      "link": "https://assets.usc.gal/sites/default/files/documents/2023-06/2023_06_01_Acordos-CCalidade.pdf",
+      "snippet": "Universidad de Santiago de Compostela tiene un total de 90 ECTS (siendo cada ECTS equivalente a 25 h de trabajo del estudiante) distribuidos ...",
+      "date": "1 jun 2023",
+      "position": 8
+    },
+    {
+      "title": "Gestión Financiera de Empresas - Santiago de Compostela",
+      "link": "https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-ingenieria-informatica-2aedicion/20242025/gestion-financiera-empresas-17631-16882-11-98040",
+      "snippet": "Grado en Ingeniería Informática (2ªedición). Gestión Financiera de Empresas. 2024/2025. Información; Programa; Profesorado; Horarios de clases y exámenes",
+      "position": 9
+    },
+    {
+      "title": "Xunta da Escola Técnica Superior de Enxeñaría - ETSE",
+      "link": "https://assets.usc.gal/sites/default/files/documents/2022-07/2022_06_16_Acordos-XE.pdf",
+      "snippet": "Universidade de Santiago de Compostela (USC) (https://www.usc.es/es) ... La implantación del plan de estudios se realizará de manera progresiva en ...",
+      "date": "1 jul 2022",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

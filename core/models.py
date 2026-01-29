@@ -32,7 +32,7 @@ class Course(BaseModel):
 
 class CurrentStudies(BaseModel):
     degree: str
-    current_university: Optional[str] = None  # 👈 YA NO OBLIGATORIO
+    current_university: Optional[str] = None
     curriculum_file: Optional[str] = None
     courses: Optional[List[Course]] = None
 
@@ -45,11 +45,39 @@ class UniversityTarget(BaseModel):
     name: str
     city: str
     program_query: Optional[str] = None
+
+    # Autonomo: dominios preferidos (oficiales)
+    preferred_domains: Optional[List[str]] = None
+
+    # Optional: si algun dia quieres volver a seeds manuales
     program_urls: Optional[List[str]] = None
 
 
 class Targets(BaseModel):
     universities: List[UniversityTarget]
+
+
+# =========================
+# Coste de vida
+# =========================
+
+class CostComponent(BaseModel):
+    min: float
+    max: float
+    sources: Optional[List[str]] = None
+
+
+class LivingCostBreakdown(BaseModel):
+    housing: CostComponent
+    food: CostComponent
+    transport: CostComponent
+    utilities: CostComponent
+    leisure: CostComponent
+
+    total_min: float
+    total_max: float
+
+    confidence: Optional[str] = Field(default="MEDIUM", description="LOW | MEDIUM | HIGH")
 
 
 # =========================
@@ -71,8 +99,11 @@ class Mission(BaseModel):
 class ResultRow(BaseModel):
     university: str
     city: str
+
     match_pct: float
     prestige_score: float
     cost_score: float
     final_score: float
+
+    living_cost: Optional[LivingCostBreakdown] = None
     notes: Optional[str] = None

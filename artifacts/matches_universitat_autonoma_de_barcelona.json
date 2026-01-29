@@ -1,0 +1,339 @@
+{
+  "university": "Universitat Autonoma de Barcelona",
+  "city": "Barcelona",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://ddd.uab.cat/pub/memtit/2010/149675/MemoriaWeb_GrauEnginyeriaInformatica_022020.pdf",
+    "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_102024.pdf",
+    "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_092017.pdf",
+    "https://ddd.uab.cat/pub/memtit/2025/306695/MemoriaGrauCiberseguretat_a2025.pdf"
+  ],
+  "preferred_domains": [
+    "uab.cat"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 40.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "GRADO DE INGENIERIA DE DATOS",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "2. JUSTIFICACIÓN",
+      "method": "none",
+      "score": 41,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Ingeniería Informática",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura 'Normativa de permanencia' parece estar relacionada con políticas académicas y no con estadística."
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "recomendaciones del documento conjunto elaborado por IEEE y ACM, Joint",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "GRADO DE INGENIERIA DE DATOS",
+      "method": "llm",
+      "score": 55,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a conceptos fundamentales de la informática, como la organización y el tratamiento de datos."
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "Normativa de permanencia",
+      "method": "none",
+      "score": 56,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tratar temas completamente diferentes"
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "propuestas de planes de estudio.",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar relacionada con la planificación de estudios, mientras que la asignatura A se enfoca en patrones de diseño de software, temas muy diferentes."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Rama de adscripción: Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la estructura y diseño de computadoras."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "papel fundamental que las TIC tienen en los sistemas universitarios que buscan la",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión de recursos y servicios en sistemas informáticos."
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Rama de adscripción: Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la organización y diseño de redes informáticas."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "instituciones que componen el sector.",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Como dato relevante del interés profesional, según datos del Observatorio de",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión y organización de datos en un contexto informático."
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "GRADO DE INGENIERIA DE DATOS",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de datos en un contexto de ingeniería"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Técnica Informática de Gestión e Ingeniería Técnica Informática de Sistemas",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a sistemas de información y gestión, con un enfoque en la tecnología y la ingeniería informática."
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "GRADO DE INGENIERIA DE DATOS",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la planificación y definición de necesidades y requisitos en el desarrollo de sistemas de información."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "GRADO DE INGENIERIA DE DATOS",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la creación y desarrollo de sistemas y aplicaciones, aunque la segunda tiene un enfoque en datos, que es un aspecto importante en la ingeniería de software."
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "GRADO DE INGENIERIA DE DATOS",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la especialización en ingeniería de datos y software, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "propuestas de planes de estudio.",
+      "method": "none",
+      "score": 64,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, la primera se enfoca en la gestión de procesos de negocio, mientras que la segunda parece estar relacionada con la planificación de estudios."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "Técnica Informática de Gestión e Ingeniería Técnica Informática de Sistemas",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de proyectos de sistemas de información, aunque con ligeras variaciones en el nombre."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "propuestas de planes de estudio.",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "por la Asociación de Empresas de Electrónica, Tecnologías de la Información y",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con diferentes temas, la A con la gestión de empresas y la B con tecnologías de la información y electrónica."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "de la UAB.",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la investigación y el método científico, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "c) Ámbito profesional",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ética y el comportamiento profesional en el ámbito laboral."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": " Máster en Visión por Computador e Inteligencia Artificial.",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a Inteligencia Artificial, aunque la segunda tiene un enfoque específico en Visión por Computador."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": " Máster en Ciencia e Ingeniería Computacional",
+      "method": "none",
+      "score": 70,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B es un título de máster muy amplio y no se relaciona directamente con la percepción computacional."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Arquitectura de Computadores y Sistemas Operativos, Ingeniería de la Información y",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "como punto fuerte.",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "de la UAB.",
+      "method": "none",
+      "score": 40,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "de la UAB.",
+      "method": "none",
+      "score": 38,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Los retos de este nuevo siglo van a requerir el desarrollo y el uso generalizado de las",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Temas completamente diferentes"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "de la UAB.",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la reflexión filosófica sobre la ciencia y su método, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "1. Sector financiero y seguros",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "3. OBJETIVOS Y COMPETENCIAS",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "y el Centro Nacional de Microelectrónica. Asimismo, la UAB mantiene una estrecha",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

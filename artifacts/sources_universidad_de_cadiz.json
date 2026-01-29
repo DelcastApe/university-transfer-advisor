@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Cadiz",
+  "city": "Cadiz",
+  "links_used": [
+    "https://internacional.uca.es/wp-content/uploads/2020/02/guia-usuario-ects.es_.pdf",
+    "http://asignaturas2.uca.es/wuca_fichasig_todasasig_xtitulacionad9e.html?titul=21714",
+    "https://asignaturas.uca.es/asig/2024-25/21717020/pdf/"
+  ],
+  "telemetry": [
+    {
+      "url": "https://internacional.uca.es/wp-content/uploads/2020/02/guia-usuario-ects.es_.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "http://asignaturas2.uca.es/wuca_fichasig_todasasig_xtitulacionad9e.html?titul=21714",
+      "kind": "html",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://asignaturas.uca.es/asig/2024-25/21717020/pdf/",
+      "kind": "pdf_fallback",
+      "extracted_lines": 241,
+      "error": null
+    }
+  ]
+}

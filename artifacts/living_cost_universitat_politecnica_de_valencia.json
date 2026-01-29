@@ -1,0 +1,40 @@
+{
+  "housing": {
+    "min": 255.0,
+    "max": 345.0,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Valencia"
+    ]
+  },
+  "food": {
+    "min": 306.0,
+    "max": 414.0,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Valencia"
+    ]
+  },
+  "transport": {
+    "min": 34.0,
+    "max": 46.0,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Valencia"
+    ]
+  },
+  "utilities": {
+    "min": 68.0,
+    "max": 92.0,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Valencia"
+    ]
+  },
+  "leisure": {
+    "min": 59.5,
+    "max": 80.5,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Valencia"
+    ]
+  },
+  "total_min": 722.5,
+  "total_max": 977.5,
+  "confidence": "MEDIUM"
+}

@@ -1,0 +1,82 @@
+{
+  "university": "Universitat Autonoma de Barcelona",
+  "city": "Barcelona",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universitat Autonoma de Barcelona grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universitat Autonoma de Barcelona grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uab.cat"
+  ],
+  "selected": [
+    "https://ddd.uab.cat/pub/memtit/2010/149675/MemoriaWeb_GrauEnginyeriaInformatica_022020.pdf",
+    "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_102024.pdf",
+    "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_092017.pdf",
+    "https://ddd.uab.cat/pub/memtit/2025/306695/MemoriaGrauCiberseguretat_a2025.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2010/149675/MemoriaWeb_GrauEnginyeriaInformatica_022020.pdf",
+      "domain": "ddd.uab.cat",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (ddd.uab.cat)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_102024.pdf",
+      "domain": "ddd.uab.cat",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (ddd.uab.cat)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_092017.pdf",
+      "domain": "ddd.uab.cat",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (ddd.uab.cat)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2025/306695/MemoriaGrauCiberseguretat_a2025.pdf",
+      "domain": "ddd.uab.cat",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (ddd.uab.cat)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/tesis/2017/hdl_10803_457761/amr1de1.pdf",
+      "domain": "ddd.uab.cat",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (ddd.uab.cat)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uab.cat/Document/223/934/RankingMundo.pdf",
+      "domain": "www.uab.cat",
+      "score": 75,
+      "reasons": [
+        "+70 dominio preferido (www.uab.cat)",
+        "+25 es PDF",
+        "-20 contiene 'ranking' (ruido)"
+      ],
+      "is_pdf": true
+    }
+  ]
+}

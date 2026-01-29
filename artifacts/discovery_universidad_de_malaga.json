@@ -1,0 +1,211 @@
+{
+  "university": "Universidad de Malaga",
+  "city": "Malaga",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Malaga grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Malaga grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uma.es"
+  ],
+  "selected": [
+    "https://www.uma.es/grado-en-ingenieria-informatica/cms/menu/informacion-grado/plan-de-estudios/",
+    "https://www.uma.es/relaciones-internacionales/navegador_de_ficheros/Incoming/descargar/2324/2324-Asignaturas_en_ingles.pdf",
+    "https://www.uma.es/grado-en-ingenieria-de-computadores/cms/menu/informacion-grado/plan-de-estudios/",
+    "https://www.uma.es/grado-en-ingenieria-del-software/cms/menu/informacion-grado/plan-de-estudios/"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-informatica/cms/menu/informacion-grado/plan-de-estudios/",
+      "domain": "www.uma.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/relaciones-internacionales/navegador_de_ficheros/Incoming/descargar/2324/2324-Asignaturas_en_ingles.pdf",
+      "domain": "www.uma.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+40 contiene 'asignaturas'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-de-computadores/cms/menu/informacion-grado/plan-de-estudios/",
+      "domain": "www.uma.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-del-software/cms/menu/informacion-grado/plan-de-estudios/",
+      "domain": "www.uma.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-de-tecnologias-de-telecomunicacion/cms/menu/informacion-grado/plan-de-estudios/",
+      "domain": "www.uma.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/etsi-informatica/info/73313/listado-de-asignaturas-con-docencia-en-ingles/",
+      "domain": "www.uma.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+40 contiene 'asignaturas'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/etsi-industrial/navegador_de_ficheros/docs/descargar/Planes2023/AnexosINF/Anexo%20I%20Justificacion%20Informatica.pdf",
+      "domain": "www.uma.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/centers/subjects_center/etsi-informatica/5389/",
+      "domain": "www.uma.es",
+      "score": 100,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+20 contiene 'ects'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-informatica/cms/menu/informacion-grado/programacion-docente-plan-2010/",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/consejo-de-gobierno/navegador_de_ficheros/SesionesConsejoGobierno/descargar/CG2025/20250925/17.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/escuela-de-ingenierias-industriales/navegador_de_ficheros/Curso2022-23/descargar/EII.%20Guia%20Estudiantes%20Nuevo%20Ingreso%202022-23.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/media/files/POD_CURSOS_2025_2026_2027.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/media/files/editado-POD_CURSO_ACADEMICO_2022-2023.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/escuela-de-ingenierias-industriales/navegador_de_ficheros/Curso2021-22/descargar/EII.%20GuiaEstudiantesNI21-22.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/media/files/POD_CURSO_2020-2021_Y6ZtMpd.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/secretariageneral/normativa/propia/consejo/Abril_2016/Anexo10.pdf",
+      "domain": "www.uma.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-informatica/",
+      "domain": "www.uma.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uma.es/etsi-informatica/info/117164/doble-grado-ingenieria-informatica-mencion-computacion-y-grado-en-matematicas-v1/",
+      "domain": "www.uma.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uma.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

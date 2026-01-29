@@ -1,0 +1,29 @@
+{
+  "university": "Universidad Autonoma de Madrid",
+  "city": "Madrid",
+  "links_used": [
+    "https://www.uam.es/uam/media/doc/1606887446271/grado-ingenieria-informatica-2022-23-2022-definitivo.pdf",
+    "https://www.uam.es/uam/media/doc/1606943990163/grado-ingenieria-informatica-2024-25-definitivo.pdf",
+    "https://www.uam.es/uam/media/doc/1606850068243/grado-ingenieria-informatica-2021-22-definitivo.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606887446271/grado-ingenieria-informatica-2022-23-2022-definitivo.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606943990163/grado-ingenieria-informatica-2024-25-definitivo.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606850068243/grado-ingenieria-informatica-2021-22-definitivo.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "university": "Universidad de Cadiz",
+  "city": "Cadiz",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Cadiz grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Cadiz grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uca.es"
+  ],
+  "selected": [
+    "https://internacional.uca.es/wp-content/uploads/2020/02/guia-usuario-ects.es_.pdf",
+    "http://asignaturas2.uca.es/wuca_fichasig_todasasig_xtitulacionad9e.html?titul=21714",
+    "https://asignaturas.uca.es/asig/2024-25/21717020/pdf/",
+    "https://transparencia.uca.es/wp-content/uploads/2025/04/PLAN-DEDICACION-ACADEMICA-2025-26-1.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://internacional.uca.es/wp-content/uploads/2020/02/guia-usuario-ects.es_.pdf",
+      "domain": "internacional.uca.es",
+      "score": 115,
+      "reasons": [
+        "+70 dominio preferido (internacional.uca.es)",
+        "+20 contiene 'ects'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://asignaturas2.uca.es/wuca_fichasig_todasasig_xtitulacionad9e.html?titul=21714",
+      "domain": "asignaturas2.uca.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (asignaturas2.uca.es)",
+        "+40 contiene 'asignaturas'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://asignaturas.uca.es/asig/2024-25/21717020/pdf/",
+      "domain": "asignaturas.uca.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (asignaturas.uca.es)",
+        "+40 contiene 'asignaturas'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://transparencia.uca.es/wp-content/uploads/2025/04/PLAN-DEDICACION-ACADEMICA-2025-26-1.pdf",
+      "domain": "transparencia.uca.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (transparencia.uca.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esingenieria.uca.es/wp-content/uploads/2015/01/MemoriaMasterIngenieriaInformatica.pdf",
+      "domain": "esingenieria.uca.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (esingenieria.uca.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://rodin.uca.es/bitstream/handle/10498/20657/BBDDenUniversidadesEspanolas2018.pdf?sequence=1&isAllowed=y",
+      "domain": "rodin.uca.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (rodin.uca.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://etsingenieria.uca.es/wp-content/uploads/2022/03/Autoinforme_GITI_2019_20.pdf",
+      "domain": "etsingenieria.uca.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (etsingenieria.uca.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esingenieria.uca.es/wp-content/uploads/2023/07/InformeACCUA_GII_2021-22.pdf",
+      "domain": "esingenieria.uca.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (esingenieria.uca.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esingenieria.uca.es/wp-content/uploads/2021/06/Indicaciones_Programas_Docentes_ESI%20_v2.pdf",
+      "domain": "esingenieria.uca.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (esingenieria.uca.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esingenieria.uca.es/wp-content/uploads/2025/07/GII_Autoinforme_Seguimiento_22_23.pdf",
+      "domain": "esingenieria.uca.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (esingenieria.uca.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esingenieria.uca.es/wp-content/uploads/2025/07/2023_M-Seguridad-Inform_MOD-NS_Memoria.pdf",
+      "domain": "esingenieria.uca.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (esingenieria.uca.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://etsingenieria.uca.es/estudios/gic/planestudiosgic/",
+      "domain": "etsingenieria.uca.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (etsingenieria.uca.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://etsingenieria.uca.es/estudios/giti/planestudiosgiti/",
+      "domain": "etsingenieria.uca.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (etsingenieria.uca.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://etsingenieria.uca.es/estudios/gie/planestudiosgie/",
+      "domain": "etsingenieria.uca.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (etsingenieria.uca.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://ciencias.uca.es/titulaciones-grados-enologia-planificacion-de-la-ensenanza-index/",
+      "domain": "ciencias.uca.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (ciencias.uca.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

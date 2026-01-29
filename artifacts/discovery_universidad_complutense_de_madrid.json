@@ -1,0 +1,195 @@
+{
+  "university": "Universidad Complutense de Madrid",
+  "city": "Madrid",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad Complutense de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad Complutense de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "ucm.es"
+  ],
+  "selected": [
+    "https://web.fdi.ucm.es/Guias_Docentes/Guia_docente_2011-12_(grado_Ing_Software).pdf",
+    "https://informatica.ucm.es/data/cont/docs/titulaciones/1917.pdf",
+    "https://informatica.ucm.es/data/cont/media/www/pag-64266/GII-201011-MemoriaAnualSeguimiento.pdf",
+    "https://informatica.ucm.es/file/19-20-informatica-gingenieria-informatica.pdf",
+    "https://informatica.ucm.es/data/cont/media/www/pag-86285/memoriaGDV1516.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://web.fdi.ucm.es/Guias_Docentes/Guia_docente_2011-12_(grado_Ing_Software).pdf",
+      "domain": "web.fdi.ucm.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (web.fdi.ucm.es)",
+        "+40 contiene 'guia_docente'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://informatica.ucm.es/data/cont/docs/titulaciones/1917.pdf",
+      "domain": "informatica.ucm.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://informatica.ucm.es/data/cont/media/www/pag-64266/GII-201011-MemoriaAnualSeguimiento.pdf",
+      "domain": "informatica.ucm.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://informatica.ucm.es/file/19-20-informatica-gingenieria-informatica.pdf",
+      "domain": "informatica.ucm.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://informatica.ucm.es/data/cont/media/www/pag-86285/memoriaGDV1516.pdf",
+      "domain": "informatica.ucm.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://web.fdi.ucm.es/UCMFiles/pdf/Fichas_docentes/2025/fichas2025-2026_DG.pdf",
+      "domain": "web.fdi.ucm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (web.fdi.ucm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://web.fdi.ucm.es/UCMFiles/pdf/Fichas_docentes/2024/fichas2024-2025_GC.pdf",
+      "domain": "web.fdi.ucm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (web.fdi.ucm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://web.fdi.ucm.es/Guias_Docentes/Guia%20docente%202012-13%20GIC.pdf",
+      "domain": "web.fdi.ucm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (web.fdi.ucm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://web.fdi.ucm.es/UCMFiles/pdf/FICHAS_DOCENTES/2024/8489.pdf",
+      "domain": "web.fdi.ucm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (web.fdi.ucm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.ucm.es/estudios/grado-ingenieriainformatica-estudios-estructura",
+      "domain": "www.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://informatica.ucm.es/estudios/grado-ingenieriadecomputadores-estudios-estructura",
+      "domain": "informatica.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.ucm.es/english/estudios/grado-adeinginformatica-estudios-estructura",
+      "domain": "www.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://informatica.ucm.es/estudios/master-ingenieriainformatica-estudios-estructura",
+      "domain": "informatica.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.ucm.es/estudios/grado-informaticaymatematicas-estudios-estructura",
+      "domain": "www.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://informatica.ucm.es/estudios/grado-ingenieriadelsoftware-estudios-estructura",
+      "domain": "informatica.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (informatica.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://economicasyempresariales.ucm.es/doble-grado-ade-ingenieria-informatica",
+      "domain": "economicasyempresariales.ucm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (economicasyempresariales.ucm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.ucm.es/estudios/grado-ingenieriadedatoseinteligenciartificial-estudios-estructura",
+      "domain": "www.ucm.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.ucm.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

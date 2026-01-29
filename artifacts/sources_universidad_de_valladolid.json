@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Valladolid",
+  "city": "Valladolid",
+  "links_used": [
+    "https://www.inf.uva.es/wp-content/uploads/2014/05/UVaGradoIngenieriaInformatica.pdf",
+    "https://www.inf.uva.es/wp-content/uploads/2012/04/UVaGradoInformaticaValladolid27072009V2.1.revisada.pdf",
+    "https://www.inf.uva.es/wp-content/uploads/2016/06/G46944.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2014/05/UVaGradoIngenieriaInformatica.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2012/04/UVaGradoInformaticaValladolid27072009V2.1.revisada.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2016/06/G46944.pdf",
+      "kind": "pdf",
+      "extracted_lines": 155,
+      "error": null
+    }
+  ]
+}

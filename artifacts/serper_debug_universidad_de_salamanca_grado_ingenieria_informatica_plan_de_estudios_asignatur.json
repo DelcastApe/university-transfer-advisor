@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Salamanca grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:usal.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática",
+      "link": "https://www.usal.es/grado-en-ingenieria-informatica",
+      "snippet": "Estos estudios duran 4 años (60 ECTS por año para ... Este Curso constaba de 60 ECTS, organizados en 9 asignaturas y un Trabajo Fin de Grado de 12 ECTS.",
+      "position": 1
+    },
+    {
+      "title": "FICHAS DOCENTES DE LAS ASIGNATURAS CURSO ...",
+      "link": "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_5.pdf",
+      "snippet": "Máster Universitario en Ingeniería Informática • Guía Académica 2024-2025. UNIVERSIDAD DE SALAMANCA. 1. 1. FICHAS DOCENTES DE LAS ASIGNATURAS. CURSO ACADÉMICO ...",
+      "position": 2
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Sistemas de Información",
+      "link": "https://www.usal.es/grado-en-ingenieria-informatica-en-sistemas-de-informacion",
+      "snippet": "Estos estudios duran 4 años (60 ECTS por año para completar 240) y están estructurados en cinco módulos de asignaturas ... UNIVERSIDAD DE SALAMANCA.",
+      "position": 3
+    },
+    {
+      "title": "grado en ingeniería informática Guía académica 2016-2017",
+      "link": "https://guias.usal.es/historico/files/guias2015/Fichas_Plan_Docente_Grado_en_Ing_Informatica_16-17%20actualizado%206-10-16_Mofic%20feb%202017.pdf",
+      "snippet": "Bloque formativo al que pertenece la materia. Materia “Programación”, que consta de las siguientes asignaturas: - Programación I. - Programación II.",
+      "position": 4
+    },
+    {
+      "title": "título de grado en ingeniería informática",
+      "link": "https://diaweb.usal.es/diaweb/comun/descargar.jsp?f=10001235libroblanco_jun05_GradoInformatica.pdf",
+      "snippet": "El proyecto que aquí se presenta recoge numerosos aspectos fundamentales en el diseño de un mo- delo de Título de Grado: análisis de los estudios ...",
+      "position": 5
+    },
+    {
+      "title": "Anexo 23",
+      "link": "http://avellano.fis.usal.es/~jblanco/anexo6.pdf",
+      "snippet": "Guía Docente de Ingeniería ... Informática y Automática de la Universidad de Salamanca está realizando, abarca ... correspondientes a 27 ECTS según el plan de ...",
+      "position": 6
+    },
+    {
+      "title": "FICHAS DOCENTES DE LAS ASIGNATURAS CURSO ... - Inicio",
+      "link": "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_3.pdf",
+      "snippet": "imparte en el Grado en Ingeniería Informática de la Universidad de Salamanca (USAL), ... correspondientes a 17-18 ECTS según el plan de estudios.",
+      "date": "14 jun 2023",
+      "position": 7
+    },
+    {
+      "title": "AUTOINFORME DE SEGUIMIENTO RENOVACIÓN DE LA ...",
+      "link": "https://fciencias.usal.es/wp-content/uploads/2025/02/inf-seguiginginformatica-23-24-3.pdf",
+      "snippet": "El Grado en Ingeniería Informática (GII), se puso en marcha en el curso 2010-2011, una vez superado el proceso de verificación.",
+      "date": "27 feb 2025",
+      "position": 8
+    },
+    {
+      "title": "INFORMÁTICA | guias.usal.es",
+      "link": "https://guias.usal.es/node/141731",
+      "snippet": "Papel de la asignatura. La asignatura de Informática dentro del Plan de Estudios actual es una asignatura básica que consta de 6 Créditos ECTS.",
+      "date": "10 nov 2022",
+      "position": 9
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Sistemas de Información ...",
+      "link": "https://guias.usal.es/historico/files/Grado_en_Ingenieria_Informatica_sistemas_informacion_EPS_Zamora_2013_PF.pdf",
+      "snippet": "Sentido de la materia en el plan de estudios. Bloque formativo al que pertenece la materia. Esta asignatura conforma el módulo EMPRESA.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

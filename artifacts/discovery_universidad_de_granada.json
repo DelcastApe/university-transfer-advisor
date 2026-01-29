@@ -1,0 +1,210 @@
+{
+  "university": "Universidad de Granada",
+  "city": "Granada",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Granada grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Granada grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "ugr.es"
+  ],
+  "selected": [
+    "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/ingenieria-sistemas-informacion/guia-docente",
+    "https://grados.ugr.es/informatica/docencia/plan-estudios/programacion-tecnica-y-cientifica-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+    "https://grados.ugr.es/informatica/docencia/plan-estudios/tecnologias-emergentes-especialidad-ingenieria-computadores/guia-docente",
+    "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/informatica-grafica/guia-docente"
+  ],
+  "candidates": [
+    {
+      "url": "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/ingenieria-sistemas-informacion/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/programacion-tecnica-y-cientifica-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/tecnologias-emergentes-especialidad-ingenieria-computadores/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/informatica-grafica/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/estructura-computadores/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/ingenieria-servidores/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/fundamentos-ingenieria-del-software/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/aprendizaje-automatico-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/compresion-y-recuperacion-informacion-multimedia-especialidad-tecnologias-la-informacion/guia-docente",
+      "domain": "grados.ugr.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (grados.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-software-eingenieria-software/guia-docente",
+      "domain": "www.ugr.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.ugr.es)",
+        "+40 contiene 'guia-docente'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/Ingenieria-Informatica271109.pdf",
+      "domain": "secretariageneral.ugr.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (secretariageneral.ugr.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/BOUGR/191/CABECERAS%20191_4.pdf",
+      "domain": "secretariageneral.ugr.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (secretariageneral.ugr.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://icar.ugr.es/sites/dpto/atc/public/inline-files/GuiasDocentes_20_21/gii_tecno_organizacion_comput_2020-2021.pdf",
+      "domain": "icar.ugr.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (icar.ugr.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://digibug.ugr.es/bitstream/10481/36565/1/T1_N5_Revista_EAIC_2015.pdf",
+      "domain": "digibug.ugr.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (digibug.ugr.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/BOUGR/191/CABECERAS%20191_5.pdf",
+      "domain": "secretariageneral.ugr.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (secretariageneral.ugr.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://www.ugr.es/~ecaminos/files/Guia2008-2009.pdf",
+      "domain": "www.ugr.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.ugr.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://etsiit.ugr.es/movilidad/programas/internacional/salientes/destinos-erasmus-2019-2020/grado-informatica",
+      "domain": "etsiit.ugr.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (etsiit.ugr.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

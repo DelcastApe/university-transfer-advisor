@@ -1,0 +1,29 @@
+{
+  "university": "Universidad Publica de Navarra",
+  "city": "Pamplona",
+  "links_used": [
+    "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/plan-de-estudios.html",
+    "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/plan-de-estudios.html",
+    "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-biomedica/plan-de-estudios.html"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/plan-de-estudios.html",
+      "kind": "html",
+      "extracted_lines": 202,
+      "error": null
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/plan-de-estudios.html",
+      "kind": "html",
+      "extracted_lines": 202,
+      "error": null
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-biomedica/plan-de-estudios.html",
+      "kind": "html",
+      "extracted_lines": 178,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "searchParameters": {
+    "q": "Universidad Complutense de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:ucm.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Ingeniería Informática (ofrece un grupo en inglés) Plan 2019",
+      "link": "https://www.ucm.es/estudios/grado-ingenieriainformatica-estudios-estructura",
+      "snippet": "En la página de información docente de la facultad existe, a título informativo, una organización temática de las asignaturas optativas ofertadas. El módulo de ...",
+      "position": 1
+    },
+    {
+      "title": "GUÍA DOCENTE - Informática (UCM",
+      "link": "https://web.fdi.ucm.es/Guias_Docentes/Guia_docente_2011-12_(grado_Ing_Software).pdf",
+      "snippet": "En el plan de estudios del doble grado se reparten las asignaturas de los grados de Ingeniería Informática y. Matemáticas en un total de 360 créditos ...",
+      "position": 2
+    },
+    {
+      "title": "Ficha del curso: 2025-2026 - Informática (UCM",
+      "link": "https://web.fdi.ucm.es/UCMFiles/pdf/Fichas_docentes/2025/fichas2025-2026_DG.pdf",
+      "snippet": "Programa detallado: 1. Representación digital de la información. • Introducción y conceptos. • Sistemas de numeración: binario, octal, ...",
+      "date": "14 jul 2025",
+      "position": 3
+    },
+    {
+      "title": "Ingeniería Informática / Matemáticas",
+      "link": "https://informatica.ucm.es/data/cont/docs/titulaciones/1917.pdf",
+      "snippet": "Plan de Estudios. TIPO DE ASIGNATURA. ECTS. Formación Básica. 90. Obligatorias. 240. Optativas. 6 *. Trabajo Fin de Grado. 24. Total. 360. * Incluye Prácticas ...",
+      "position": 4
+    },
+    {
+      "title": "Ficha del curso: 2024-2025 - Informática (UCM",
+      "link": "https://web.fdi.ucm.es/UCMFiles/pdf/Fichas_docentes/2024/fichas2024-2025_GC.pdf",
+      "snippet": "Específicas: No tiene. Básicas y Transversales: CB1-Que los estudiantes hayan demostrado poseer y comprender conocimientos en un área de estudio que parte ...",
+      "position": 5
+    },
+    {
+      "title": "FACULTAD DE INFORMÁTICA",
+      "link": "https://informatica.ucm.es/data/cont/media/www/pag-64266/GII-201011-MemoriaAnualSeguimiento.pdf",
+      "snippet": "la estructura del plan de estudios que publica la UCM en http://www.ucm ... Indicadores específicos de la Universidad Complutense de Madrid: 8. IUCM-1 ...",
+      "position": 6
+    },
+    {
+      "title": "CURSO 2019-20 - Informática (UCM",
+      "link": "https://informatica.ucm.es/file/19-20-informatica-gingenieria-informatica.pdf",
+      "snippet": "plan de estudios del Grado en Ingeniería Informática. El objetivo del cambio solicitado era dividir cada asignatura anual en dos asignaturas cuatrimestrales ...",
+      "position": 7
+    },
+    {
+      "title": "GUÍA DOCENTE - Informática (UCM",
+      "link": "https://web.fdi.ucm.es/Guias_Docentes/Guia%20docente%202012-13%20GIC.pdf",
+      "snippet": "... Complutense de Madrid. Facultad de Informática. GUÍA DOCENTE ... Ingeniería Informática, Grado en. Ingeniería de Computadores y Grado en Ingeniería del Software.",
+      "position": 8
+    },
+    {
+      "title": "FACULTAD DE INFORMÁTICA",
+      "link": "https://informatica.ucm.es/data/cont/media/www/pag-86285/memoriaGDV1516.pdf",
+      "snippet": "Memoria anual de seguimiento del grado en Desarrollo de Videojuegos. Facultad de Informática. Universidad Complutense de Madrid. - Análisis y aprobación de las ...",
+      "position": 9
+    },
+    {
+      "title": "Ficha del curso: 2024-2025 - Informática (UCM",
+      "link": "https://web.fdi.ucm.es/UCMFiles/pdf/FICHAS_DOCENTES/2024/8489.pdf",
+      "snippet": "Descripción de contenidos mínimos: Diseño avanzado de bases de datos relacionales. Integridad de los datos.",
+      "date": "20 nov 2024",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

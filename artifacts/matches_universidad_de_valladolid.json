@@ -1,0 +1,339 @@
+{
+  "university": "Universidad de Valladolid",
+  "city": "Valladolid",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://www.inf.uva.es/wp-content/uploads/2014/05/UVaGradoIngenieriaInformatica.pdf",
+    "https://www.inf.uva.es/wp-content/uploads/2012/04/UVaGradoInformaticaValladolid27072009V2.1.revisada.pdf",
+    "https://www.inf.uva.es/wp-content/uploads/2016/06/G46944.pdf",
+    "https://apps.stic.uva.es/guias_docentes/uploads/2021/551/46900/1/Documento.pdf"
+  ],
+  "preferred_domains": [
+    "uva.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 32.5,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Prácticas externas 12",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Prácticas externas 12",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "a. Nivel",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "de la memoria.",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "De Formación Básica",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Ingeniería Informática",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "de este estudio.",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "a Transferencia",
+      "method": "none",
+      "score": 63,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas diferentes: estadística y transferencia de datos."
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "numéricos; algorítmica numérica; estadística y optimización.",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "De Formación Básica",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "5.1 Estructura de las enseñanzas:",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "De Formación Básica",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, ya que 'Paradigmas de Programación' se enfoca en los enfoques y estilos de programación, mientras que 'De Formación Básica' no proporciona información clara sobre su contenido."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Ciencias de la salud",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Ingeniería y arquitectura X",
+      "method": "llm",
+      "score": 61,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de los sistemas computacionales."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "acceso a los Sistemas de información, incluidos los basados en web.",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de recursos y acceso a sistemas de información, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Ingeniería y arquitectura X",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y gestión de redes informáticas."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "de ámbito nacional e internacional:",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Temas diferentes, interacción hombre máquina se refiere a la interacción entre humanos y sistemas informáticos, mientras que el ámbito nacional e internacional no parece estar relacionado con este tema."
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "de datos y programas informáticos con aplicación en ingeniería.",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y almacenamiento de datos en sistemas informáticos."
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "de este estudio.",
+      "method": "none",
+      "score": 63,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - La asignatura B no parece estar relacionada con la gestión de bases de datos."
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "titulaciones de Informática.",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, ya que 'Sistemas de Información Transaccionales' se enfoca en sistemas de información transaccionales, mientras que 'titulaciones de Informática' parece referirse a la obtención de títulos en Informática."
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "propios de la ingeniería.",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la definición y análisis de los requisitos de un sistema de ingeniería."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "propios de la ingeniería.",
+      "method": "none",
+      "score": 61,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar más enfocada en conceptos generales de ingeniería, mientras que la asignatura A se enfoca en ingeniería de software específicamente."
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "propios de la ingeniería.",
+      "method": "none",
+      "score": 60,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, ya que 'Ingenieria de Software II' se enfoca en la ingeniería de software, mientras que 'propios de la ingeniería' es un título muy general y no proporciona información sobre el contenido específico de la asignatura."
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "De Elaboración de Proyectos",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "De Elaboración de Proyectos",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y ejecución de proyectos en el ámbito de la informática, aunque con ligeras variaciones en el nombre."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "De Elaboración de Proyectos",
+      "method": "llm",
+      "score": 73,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y gestión de proyectos, lo que sugiere una equivalencia temática"
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Organización y gestión de empresas.",
+      "method": "fuzzy",
+      "score": 92,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "investigación del ámbito TIC.",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la investigación en general, aunque la B se enfoca en TIC, que es un subcampo de la Informática."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "a Interés académico, científico o profesional del mismo.",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ética profesional en el ámbito académico y laboral."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "inteligentes y su aplicación práctica.",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a inteligencia artificial y su aplicación práctica."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "Tiempo Completo Tiempo Parcial",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas completamente diferentes."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Ingeniería y arquitectura X",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de sistemas informáticos"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "La custodia de los expedientes:",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "Graduado en",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Graduado en",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Desarrollo personal Historia y arqueología Protección de la propiedad y las menor",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Ciencias de la salud",
+      "method": "none",
+      "score": 74,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "c Previsión de profesorado y recursos humanos necesarios",
+      "method": "none",
+      "score": 49,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "Ciencias sociales y jurídicas",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "de ámbito nacional e internacional:",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la comprensión de la realidad nacional e internacional, lo que sugiere una equivalencia temática."
+    }
+  ]
+}

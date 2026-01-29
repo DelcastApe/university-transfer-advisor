@@ -1,0 +1,194 @@
+{
+  "university": "Universidad de Murcia",
+  "city": "Murcia",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Murcia grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Murcia grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "um.es"
+  ],
+  "selected": [
+    "https://www.um.es/web/estudios/grados/informatica/plan-guias",
+    "https://www.um.es/web/estudios/grados/matematicas-informatica/plan-guias",
+    "https://www.um.es/en/web/estudios/masteres/tecnologias-informatica/plan-guias",
+    "https://ditec.um.es/~fgarcia/FIUMadaptado.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.um.es/web/estudios/grados/informatica/plan-guias",
+      "domain": "www.um.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/web/estudios/grados/matematicas-informatica/plan-guias",
+      "domain": "www.um.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/en/web/estudios/masteres/tecnologias-informatica/plan-guias",
+      "domain": "www.um.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://ditec.um.es/~fgarcia/FIUMadaptado.pdf",
+      "domain": "ditec.um.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (ditec.um.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.um.es/web/estudios/grados/ciencia-ingenieria-datos/plan-guias",
+      "domain": "www.um.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/web/estudios/masteres/profesorado/plan-guias",
+      "domain": "www.um.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/web/estudios/grados/informatica",
+      "domain": "www.um.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/web/estudios/grados/informatica/informacion",
+      "domain": "www.um.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/documents/120586/22020323/MemoriaGradoIngenieriaInformatica%28Modif.2%29_Sede_electro%E2%95%A0%C3%BCnica.pdf/7062f3f3-aea4-bf39-3f08-282068b210ac?t=1610106268155",
+      "domain": "www.um.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1916/G/2024/E/html",
+      "domain": "api.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (api.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/documents/120586/13327772/grado_v3.pdf/9d8a30ec-3721-4a9e-91ab-6a7f56421e71",
+      "domain": "www.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1917/G/2025/E/html",
+      "domain": "api.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (api.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1917/G/2025/E/pdf",
+      "domain": "api.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (api.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/documents/120586/46374861/IFCAS_IndepEspec_EuroInf_2500494_UMU_GII_v7docx.pdf/5f86b75c-2d58-fd3b-9241-1324dd285897?t=1707766201879",
+      "domain": "www.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1612/G/2025/E/pdf/redirect",
+      "domain": "api.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (api.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/3887/G/2025/E/pdf/redirect",
+      "domain": "api.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (api.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.um.es/documents/877924/19433799/Grado+en+Ciencia+e+Ingenieria+de+Datos.pdf/20da9e06-c3b8-42da-b4c3-ef64530df251",
+      "domain": "www.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.um.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1916/G/2024/E/pdf/redirect",
+      "domain": "api.um.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (api.um.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

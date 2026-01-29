@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Granada",
+  "city": "Granada",
+  "links_used": [
+    "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/ingenieria-sistemas-informacion/guia-docente",
+    "https://grados.ugr.es/informatica/docencia/plan-estudios/programacion-tecnica-y-cientifica-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+    "https://grados.ugr.es/informatica/docencia/plan-estudios/tecnologias-emergentes-especialidad-ingenieria-computadores/guia-docente"
+  ],
+  "telemetry": [
+    {
+      "url": "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/ingenieria-sistemas-informacion/guia-docente",
+      "kind": "html",
+      "extracted_lines": 135,
+      "error": null
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/programacion-tecnica-y-cientifica-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+      "kind": "html",
+      "extracted_lines": 106,
+      "error": null
+    },
+    {
+      "url": "https://grados.ugr.es/informatica/docencia/plan-estudios/tecnologias-emergentes-especialidad-ingenieria-computadores/guia-docente",
+      "kind": "html",
+      "extracted_lines": 152,
+      "error": null
+    }
+  ]
+}

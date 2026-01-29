@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Universitat Politecnica de Valencia grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:upv.es OR site:epsa.upv.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática por la Universidad ...",
+      "link": "http://www.upv.es/titulaciones/GII/info/GII_mvi.pdf",
+      "snippet": "Con el fin de facilitar el ajuste de las asignaturas al plan de estudios el número de créditos de cada semestre podrá estar comprendido entre 27 y 33 ECTS.",
+      "position": 1
+    },
+    {
+      "title": "Guia Bienvenida ETSINF Curso 2025-2026",
+      "link": "https://www.upv.es/entidades/etsinf/wp-content/uploads/2025/06/ETSINF-Guia_25-26.pdf",
+      "snippet": "haciendo clic en “Plan de Estudios”, te aparecerán todas las asignaturas del Título, y, pinchando en una asignatura específica accederás a: − Guía docente. − ...",
+      "position": 2
+    },
+    {
+      "title": "Grado en Ingeniería Informática",
+      "link": "https://www.upv.es/titulaciones/GII/",
+      "snippet": "El plan de estudios contempla 48 ECTS para especialización. En la ETSINF se ofrecen cinco especializaciones: Ingeniería del Software, Ingeniería de Computadores ...",
+      "position": 3
+    },
+    {
+      "title": "Informe de gestión Grado en Ingeniería Informática por la ...",
+      "link": "https://www.upv.es/titulaciones/GII-A/info/U0955404.pdf",
+      "snippet": "UPV. Las guías docentes de las asignaturas de ambas materias ya contienen dichas competencias. Se procederá a incorporarlo a la memoria de.",
+      "date": "4 may 2023",
+      "position": 4
+    },
+    {
+      "title": "Informe de gestión Grado en Ingeniería Informática por la ...",
+      "link": "https://www.upv.es/titulaciones/GII-A/info/U0975066.pdf",
+      "snippet": "UPV a las materias del plan de estudios. La acción se da por finalizada una vez implementados los resultados de aprendizaje a las.",
+      "date": "1 ene 2024",
+      "position": 5
+    },
+    {
+      "title": "Informe de gestión Grado en Ingeniería Informática por la ...",
+      "link": "http://www.upv.es/titulaciones/GII/info/U0974921.pdf",
+      "snippet": "UPV a las materias del plan de estudios. Se ha establecido la matriz de CT y asignaturas punto de control, así como los resultados de aprendizaje (RA) que ...",
+      "position": 6
+    },
+    {
+      "title": "guia docente 2024-2025",
+      "link": "https://www.upv.es/titulaciones/GTDM/info/U0960283.pdf",
+      "snippet": "Esta asignatura toma como punto de partida el conocimiento adquirido en otras asignaturas del Grado y los aplica de forma conjunta para ...",
+      "date": "3 jun 2024",
+      "position": 7
+    },
+    {
+      "title": "GUIA DOCENTE 2019-2020",
+      "link": "https://www.upv.es/titulaciones/GITST/info/U0826976.pdf",
+      "snippet": "La asignatura de Sistemas de Comunicaciones Opticas, con una carga de 4.5 créditos, está ubicada en el cuarto curso. (cuatrimestre B) del Plan de Estudios.",
+      "position": 8
+    },
+    {
+      "title": "Informe de gestión Grado en Ingeniería Informática por la ...",
+      "link": "http://www.upv.es/titulaciones/GII-A/info/U0913384.pdf",
+      "snippet": "Asignatura 11675 \"Estructura de computadores\" de. 9 ECTS se divide en dos nuevas asignaturas de 4,5. ECTS cada una: Estructura de computadores I y. Estructura ...",
+      "position": 9
+    },
+    {
+      "title": "ETSINF",
+      "link": "https://jidinf.webs.upv.es/wp-content/uploads/2018/11/actasjidinf3.pdf",
+      "snippet": "Prólogo. Esta obra recoge la relación de trabajos dedicados al desarrollo de actividades docentes por parte del profesorado de la Escola.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

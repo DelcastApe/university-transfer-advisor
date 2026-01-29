@@ -1,0 +1,73 @@
+{
+  "searchParameters": {
+    "q": "Universidad Politecnica de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf pdf (site:upm.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Asignaturas del Plan de Estudios de Grado en Ingeniería ...",
+      "link": "https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas",
+      "snippet": "Para cada asignatura se indica su semestre principal. Plan: 10II-GRADO EN INGENIERÍA INFORMÁTICA. Curso: PRIMERO 1/1. Asignaturas básicas y obligatorias. Código ...",
+      "position": 1
+    },
+    {
+      "title": "Guías Docentes - Curso 2024-25 (61CI) - ETSISI",
+      "link": "https://www.etsisi.upm.es/estudios/grados/61ci/guias/curso-2024-25",
+      "snippet": "PRIMER CURSO Código Asignatura Guía Carácter ECTS Semestre 615000213 Análisis Matemático Básico 6 1º 615000214 Fundamentos de Computadores Básico 6 1º ...",
+      "position": 2
+    },
+    {
+      "title": "ANX-PR/CL/001-01 GUÍA DE APRENDIZAJE",
+      "link": "https://www.upm.es/comun_gauss/publico/guias/2025-26/1S/GA_10II_105000056_1S_2025-26.pdf",
+      "snippet": "El plan de estudios Grado en Ingenieria Informatica no tiene definidos otros conocimientos previos para esta asignatura. 4. Competencias y resultados de ...",
+      "position": 3
+    },
+    {
+      "title": "ASIGNATURAS",
+      "link": "https://www.fi.upm.es/docs/estudios/ingenieria_informatica/58_Plan96_08-09.pdf",
+      "snippet": "200. Informática Teórica. Troncal. Anual. 9. 201. Probabilidades y Estadística. Troncal. Cuatrimestral (1C). 6. 202. Tecnología de Computadores. Obligatoria.",
+      "position": 4
+    },
+    {
+      "title": "título: graduado/a en ingeniería informática por la universidad ...",
+      "link": "https://www.etsiinf.upm.es/docs/estudios/grado/901_Memoria_GII_Modificada_2021_02_version_definitiva.pdf",
+      "snippet": "La Facultad de Informática (FI) de la Universidad Politécnica de Madrid (UPM) inicia su andadura en octubre de 1977, siendo uno de los tres centros pioneros ...",
+      "position": 5
+    },
+    {
+      "title": "Guías Docentes - Curso 2024-25 (61SI) - etsisi-upm",
+      "link": "https://www.etsisi.upm.es/estudios/grados/61SI/guias/curso-2024-25",
+      "snippet": "Código, Asignatura, Guía, Carácter, ECTS, Semestre. 615000201, Análisis Matemático, Documento pdf, Básico, 6, 1º. 615000202, Fundamentos de Computadores ...",
+      "position": 6
+    },
+    {
+      "title": "1. Plan de estudios en Informática de Gestión ... - etsisi-upm",
+      "link": "https://www.etsisi.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+      "snippet": "1º. 0201. ALGORÍTMICA. 6. T+OB. 1º. 0202. ARQUITECTURA DE COMPUTADORES. 6. T+OB. 1º. 0203. ECONOMÍA Y GESTIÓN DE EMPRESAS.",
+      "position": 7
+    },
+    {
+      "title": "Guías Docentes - Curso 2024-25 (61TI) - etsisi-upm",
+      "link": "https://www.etsisi.upm.es/estudios/grados/61TI/guias/curso-2024-25",
+      "snippet": "Código, Asignatura, Guía, Carácter, ECTS, Semestre. 615000701, Análisis Matemático, Documento pdf, Básico, 6, 1º. 615000704, Fundamentos de Computadores ...",
+      "position": 8
+    },
+    {
+      "title": "Programación I",
+      "link": "https://www.fi.upm.es/docs/estudios/grado/1703_Prog_I_14-15.pdf",
+      "snippet": "La asignatura Programación I forma parte de los planes de estudios de Grado en. Ingeniería Informática y Grado en Matemáticas e Informática que se imparten en ...",
+      "position": 9
+    },
+    {
+      "title": "Guía del curso académico",
+      "link": "https://www.fi.upm.es/docs/estudios/4_Guia_curso_09-10_plan96.pdf",
+      "snippet": "I. Reseña Histórica. 9. II. Autoridades Académicas. 13. III. Información Académica. 25. Plan de Estudios 96. 27. Temario.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

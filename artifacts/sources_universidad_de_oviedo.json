@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Oviedo",
+  "city": "Oviedo",
+  "links_used": [
+    "https://ingenieriainformatica.uniovi.es/infoacademica/grado",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-3-003"
+  ],
+  "telemetry": [
+    {
+      "url": "https://ingenieriainformatica.uniovi.es/infoacademica/grado",
+      "kind": "html",
+      "extracted_lines": 135,
+      "error": null
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware",
+      "kind": "html",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-3-003",
+      "kind": "html",
+      "extracted_lines": 233,
+      "error": null
+    }
+  ]
+}

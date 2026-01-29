@@ -1,0 +1,29 @@
+{
+  "university": "Universitat Autonoma de Barcelona",
+  "city": "Barcelona",
+  "links_used": [
+    "https://ddd.uab.cat/pub/memtit/2010/149675/MemoriaWeb_GrauEnginyeriaInformatica_022020.pdf",
+    "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_102024.pdf",
+    "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_092017.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2010/149675/MemoriaWeb_GrauEnginyeriaInformatica_022020.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_102024.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://ddd.uab.cat/pub/memtit/2017/190649/MemoriaWebGrauEngDades_092017.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    }
+  ]
+}

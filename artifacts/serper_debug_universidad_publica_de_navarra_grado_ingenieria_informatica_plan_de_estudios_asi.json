@@ -1,0 +1,73 @@
+{
+  "searchParameters": {
+    "q": "Universidad Publica de Navarra grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:unavarra.es OR site:upna.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática - Asignaturas y profesorado",
+      "link": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/asignaturas-y-profesorado.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano (posibilidad de asignaturas en euskera e inglés) · Créditos: 240 ECTS · Duración: 4 cursos (8 semestres) · Plazas: 100 ...",
+      "position": 1
+    },
+    {
+      "title": "Grado en Ingeniería Informática - Plan de estudios",
+      "link": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/plan-de-estudios.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano (posibilidad de asignaturas en euskera e inglés) · Créditos: 240 ECTS · Duración: 4 cursos (8 semestres) · Plazas: 100 ...",
+      "position": 2
+    },
+    {
+      "title": "Grado en Ciencias - Plan de estudios",
+      "link": "https://www.unavarra.es/sites/grados/ciencias/ciencias/plan-de-estudios.html",
+      "snippet": "240 ECTS Duración: 4 cursos (8 semestres) Asignatura Carácter ECTS 504401. Total cuarto curso: 60 ECTS",
+      "position": 3
+    },
+    {
+      "title": "Grado en Ingeniería en Tecnologías de Telecomunicación",
+      "link": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/plan-de-estudios.html",
+      "snippet": "Definición general del plan de estudios. GRADO EN INGENIERÍA EN TECNOLOGÍAS DE TELECOMUNICACIÓN. PLAN 243: DISTRIBUCIÓN DE CRÉDITOS. Materias, ECTS. Formación ...",
+      "position": 4
+    },
+    {
+      "title": "Grado en Tecnologías Industriales - Asignaturas y ...",
+      "link": "https://www.unavarra.es/sites/grados/industriales/tecnologias-industriales/asignaturas-y-profesorado.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano (posibilidad de asignaturas en euskera e inglés) · Créditos: 240 ECTS · Duración: 4 cursos (8 semestres) · Plazas: 115 ...",
+      "position": 5
+    },
+    {
+      "title": "Grado en Ciencia de Datos - Asignaturas y profesorado",
+      "link": "https://www.unavarra.es/sites/grados/ciencias/ciencia-de-datos/asignaturas-y-profesorado.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano · Créditos: 240 · Duración: 4 años (8 semestres) · Plazas: 30 · Responsable académico: Cristina Azcárate Camio · Centro: ...",
+      "position": 6
+    },
+    {
+      "title": "Grado en Maestro en Educación Primaria - Asignaturas y ...",
+      "link": "https://www.unavarra.es/sites/grados/educacion/maestro-educacion-primaria/asignaturas-y-profesorado.html",
+      "snippet": "Este grado se puede cursar en: Castellano (grado íntegro en castellano); Euskera (grado íntegro en euskera). Créditos: 240 ECTS; Duración: 4 cursos (8 ...",
+      "position": 7
+    },
+    {
+      "title": "Grado en Tecnologías Industriales - Plan de estudios",
+      "link": "https://www.unavarra.es/sites/grados/industriales/tecnologias-industriales/plan-de-estudios.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano (posibilidad de asignaturas en euskera e inglés) · Créditos: 240 ECTS · Duración: 4 cursos (8 semestres) · Plazas: 115 ...",
+      "position": 8
+    },
+    {
+      "title": "Grado en Ciencia de Datos - Plan de estudios",
+      "link": "https://www.unavarra.es/sites/grados/ciencias/ciencia-de-datos/plan-de-estudios.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano · Créditos: 240 · Duración: 4 años (8 semestres) · Plazas: 30 · Responsable académico: Cristina Azcárate Camio · Centro: ...",
+      "position": 9
+    },
+    {
+      "title": "Grado en Ingeniería Biomédica - Plan de estudios",
+      "link": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-biomedica/plan-de-estudios.html",
+      "snippet": "Modalidad: presencial · Idioma: castellano · Créditos: 240 ECTS · Duración: 4 cursos (8 semestres) · Plazas: 30 · Responsable académico: Mikel Ariz Galilea · Centro: ...",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

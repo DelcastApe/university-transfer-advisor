@@ -1,0 +1,142 @@
+{
+  "university": "Universidad Publica de Navarra",
+  "city": "Pamplona",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad Publica de Navarra grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad Publica de Navarra grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "unavarra.es",
+    "upna.es"
+  ],
+  "selected": [
+    "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/plan-de-estudios.html",
+    "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/plan-de-estudios.html",
+    "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-biomedica/plan-de-estudios.html",
+    "https://www.unavarra.es/sites/grados/ciencias/ciencias/plan-de-estudios.html"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/plan-de-estudios.html",
+      "domain": "www.unavarra.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-telecomunicacion/plan-de-estudios.html",
+      "domain": "www.unavarra.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-biomedica/plan-de-estudios.html",
+      "domain": "www.unavarra.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/ciencias/ciencias/plan-de-estudios.html",
+      "domain": "www.unavarra.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/industriales/tecnologias-industriales/plan-de-estudios.html",
+      "domain": "www.unavarra.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/ciencias/ciencia-de-datos/plan-de-estudios.html",
+      "domain": "www.unavarra.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/asignaturas-y-profesorado.html",
+      "domain": "www.unavarra.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'asignaturas'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-biomedica/asignaturas-y-profesorado.html",
+      "domain": "www.unavarra.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'asignaturas'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/industriales/tecnologias-industriales/asignaturas-y-profesorado.html",
+      "domain": "www.unavarra.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'asignaturas'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/ciencias/ciencia-de-datos/asignaturas-y-profesorado.html",
+      "domain": "www.unavarra.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'asignaturas'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.unavarra.es/sites/grados/educacion/maestro-educacion-primaria/asignaturas-y-profesorado.html",
+      "domain": "www.unavarra.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (www.unavarra.es)",
+        "+40 contiene 'asignaturas'"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

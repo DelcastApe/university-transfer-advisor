@@ -1,0 +1,80 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Granada grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:ugr.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "TÍTULO: GRADO EN INGENIERÍA INFORMÁTICA ...",
+      "link": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/Ingenieria-Informatica271109.pdf",
+      "snippet": "El plan de estudios del Grado en Ingeniería Informática por la Universidad de Granada constituye una ... Distribución del plan de estudios en créditos ECTS ...",
+      "position": 1
+    },
+    {
+      "title": "Guía docente de Informática Gráfica (4961133) - Grados UGR",
+      "link": "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/informatica-grafica/guia-docente",
+      "snippet": "Guía docente de Informática Gráfica (4961133) · Grado · Rama · Módulo · Materia · Year of study · Semestre · ECTS Credits · Tipo.",
+      "date": "24 jun 2025",
+      "position": 2
+    },
+    {
+      "title": "Modificación del título de Graduado/a en Ingeniería Informática",
+      "link": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/BOUGR/191/CABECERAS%20191_4.pdf",
+      "snippet": "estudios oficiales de Grado de la Universidad de Granada. ... planes de estudio y las guías docentes de todos los títulos de Grado por la.",
+      "date": "1 mar 2023",
+      "position": 3
+    },
+    {
+      "title": "Guía docente de Aprendizaje Automático (Especialidad ...",
+      "link": "https://grados.ugr.es/informatica/docencia/plan-estudios/aprendizaje-automatico-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+      "snippet": "Tema 1: Conceptos básicos del Aprendizaje Automático · Tema 2: Aprendizaje Supervisado. · Tema 3: Ingeniería de Características y Preprocesamiento ...",
+      "date": "30 jun 2025",
+      "position": 4
+    },
+    {
+      "title": "Modelo normalizado de ficha para asignaturas",
+      "link": "https://icar.ugr.es/sites/dpto/atc/public/inline-files/GuiasDocentes_20_21/gii_tecno_organizacion_comput_2020-2021.pdf",
+      "snippet": "GUIA DOCENTE DE LA ASIGNATURA (∾) ... *Grado en Ingeniería Informática (se imparte en 2º ... El título de Graduado/a en Ingeniería Informática de la Universidad de ...",
+      "position": 5
+    },
+    {
+      "title": "Destinos Erasmus- Grado en Ingeniería Informática",
+      "link": "https://etsiit.ugr.es/movilidad/programas/internacional/salientes/destinos-erasmus-2019-2020/grado-informatica",
+      "snippet": "Sólo para estudiantes de último curso. Sólo puede cursarse su noveno semestre (primer cuatrimestre UGR). No permiten asignaturas sueltas. Información on-line(I)",
+      "position": 6
+    },
+    {
+      "title": "Máster en Ciencia de Datos e Ingeniería de Computadores",
+      "link": "https://digibug.ugr.es/bitstream/10481/36565/1/T1_N5_Revista_EAIC_2015.pdf",
+      "snippet": "Resumen. En el curso 2014-2015 se ha impartido por vez primera el “Máster en Ciencia de Datos e Ingeniería de Computadores” en la Universidad de. Granada.",
+      "date": "por F Rojas",
+      "position": 7
+    },
+    {
+      "title": "Guía docente de Compresión y Recuperación de Información ...",
+      "link": "https://grados.ugr.es/informatica/docencia/plan-estudios/compresion-y-recuperacion-informacion-multimedia-especialidad-tecnologias-la-informacion/guia-docente",
+      "snippet": "Guía docente de Compresión y Recuperación de Información Multimedia (Especialidad Tecnologías de la Información) (29611FC) · Grado · Rama · Módulo.",
+      "date": "30 jun 2025",
+      "position": 8
+    },
+    {
+      "title": "Modificación del título de Graduado/a en Ingeniería ...",
+      "link": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/BOUGR/191/CABECERAS%20191_5.pdf",
+      "snippet": "Esta materia pertenece al Plan de Estudios del Grado en Ingeniería. Informática y se oferta también para este Grado. Materia 24: Complementos ...",
+      "date": "1 mar 2023",
+      "position": 9
+    },
+    {
+      "title": "GUÍA DOCENTE 2008-2009",
+      "link": "http://www.ugr.es/~ecaminos/files/Guia2008-2009.pdf",
+      "snippet": "Guía docente. 33. 3.7. Fichas docentes. Asignaturas correspondientes al plan de estudios de Ingeniero de Caminos, Canales y. Puertos Plan ...",
+      "date": "29 sept 2008",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

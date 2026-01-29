@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Universitat Politecnica de Catalunya grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:upc.edu OR site:fib.upc.edu)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Especialidades | Facultad de Informática de Barcelona",
+      "link": "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/especialidades",
+      "snippet": "Cada especialidad está constituida por ocho asignaturas de 6 créditos ECTS. Seis asignaturas de la especialidad son obligatorias de la especialidad. Las otras ...",
+      "position": 1
+    },
+    {
+      "title": "Graduado o Graduada en Ingeniería Informática",
+      "link": "https://www.upc.edu/bupc/hemeroteca/2009/b119/12-11-09.pdf",
+      "snippet": "estudios de Grado se publicará en las guías docentes de las asignaturas previa aprobación por el Consejo de Gobierno de la UPC. Los ...",
+      "date": "21 jul 2008",
+      "position": 2
+    },
+    {
+      "title": "Plan de estudios y Guía docente",
+      "link": "https://epsem.upc.edu/ca/estudis/estudis-en-extincio/plan-de-estudios-y-guia-docente-electronica.pdf",
+      "snippet": "Plan de estudios y Guía docente — Escuela Politécnica Superior de Ingeniería de Manresa — UPC. ... asignatura de Fundamentos de Informática. Page 115. Última ...",
+      "position": 3
+    },
+    {
+      "title": "1. DESCRIPCIÓN DEL TÍTULO",
+      "link": "https://www.fib.upc.edu/sites/fib/files/documents/fib/qualitat-memoria-verifica-miri-es.pdf",
+      "snippet": "Hasta un máximo de 30 ECTS en asignaturas del Grado en Ingeniería Informática de modo que se garantice la adquisición de las competencias que se describen ...",
+      "position": 4
+    },
+    {
+      "title": "1. DESCRIPCIÓN DEL TÍTULO",
+      "link": "https://www.fib.upc.edu/sites/fib/files/documents/fib/qualitat-memoria-verifica-mei-es.pdf",
+      "snippet": "Hasta un máximo de 30 ECTS en asignaturas del Grado en Ingeniería Informática ... Los 60 ECTS obligatorios de asignaturas del plan de estudios ...",
+      "date": "7 jul 2011",
+      "position": 5
+    },
+    {
+      "title": "Organización y gestión de una titulación del EEES",
+      "link": "https://upcommons.upc.edu/bitstreams/f2d3f3b3-e372-4657-b003-93e722353ce4/download",
+      "snippet": "por F Sánchez · Mencionado por 13 — proceso, el plan de estudios de Grado en. Ingeniería Informática se ha diseñado siguiendo el modelo descrito en esta sección. Las secciones posteriores ...",
+      "position": 6
+    },
+    {
+      "title": "Revisió: 07.07.2011 1. DESCRIPCIÓN DEL TÍTULO ...",
+      "link": "https://www.fib.upc.edu/sites/fib/files/documents/fib/qualitat-memoria-verifica-mai-es.pdf",
+      "snippet": "Van entre 0 y 30 ECTS de un Grado de Ingeniería Informática, dependiendo de la titulación de ingreso, ya sea de grado o de la anterior ...",
+      "date": "7 jul 2011",
+      "position": 7
+    },
+    {
+      "title": "Plan de estudios y Guía docente",
+      "link": "https://epsem.upc.edu/ca/estudis/estudis-en-extincio/plan-de-estudios-y-guia-docente-mecanica.pdf",
+      "snippet": "Plan de estudios y Guía docente — Escuela Politécnica Superior de Ingeniería de Manresa — UPC. ... Barcelona: Edicions UPC, Universitat Politècnica de Catalunya,.",
+      "position": 8
+    },
+    {
+      "title": "Capítulo 21 Competencias Profesionales del Grado en ...",
+      "link": "https://upcommons.upc.edu/bitstreams/b7ae5606-bde4-4c1e-ba1e-ac31f979ce28/download",
+      "snippet": "por F Sánchez Carracedo · 2009 — Barcelona (FIB) de la Universitat Politècnica de Catalunya. (UPC) para la titulación de Grado en Ingeniería Informática. El resto del artículo se organiza de ...",
+      "position": 9
+    },
+    {
+      "title": "Máster universitario en Ingeniería Informática",
+      "link": "https://www.upc.edu/master/es/295/master-universitario-en-ingenieria-informatica.pdf",
+      "snippet": "Consulta el idioma de impartición de cada asignatura en la guía docente dentro del plan de estudios. Información sobre el uso de lenguas en el aula y los ...",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

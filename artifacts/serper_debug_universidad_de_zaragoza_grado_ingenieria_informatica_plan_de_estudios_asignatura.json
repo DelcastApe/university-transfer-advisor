@@ -1,0 +1,74 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Zaragoza grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:unizar.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Guia Docente",
+      "link": "https://zaguan.unizar.es/record/138873/files/guia-30274-es.pdf;",
+      "snippet": "Según lo dispuesto en la memoria de verificación del Grado en Ingeniería Informática, y de acuerdo con su duración, las asignaturas de prácticas académicas ...",
+      "position": 1
+    },
+    {
+      "title": "Graduado o Graduada en Ingeniería Informática",
+      "link": "http://webdiis.unizar.es/areas/ISA/wp-content/uploads/2010/09/MemoriaGradoInformaticaFinalv3211009.pdf",
+      "snippet": "El plan del Grado en Ingeniería Informática por la Universidad de Zaragoza constituye una oferta integrada que permitirá a sus titulados ejercer la ...",
+      "position": 2
+    },
+    {
+      "title": "30210 - Sistemas operativos",
+      "link": "https://sia.unizar.es/documentos/doa/guiadocente/2025/30210_es.pdf",
+      "snippet": "Esta es la primera asignatura de sistemas operativos del grado de informática. ... plan de estudios. Se recomienda haber cursado y aprobado las asignaturas ...",
+      "position": 3
+    },
+    {
+      "title": "El plan de estudios (asignaturas)",
+      "link": "http://tsc1.cps.unizar.es/gradoteleco/wp-content/uploads/2019/09/J_BienvTel_2019_2.pdf",
+      "snippet": "✓ Más información sobre asignaturas en las Guías Docentes: http://titulaciones.unizar.es/ing-tec-serv-Telecomunicacion /cuadro_asignaturas.html. Page 15 ...",
+      "position": 4
+    },
+    {
+      "title": "Grado en Ingeniería Civil 28702 - Informática",
+      "link": "https://zaguan.unizar.es/record/44758/files/guia.pdf",
+      "snippet": "En esta asignatura, principalmente se pretende continuar la formación del alumno en las Tecnologías de Información y. Comunicación (TIC).",
+      "position": 5
+    },
+    {
+      "title": "Consulta de Guías Docentes - Universidad de Zaragoza",
+      "link": "https://sia.unizar.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2019&_codAsignatura=29984",
+      "snippet": "1.1. Objetivos de la asignatura · Conocer la historia de la fotografía y su papel en la contemporaneidad y el discurso moderno. · Conocer los usos de la imagen no ...",
+      "position": 6
+    },
+    {
+      "title": "Informe de Evaluación de la Calidad — Grado en Ingeniería ...",
+      "link": "https://estudios.unizar.es/pdf/informes/2023/informe-es-148-v2.pdf",
+      "snippet": "̶Web de la titulación del Grado en Ingeniería Informática (https://estudios.unizar.es/estudio/ver? id=148). ̶Web del Programa Conjunto en ...",
+      "date": "30 ene 2025",
+      "position": 7
+    },
+    {
+      "title": "1. DESCRIPCIÓN DEL TÍTULO - Información académica",
+      "link": "http://academico.unizar.es/sites/academico/files/archivos/ofiplan/informapublica/Ing_Datos/ingenieria_datos.pdf",
+      "snippet": "PLAZAS DE NUEVO INGRESO OFERTADAS. PRIMER AÑO IMPLANTACIÓN. SEGUNDO AÑO IMPLANTACIÓN TERCER AÑO IMPLANTACIÓN. 60. 60. 60. CUARTO AÑO IMPLANTACIÓN.",
+      "position": 8
+    },
+    {
+      "title": "Consulta de Guías Docentes - Universidad de Zaragoza",
+      "link": "https://sia.unizar.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2019&_codAsignatura=29977",
+      "snippet": "Información del Plan Docente. Año académico: 2019 ... 439 - Graduado en Ingeniería Informática: 4 476 - Asignaturas optativas transversales grados EINA: XX",
+      "position": 9
+    },
+    {
+      "title": "MANUAL DE BIENVENIDA FCSH - Facultad de Ciencias Sociales y ...",
+      "link": "https://fcsh.unizar.es/sites/fcsh/files/archivos/PDI/manual_bienvenida_pdi_fcsh_29.08.25.pdf",
+      "snippet": "Recibe nuestra bienvenida como docente a la Facultad de Ciencias Sociales y. Humanas (en adelante FCSH) de la Universidad de Zaragoza, en el Campus de Teruel.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

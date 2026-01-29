@@ -1,0 +1,139 @@
+{
+  "university": "Universitat Politecnica de Valencia",
+  "city": "Valencia",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universitat Politecnica de Valencia grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universitat Politecnica de Valencia grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "upv.es",
+    "epsa.upv.es"
+  ],
+  "selected": [
+    "http://www.upv.es/titulaciones/GII/info/GII_mvi.pdf",
+    "https://www.upv.es/entidades/etsinf/wp-content/uploads/2025/06/ETSINF-Guia_25-26.pdf",
+    "https://www.upv.es/titulaciones/GII-A/info/U0955404.pdf",
+    "https://www.upv.es/titulaciones/GII-A/info/U0975066.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "http://www.upv.es/titulaciones/GII/info/GII_mvi.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/entidades/etsinf/wp-content/uploads/2025/06/ETSINF-Guia_25-26.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/titulaciones/GII-A/info/U0955404.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/titulaciones/GII-A/info/U0975066.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://www.upv.es/titulaciones/GII-A/info/U0913384.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/titulaciones/GITST/info/U0826976.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://www.upv.es/titulaciones/GII/info/U0974921.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/entidades/etsinf/wp-content/uploads/2024/01/UPV-ETSINF-GIINF-Informe-2023-1.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/titulaciones/GTDM/info/U0960283.pdf",
+      "domain": "www.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://jidinf.webs.upv.es/wp-content/uploads/2018/11/actasjidinf3.pdf",
+      "domain": "jidinf.webs.upv.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (jidinf.webs.upv.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upv.es/titulaciones/GII/",
+      "domain": "www.upv.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upv.es/titulaciones/GDMATINF/indexc.html",
+      "domain": "www.upv.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.upv.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

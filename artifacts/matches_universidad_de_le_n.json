@@ -65,8 +65,8 @@
       "best_match": "MATEMATICA DISCRETA",
       "method": "none",
       "score": 61,
-      "llm_conf": 0.0,
-      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas de Estadistica Descriptiva y Matematica Discreta son temas diferentes en el campo de la Ingenieria Informatica."
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas de Estadistica Descriptiva y Matematica Discreta son temas diferentes en el campo de la Ingenieria Informatica."
     },
     {
       "my_course": "Estadistica Inferencial",
@@ -74,7 +74,7 @@
       "method": "none",
       "score": 56,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tratar temas diferentes, estadística inferencial se enfoca en el análisis de datos y la toma de decisiones, mientras que sugerencias de difusión parece estar relacionada con marketing o publicidad."
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar relacionada con marketing o publicidad, mientras que la asignatura A se enfoca en estadística y análisis de datos."
     },
     {
       "my_course": "Algoritmia y Programacion",
@@ -114,7 +114,7 @@
       "method": "llm",
       "score": 64,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a la planificación y diseño de software, aunque con diferentes enfoques."
+      "reason": "Ambas asignaturas se refieren a la planificación y diseño de software, aunque con nombres ligeramente diferentes."
     },
     {
       "my_course": "Arquitectura de Computadoras",
@@ -178,7 +178,7 @@
       "method": "llm",
       "score": 68,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas parecen estar relacionadas con el desarrollo y planificación de software, lo que sugiere una equivalencia temática."
+      "reason": "Ambas asignaturas se relacionan con la planificación y diseño de software, aunque con enfoques diferentes."
     },
     {
       "my_course": "Ingenieria de Software I",
@@ -226,7 +226,7 @@
       "method": "none",
       "score": 61,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, ya que 'Organizacion y Gestion de Empresas' se enfoca en la estructura y gestión de empresas, mientras que 'Órganos de Representación' se refiere a la estructura de representación en organizaciones."
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, la primera se enfoca en la estructura y gestión de empresas, mientras que la segunda se enfoca en los órganos de representación, lo que sugiere una diferencia en su enfoque y contenido."
     },
     {
       "my_course": "Metodologia de la Investigacion",
@@ -234,7 +234,7 @@
       "method": "none",
       "score": 67,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar más relacionada con la gestión de la investigación en la universidad, en lugar de la metodología de la investigación en sí."
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar más relacionada con la gestión de la investigación en una universidad, en lugar de la metodología de la investigación en sí."
     },
     {
       "my_course": "Deontologia Profesional",
@@ -258,7 +258,7 @@
       "method": "none",
       "score": 71,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con temas diferentes, la percepción computacional se enfoca en la interpretación de la información visual, mientras que la computación grid y supercomputación se enfoca en el procesamiento de grandes cantidades de datos en paralelo."
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con temas diferentes, la percepción computacional se enfoca en la interpretación de la información visual por parte de los sistemas computacionales, mientras que la computación grid y supercomputación se enfoca en el uso de recursos computacionales distribuidos y potentes para resolver problemas complejos."
     },
     {
       "my_course": "Arquitectura de Sistemas",
@@ -273,8 +273,8 @@
       "best_match": "Cursos de Verano",
       "method": "none",
       "score": 55,
-      "llm_conf": 0.0,
-      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tener temas completamente diferentes"
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, ya que 'Customer Development' se refiere a la creación de productos o servicios para clientes, mientras que 'Cursos de Verano' se refiere a programas educativos de verano."
     },
     {
       "my_course": "Lenguaje I",
@@ -306,7 +306,7 @@
       "method": "none",
       "score": 55,
       "llm_conf": 0.0,
-      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente distintos"
     },
     {
       "my_course": "Ciudadania y Derechos Humanos",
@@ -330,7 +330,7 @@
       "method": "none",
       "score": 56,
       "llm_conf": 0.0,
-      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas muy diferentes: la realidad nacional y regional es un tema de ciencias sociales, mientras que la computación neuronal y evolutiva es un tema de inteligencia artificial y ciencia de la computación."
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas muy diferentes: la realidad nacional y regional es un tema político-social, mientras que la computación neuronal y evolutiva es un tema de inteligencia artificial y aprendizaje automático."
     }
   ]
 }

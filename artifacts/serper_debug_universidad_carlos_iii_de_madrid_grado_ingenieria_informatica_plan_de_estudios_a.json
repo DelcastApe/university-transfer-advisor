@@ -1,0 +1,74 @@
+{
+  "searchParameters": {
+    "q": "Universidad Carlos III de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:uc3m.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática",
+      "link": "https://www.uc3m.es/grado/informatica",
+      "snippet": "El plan de estudios permite profundizar en distintos ámbitos: la Computación orientada a la Inteligencia Artificial; la Ingeniería de Computadoras dirigida al ...",
+      "position": 1
+    },
+    {
+      "title": "memoria de verificación del máster universitario en ...",
+      "link": "https://www.uc3m.es/cld/media/cld/doc/archivo/doc_mem_ing-informatica/memoria-modificacion-ing.-informatica-2022_23-v3-2.pdf",
+      "snippet": "El plan de estudios del Máster en Ingeniería Informática de la Universidad Carlos III de. Madrid incluye una propuesta de formación diseñada con una ...",
+      "date": "de N MECES",
+      "position": 2
+    },
+    {
+      "title": "el modelo docente de la uc3m del curso 2020-21",
+      "link": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Acta_del_Consejo_de_Gobierno_del_15_de_junio_de_2020%3A_Plan_docente_UC3M_2020%2F2021.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371573562139&ssbinary=true",
+      "snippet": "MODELO DOCENTE DEL CURSO ACADÉMICO 2020-21. La Universidad Carlos III de Madrid es de naturaleza presencial, aunque debido a la emergencia sanitaria ...",
+      "position": 3
+    },
+    {
+      "title": "Ciencia y Tecnología Informática",
+      "link": "https://www.uc3m.es/doctorado/ciencia-tecnologia-informatica",
+      "snippet": "La Universidad Carlos III de Madrid, a través de su Escuela de Doctorado, establece los procedimientos de seguimiento para garantizar la calidad de la formación ...",
+      "position": 4
+    },
+    {
+      "title": "impreso solicitud para verificación de títulos oficiales 1. ...",
+      "link": "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_informatica/memoria-informatica_def_2025-1.pdf",
+      "snippet": "Grado. Graduado o Graduada en Ingeniería Informática /. Bachelor in Computer Science and Engineering por la Universidad Carlos III de Madrid. No. Ver Apartado 1 ...",
+      "position": 5
+    },
+    {
+      "title": "2503783 - Grado en Ciencia e Ingeniería de Datos",
+      "link": "https://www.uc3m.es/calidad/media/calidad/doc/archivo/doc_acre23-autoinforme-gr-ciencia-ingenieria-datos/10-informe-autoevaluacion_-2503783---grado-en-ciencia-e-ingenieria-de-datos.pdf",
+      "snippet": "INTRODUCCIÓN.- La redacción de este apartado se realizará conforme a las indicaciones señaladas en la Guía de evaluación para la renovación de la ...",
+      "position": 6
+    },
+    {
+      "title": "5. Planificación de las Enseñanzas",
+      "link": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Syllabus_content.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371577089586&ssbinary=true",
+      "snippet": "El plan de estudios del Máster en Ingeniería Estructural de Construcciones ... La Universidad Carlos III de Madrid dispone de un Sistema de Garantía.",
+      "position": 7
+    },
+    {
+      "title": "IMPRESO SOLICITUD PARA VERIFICACIÓN DE TÍTULOS ...",
+      "link": "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_ciencia-ingenieria-de-datos/memoria-ceidatos_def_2025-2.pdf",
+      "snippet": "El grado en Ciencia e Ingeniería de Datos combina conocimientos de matemáticas, estadística, informática y telecomunicaciones sobre los que cons-.",
+      "position": 8
+    },
+    {
+      "title": "Curriculum Vitae",
+      "link": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=attachment%3B+filename%3D%22cv_Jose_manuel_molina_lopez.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371546199672&ssbinary=true",
+      "snippet": "Evaluación Continúa de los objetivos de aprendizaje de conocimiento, de aplicación, de análisis y de diseño de Sistemas de Información para la asignatura.",
+      "position": 9
+    },
+    {
+      "title": "Grado en Ciencia e Ingeniería de Datos",
+      "link": "https://www.uc3m.es/grado/datos",
+      "snippet": "Grado en Ciencia e Ingeniería de Datos. Grados · Estudios de Grado; Grado en Ciencia e Ingeniería de Datos. Duración: 4 años (240 créditos); Centro.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

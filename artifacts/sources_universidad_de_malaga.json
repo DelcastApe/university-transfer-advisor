@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Malaga",
+  "city": "Malaga",
+  "links_used": [
+    "https://www.uma.es/grado-en-ingenieria-informatica/cms/menu/informacion-grado/plan-de-estudios/",
+    "https://www.uma.es/relaciones-internacionales/navegador_de_ficheros/Incoming/descargar/2324/2324-Asignaturas_en_ingles.pdf",
+    "https://www.uma.es/grado-en-ingenieria-de-computadores/cms/menu/informacion-grado/plan-de-estudios/"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-informatica/cms/menu/informacion-grado/plan-de-estudios/",
+      "kind": "html",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.uma.es/relaciones-internacionales/navegador_de_ficheros/Incoming/descargar/2324/2324-Asignaturas_en_ingles.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.uma.es/grado-en-ingenieria-de-computadores/cms/menu/informacion-grado/plan-de-estudios/",
+      "kind": "html",
+      "extracted_lines": 300,
+      "error": null
+    }
+  ]
+}

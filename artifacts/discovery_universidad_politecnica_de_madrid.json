@@ -1,0 +1,154 @@
+{
+  "university": "Universidad Politecnica de Madrid",
+  "city": "Madrid",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf",
+  "queries_used": [
+    "Universidad Politecnica de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf",
+    "Universidad Politecnica de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf pdf"
+  ],
+  "preferred_domains": [
+    "upm.es"
+  ],
+  "selected": [
+    "https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas",
+    "https://www.fi.upm.es/docs/estudios/ingenieria_informatica/58_Plan96_08-09.pdf",
+    "https://www.eui.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+    "https://www.etsisi.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+    "https://www.fi.upm.es/docs/estudios/4_Guia_curso_09-10_plan96.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas",
+      "domain": "www.fi.upm.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.fi.upm.es)",
+        "+40 contiene 'asignaturas'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.fi.upm.es/docs/estudios/ingenieria_informatica/58_Plan96_08-09.pdf",
+      "domain": "www.fi.upm.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (www.fi.upm.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.eui.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+      "domain": "www.eui.upm.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (www.eui.upm.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.etsisi.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+      "domain": "www.etsisi.upm.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (www.etsisi.upm.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fi.upm.es/docs/estudios/4_Guia_curso_09-10_plan96.pdf",
+      "domain": "www.fi.upm.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (www.fi.upm.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upm.es/comun_gauss/publico/guias/2025-26/1S/GA_10II_105000056_1S_2025-26.pdf",
+      "domain": "www.upm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.etsiinf.upm.es/docs/estudios/grado/901_Memoria_GII_Modificada_2021_02_version_definitiva.pdf",
+      "domain": "www.etsiinf.upm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.etsiinf.upm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upm.es/comun_gauss/publico/guias/2025-26/1S/GA_10ID_105000352_1S_2025-26.pdf",
+      "domain": "www.upm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upm.es/comun_gauss/publico/guias/2025-26/1S/GA_10II_105000456_1S_2025-26.pdf",
+      "domain": "www.upm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fi.upm.es/docs/estudios/grado/1703_Prog_I_14-15.pdf",
+      "domain": "www.fi.upm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.fi.upm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.etsisi.upm.es/estudios/grados/61ci/guias/curso-2024-25",
+      "domain": "www.etsisi.upm.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.etsisi.upm.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.etsisi.upm.es/estudios/grados/61TI/guias/curso-2024-25",
+      "domain": "www.etsisi.upm.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.etsisi.upm.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.etsisi.upm.es/estudios/grados/61SI/guias/curso-2024-25",
+      "domain": "www.etsisi.upm.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.etsisi.upm.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

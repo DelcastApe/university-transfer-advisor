@@ -1,0 +1,146 @@
+{
+  "university": "Universidad de Zaragoza",
+  "city": "Zaragoza",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Zaragoza grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Zaragoza grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "unizar.es"
+  ],
+  "selected": [
+    "http://academico.unizar.es/sites/academico/files/archivos/ofiplan/informapublica/Ing_Datos/ingenieria_datos.pdf",
+    "http://webdiis.unizar.es/areas/ISA/wp-content/uploads/2010/09/MemoriaGradoInformaticaFinalv3211009.pdf",
+    "https://sia.unizar.es/documentos/doa/guiadocente/2025/30210_es.pdf",
+    "https://zaguan.unizar.es/record/44758/files/guia.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "http://academico.unizar.es/sites/academico/files/archivos/ofiplan/informapublica/Ing_Datos/ingenieria_datos.pdf",
+      "domain": "academico.unizar.es",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (academico.unizar.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://webdiis.unizar.es/areas/ISA/wp-content/uploads/2010/09/MemoriaGradoInformaticaFinalv3211009.pdf",
+      "domain": "webdiis.unizar.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (webdiis.unizar.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://sia.unizar.es/documentos/doa/guiadocente/2025/30210_es.pdf",
+      "domain": "sia.unizar.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (sia.unizar.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://zaguan.unizar.es/record/44758/files/guia.pdf",
+      "domain": "zaguan.unizar.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (zaguan.unizar.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://estudios.unizar.es/pdf/informes/2023/informe-es-148-v2.pdf",
+      "domain": "estudios.unizar.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (estudios.unizar.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://tsc1.cps.unizar.es/gradoteleco/wp-content/uploads/2019/09/J_BienvTel_2019_2.pdf",
+      "domain": "tsc1.cps.unizar.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (tsc1.cps.unizar.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://fcsh.unizar.es/sites/fcsh/files/archivos/PDI/manual_bienvenida_pdi_fcsh_29.08.25.pdf",
+      "domain": "fcsh.unizar.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (fcsh.unizar.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://zaguan.unizar.es/record/138873/files/guia-30274-es.pdf;",
+      "domain": "zaguan.unizar.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (zaguan.unizar.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://sia.unizar.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2019&_codAsignatura=29984",
+      "domain": "sia.unizar.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (sia.unizar.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://sia.unizar.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2019&_codAsignatura=29977",
+      "domain": "sia.unizar.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (sia.unizar.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://sia.unizar.es/doa/consultaPublica/look[conpub]MostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2024&_codAsignatura=29971",
+      "domain": "sia.unizar.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (sia.unizar.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "http://eupt.unizar.es/coordinaciongii",
+      "domain": "eupt.unizar.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (eupt.unizar.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://estudios.unizar.es/estudio/ver?id=165",
+      "domain": "estudios.unizar.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (estudios.unizar.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

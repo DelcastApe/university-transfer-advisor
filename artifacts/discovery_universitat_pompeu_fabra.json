@@ -1,0 +1,178 @@
+{
+  "university": "Universitat Pompeu Fabra",
+  "city": "Barcelona",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universitat Pompeu Fabra grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universitat Pompeu Fabra grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "upf.edu"
+  ],
+  "selected": [
+    "https://www.esci.upf.edu/frontend/web/uploads/files/1.%20Memo%CC%80ria%20del%20BDBI%20%28curs%202023-2024%29.pdf",
+    "https://www.esci.upf.edu/uploads/imgen/800-versio-6-sg-10-02-2015x.pdf",
+    "https://www.upf.edu/es/web/enginyeria/enginyeria-informatica-2016-informacio-estudiant",
+    "https://www.upf.edu/web/graus/grau-enginyeria-informatica"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.esci.upf.edu/frontend/web/uploads/files/1.%20Memo%CC%80ria%20del%20BDBI%20%28curs%202023-2024%29.pdf",
+      "domain": "www.esci.upf.edu",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.esci.upf.edu)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.esci.upf.edu/uploads/imgen/800-versio-6-sg-10-02-2015x.pdf",
+      "domain": "www.esci.upf.edu",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.esci.upf.edu)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upf.edu/es/web/enginyeria/enginyeria-informatica-2016-informacio-estudiant",
+      "domain": "www.upf.edu",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upf.edu/web/graus/grau-enginyeria-informatica",
+      "domain": "www.upf.edu",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upf.edu/web/enginyeria/enginyeria-informatica-2016-informacio-estudiant",
+      "domain": "www.upf.edu",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/117398980/VA1SG_Grau_Enginyeria_Informxtica.pdf/7cc6d4db-37b0-38be-dc62-ed9937c19cb1",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upf.edu/es/web/graus/graus",
+      "domain": "www.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/117547066/v_3_Disseny_industrial.pdf/72f347e3-c150-52e4-ed5b-ee2db09119c1",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upf.edu/es/web/minors/minor-en-programacio",
+      "domain": "www.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upf.edu/es/web/minors/minor-en-narrativa-digital",
+      "domain": "www.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/117398980/Versio5_Enginyeria_en_Informxtica__SG_GEI.pdf/6889e94c-cc91-abac-c9f8-4f3d3b5f5e66",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/115589856/V3_Negocis_i_MKT_Internacional.pdf/9d9479d3-c589-0850-022e-115d920ab971",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/117547066/Versix_2_Grado_en_Ingenieria_en_Disexo_Industrial_ma.pdf/653f033d-ed7b-4594-1c36-b29ca3ba2e3b",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://repositori.upf.edu/bitstreams/6027116f-27a1-4596-8449-a54d5a7d942e/download",
+      "domain": "repositori.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (repositori.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/117466458/versix_5_sistemes_audiovisuals_SG_CANVIS_maig_2012.pdf/c8a9c156-1103-c97f-e6c0-f78ee90837e9",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upf.edu/documents/1579682/257894586/VA3+SG+MUCiC.pdf/5b72c185-cce2-814a-df6c-74e21cbf2590",
+      "domain": "www.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.upf.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://seuelectronica.upf.edu/documents/107805936/115597684/V2_24.02.10.pdf/43393f6a-057b-608f-9c1f-a3f41d461eb5",
+      "domain": "seuelectronica.upf.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (seuelectronica.upf.edu)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

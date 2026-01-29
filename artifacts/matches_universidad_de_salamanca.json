@@ -1,0 +1,339 @@
+{
+  "university": "Universidad de Salamanca",
+  "city": "Salamanca",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_5.pdf",
+    "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_3.pdf",
+    "https://guias.usal.es/historico/files/guias2015/Fichas_Plan_Docente_Grado_en_Ing_Informatica_16-17%20actualizado%206-10-16_Mofic%20feb%202017.pdf",
+    "https://fciencias.usal.es/wp-content/uploads/2025/02/inf-seguiginginformatica-23-24-3.pdf"
+  ],
+  "preferred_domains": [
+    "usal.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 45.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Seminarios 4 4",
+      "method": "none",
+      "score": 41,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "equipos/sistemas, etc.)",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "- En aula",
+      "method": "none",
+      "score": 43,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "CREACIÓN DE EMPRESAS DE BASE TECNOLÓGICA",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "Seminarios 4 4",
+      "method": "none",
+      "score": 40,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Seminarios 4 4",
+      "method": "none",
+      "score": 38,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "trabajo multidisciplinares.",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "ámbito de la Ingeniería Informática.",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "altas prestaciones.",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "1. Programación paralela basada en PThreads",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "- Diseño de algoritmos y aplicaciones paralelas. Modelos de programación.",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se enfocan en la programación y el diseño de algoritmos, aunque con un enfoque ligeramente diferente."
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "1. Programación paralela basada en PThreads",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B se enfoca en programación paralela con PThreads, mientras que la asignatura A abarca varios paradigmas de programación."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "los modelos de componentes, software",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a patrones y modelos de diseño de software, aunque con ligeras variaciones en el enfoque."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "arquitectura y modelos.",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de los sistemas computacionales."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "sistemas operativos y servidores, y",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "arquitectura y modelos.",
+      "method": "fuzzy",
+      "score": 75,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "de un sistema de información.",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "1.- Datos de la Asignatura",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y organización de datos en un sistema informático."
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "Datos del profesorado",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "e instalaciones de sistemas informáticos,",
+      "method": "fuzzy",
+      "score": 75,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "cuenta los requisitos mínimos de conocimientos establecidos en el temario.",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la definición y análisis de requisitos en el desarrollo de software."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "los modelos de componentes, software",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ingeniería de software, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Área Ingeniería de Sistemas y Automática",
+      "method": "none",
+      "score": 61,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar más enfocada en sistemas y automática, mientras que la asignatura A se enfoca en ingeniería de software."
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "diseñar productos, procesos e instalaciones",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y diseño de procesos y productos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "SISTEMAS DE INFORMACIÓN ORIENTADOS A SERVICIOS",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se enfocan en la gestión y orientación de sistemas de información, aunque con un enfoque ligeramente diferente."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "dirección técnica y dirección de proyectos de",
+      "method": "fuzzy",
+      "score": 77,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Área Organización de Empresas",
+      "method": "fuzzy",
+      "score": 76,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "6.1.- Distribución de metodologías docentes",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la planificación y ejecución de investigaciones, aunque con un enfoque ligeramente diferente."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "Datos del profesorado",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tratar temas completamente diferentes"
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Área Ciencia de la Computación e Inteligencia Artificial",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la Inteligencia Artificial, aunque con ligeras variaciones en el enfoque."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "COMPUTACIÓN DE ALTAS PRESTACIONES",
+      "method": "llm",
+      "score": 63,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con el procesamiento de información y la eficiencia en la computación, aunque con enfoques diferentes."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "diseño, arquitectura y provisión de servicios de sistemas de información en el entorno de",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "- Plataformas de HPC. Clusters.",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "- En aula",
+      "method": "none",
+      "score": 42,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "- En aula",
+      "method": "none",
+      "score": 40,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "originales en el desarrollo y/o aplicación de",
+      "method": "none",
+      "score": 58,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la psicología y el desarrollo humano, mientras que la asignatura B parece estar relacionada con la creación y aplicación de algo, pero no se menciona el tema de la psicología o el desarrollo humano."
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Área Ciencia de la Computación e Inteligencia Artificial",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la comprensión de la ciencia y su aplicación en el campo de la informática y la inteligencia artificial."
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "calidad y medioambientales y en entornos de",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "- Vectoriales y GPUs",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "originales en el desarrollo y/o aplicación de",
+      "method": "none",
+      "score": 49,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

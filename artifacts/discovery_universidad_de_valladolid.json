@@ -1,0 +1,161 @@
+{
+  "university": "Universidad de Valladolid",
+  "city": "Valladolid",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Valladolid grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Valladolid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uva.es"
+  ],
+  "selected": [
+    "https://www.inf.uva.es/wp-content/uploads/2014/05/UVaGradoIngenieriaInformatica.pdf",
+    "https://www.inf.uva.es/wp-content/uploads/2012/04/UVaGradoInformaticaValladolid27072009V2.1.revisada.pdf",
+    "https://www.inf.uva.es/wp-content/uploads/2016/06/G46944.pdf",
+    "https://apps.stic.uva.es/guias_docentes/uploads/2021/551/46900/1/Documento.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2014/05/UVaGradoIngenieriaInformatica.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2012/04/UVaGradoInformaticaValladolid27072009V2.1.revisada.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2016/06/G46944.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://apps.stic.uva.es/guias_docentes/uploads/2021/551/46900/1/Documento.pdf",
+      "domain": "apps.stic.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (apps.stic.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2014/07/G46968.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://apps.stic.uva.es/guias_docentes/uploads/2022/551/46900/1/Documento.pdf",
+      "domain": "apps.stic.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (apps.stic.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2016/06/G46933.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2014/07/G46954.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2015/07/G46953.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2012/07/C22-45191-FOE.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/wp-content/uploads/2016/06/G46919.pdf",
+      "domain": "www.inf.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.infor.uva.es/~cvaca/gd/S32-45264-DIAS.pdf",
+      "domain": "www.infor.uva.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.infor.uva.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.inf.uva.es/grado-en-ingenieria-informatica/",
+      "domain": "www.inf.uva.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.inf.uva.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uva.es/export/sites/uva/2.estudios/2.03.grados/2.02.01.oferta/estudio/e84b64b8-72fd-11ec-ae63-00505682371a/",
+      "domain": "www.uva.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uva.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

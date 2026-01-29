@@ -1,0 +1,75 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Valladolid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:uva.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática",
+      "link": "https://www.inf.uva.es/grado-en-ingenieria-informatica/",
+      "snippet": "El Plan de estudios de Grado en Ingeniería Informática se compone de cinco módulos con una estructura similar a la propuesta en el acuerdo del Consejo de ...",
+      "position": 1
+    },
+    {
+      "title": "Guía docente de la asignatura",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2014/07/G46968.pdf",
+      "snippet": "Dentro de los estudios del Grado en Ingeniería en Informática de Sistemas con esta asigntura se trata de ofrecer conocimientos básicos sobre los ...",
+      "position": 2
+    },
+    {
+      "title": "Grado en: Ingeniería Informática Centro",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2014/05/UVaGradoIngenieriaInformatica.pdf",
+      "snippet": "que se relacionarán las materias o asignaturas del plan o planes de estudios que se extinguen con sus equivalentes en el plan de estudios de la titulación ...",
+      "position": 3
+    },
+    {
+      "title": "Guía docente de la asignatura",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2012/07/C22-45191-FOE.pdf",
+      "snippet": "En el Grado en Ingeniería Informática está relacionada con las siguientes asignaturas de la materia. COMPLEMENTOS DE SOFTWARE: • Economía del Cambio ...",
+      "date": "por MFB DE ECONOMÍA",
+      "position": 4
+    },
+    {
+      "title": "Guía docente de la asignatura para el curso 2021-2022",
+      "link": "https://apps.stic.uva.es/guias_docentes/uploads/2021/551/46900/1/Documento.pdf",
+      "snippet": "GRADO EN INGENIERÍA INFORMÁTICA. PROGRAMA CONJUNTO DE GRADO EN ESTADÍSTICA + GRADO EN. INGENIERÍA INFORMÁTICA. Plan. 545 / 551. Código. 46900. Periodo de ...",
+      "date": "2022",
+      "position": 5
+    },
+    {
+      "title": "Guía docente de la asignatura",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2016/06/G46933.pdf",
+      "snippet": "GRADO EN INGENIERÍA INFORMÁTICA. Plan. 545. Código. 46933. Periodo de impartición. 1er. CUATRIMESTRE. Tipo/Carácter. OBLIGATORIA. (MENCIÓN TI). Nivel/Ciclo.",
+      "position": 6
+    },
+    {
+      "title": "Guía docente de la asignatura - Valladolid",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2016/06/G46919.pdf",
+      "snippet": "Esta asignatura, pretende hacer énfasis en el enfoque de ingeniería de software. La asignatura presentará la ingeniería de software como un medio para ...",
+      "position": 7
+    },
+    {
+      "title": "Ingeniería Informática",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2012/04/UVaGradoInformaticaValladolid27072009V2.1.revisada.pdf",
+      "snippet": "5.1 Estructura de las enseñanzas: a Distribución del plan de estudios en créditos ECTS, por tipo de materia. ... se relacionarán las materias o asignaturas del ...",
+      "position": 8
+    },
+    {
+      "title": "Guía docente de la asignatura",
+      "link": "https://www.inf.uva.es/wp-content/uploads/2015/07/G46953.pdf",
+      "snippet": "www.uva.es → grados → Grado en Ingeniería Informática → Tutorías ... Esta asignatura cubre de manera transversal todas las materias de los estudios de Grado ...",
+      "position": 9
+    },
+    {
+      "title": "Guía docente de la asignatura - Departamento de Informática - UVa",
+      "link": "https://www.infor.uva.es/~cvaca/gd/S32-45264-DIAS.pdf",
+      "snippet": "GRADO EN INGENIERÍA INFORMÁTICA DE SISTEMAS (464) ... del vigente plan de estudios: Fundamentos de Ingeniería del Software, Sistemas Distribuidos, Interacción.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

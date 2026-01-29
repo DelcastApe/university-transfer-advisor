@@ -1,0 +1,211 @@
+{
+  "university": "Universitat Politecnica de Catalunya",
+  "city": "Barcelona",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universitat Politecnica de Catalunya grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universitat Politecnica de Catalunya grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "upc.edu",
+    "fib.upc.edu"
+  ],
+  "selected": [
+    "https://epsem.upc.edu/ca/estudis/estudis-en-extincio/plan-de-estudios-y-guia-docente-electronica.pdf",
+    "https://epsem.upc.edu/ca/estudis/estudis-en-extincio/plan-de-estudios-y-guia-docente-mecanica.pdf",
+    "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios",
+    "https://www.fib.upc.edu/es/estudios/masteres/master-en-ingenieria-informatica/plan-de-estudios"
+  ],
+  "candidates": [
+    {
+      "url": "https://epsem.upc.edu/ca/estudis/estudis-en-extincio/plan-de-estudios-y-guia-docente-electronica.pdf",
+      "domain": "epsem.upc.edu",
+      "score": 190,
+      "reasons": [
+        "+70 dominio preferido (epsem.upc.edu)",
+        "+40 contiene 'plan-de-estudios'",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://epsem.upc.edu/ca/estudis/estudis-en-extincio/plan-de-estudios-y-guia-docente-mecanica.pdf",
+      "domain": "epsem.upc.edu",
+      "score": 190,
+      "reasons": [
+        "+70 dominio preferido (epsem.upc.edu)",
+        "+40 contiene 'plan-de-estudios'",
+        "+40 contiene 'guia-docente'",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios",
+      "domain": "www.fib.upc.edu",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.fib.upc.edu/es/estudios/masteres/master-en-ingenieria-informatica/plan-de-estudios",
+      "domain": "www.fib.upc.edu",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/especialidades",
+      "domain": "www.fib.upc.edu",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.fib.upc.edu/es/estudios/grados/grado-en-ciencia-e-ingenieria-de-datos/plan-de-estudios",
+      "domain": "www.fib.upc.edu",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upc.edu/master/es/295/master-universitario-en-ingenieria-informatica.pdf",
+      "domain": "www.upc.edu",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.upc.edu)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fib.upc.edu/sites/fib/files/documents/fib/qualitat-memoria-verifica-miri-es.pdf",
+      "domain": "www.fib.upc.edu",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.upc.edu/bupc/hemeroteca/2009/b119/12-11-09.pdf",
+      "domain": "www.upc.edu",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.upc.edu)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fib.upc.edu/sites/fib/files/documents/fib/qualitat-memoria-verifica-mei-es.pdf",
+      "domain": "www.fib.upc.edu",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fib.upc.edu/sites/fib/files/documents/fib/qualitat-memoria-verifica-mai-es.pdf",
+      "domain": "www.fib.upc.edu",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica",
+      "domain": "www.fib.upc.edu",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.fib.upc.edu)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.upc.edu/es/grados/ingenieria-informatica-barcelona-fib",
+      "domain": "www.upc.edu",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.upc.edu)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://epsevg.upc.edu/es/estudios/grado-en-ingenieria-informatica",
+      "domain": "epsevg.upc.edu",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (epsevg.upc.edu)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://dse.upc.edu/es/estudiantes-de-grado/optativas",
+      "domain": "dse.upc.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (dse.upc.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://camins.upc.edu/es/estudios/dd/dd-gia-girmr/acordeon-girmr-gia/estudios",
+      "domain": "camins.upc.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (camins.upc.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://upcommons.upc.edu/bitstreams/f2d3f3b3-e372-4657-b003-93e722353ce4/download",
+      "domain": "upcommons.upc.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (upcommons.upc.edu)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://upcommons.upc.edu/bitstreams/b7ae5606-bde4-4c1e-ba1e-ac31f979ce28/download",
+      "domain": "upcommons.upc.edu",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (upcommons.upc.edu)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

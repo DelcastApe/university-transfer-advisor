@@ -1,0 +1,165 @@
+{
+  "university": "Universidad de Salamanca",
+  "city": "Salamanca",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Salamanca grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Salamanca grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "usal.es"
+  ],
+  "selected": [
+    "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_5.pdf",
+    "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_3.pdf",
+    "https://guias.usal.es/historico/files/guias2015/Fichas_Plan_Docente_Grado_en_Ing_Informatica_16-17%20actualizado%206-10-16_Mofic%20feb%202017.pdf",
+    "https://fciencias.usal.es/wp-content/uploads/2025/02/inf-seguiginginformatica-23-24-3.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_5.pdf",
+      "domain": "guias.usal.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (guias.usal.es)",
+        "+40 contiene 'asignaturas'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_3.pdf",
+      "domain": "guias.usal.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (guias.usal.es)",
+        "+40 contiene 'asignaturas'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://guias.usal.es/historico/files/guias2015/Fichas_Plan_Docente_Grado_en_Ing_Informatica_16-17%20actualizado%206-10-16_Mofic%20feb%202017.pdf",
+      "domain": "guias.usal.es",
+      "score": 120,
+      "reasons": [
+        "+70 dominio preferido (guias.usal.es)",
+        "+15 contiene 'plan'",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://fciencias.usal.es/wp-content/uploads/2025/02/inf-seguiginginformatica-23-24-3.pdf",
+      "domain": "fciencias.usal.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (fciencias.usal.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://guias.usal.es/historico/files/Grado_en_Ingenieria_Informatica_sistemas_informacion_EPS_Zamora_2013_PF.pdf",
+      "domain": "guias.usal.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (guias.usal.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.usal.es/files/2024-06-21_g_ing_infor_sistemas.pdf",
+      "domain": "www.usal.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.usal.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://avellano.fis.usal.es/~jblanco/anexo6.pdf",
+      "domain": "avellano.fis.usal.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (avellano.fis.usal.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.usal.es/grado-en-ingenieria-informatica",
+      "domain": "www.usal.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.usal.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.usal.es/grado-en-ingenieria-informatica-en-sistemas-de-informacion",
+      "domain": "www.usal.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.usal.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.usal.es/doble-titulacion-de-grado-en-estadistica-y-en-ingenieria-informatica",
+      "domain": "www.usal.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.usal.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.usal.es/doble-titulacion-de-grado-en-ingenieria-informatica-de-sistemas-de-informacion-y-en-informacion-y",
+      "domain": "www.usal.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.usal.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.usal.es/master-ingenieria-informatica",
+      "domain": "www.usal.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.usal.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://diaweb.usal.es/diaweb/comun/descargar.jsp?f=10001235libroblanco_jun05_GradoInformatica.pdf",
+      "domain": "diaweb.usal.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (diaweb.usal.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://guias.usal.es/node/141731",
+      "domain": "guias.usal.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (guias.usal.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

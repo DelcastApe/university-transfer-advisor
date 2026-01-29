@@ -17,96 +17,72 @@ def generate_recommendation(
     mission_yaml: str,
 ) -> str:
     """
-    Recomendación personalizada (ES) usando Groq, basada en:
-    - missions/transfer.yaml (pesos, my_profile, current_studies)
-    - missions/my_curriculum.yaml (origen real)
-    - artifacts/comparison.csv (resultados objetivos)
+    Genera una recomendación EJECUTIVA y concisa usando Groq.
+    Pensada para leerse en 1–2 minutos.
     """
 
-    df = pd.read_csv(comparison_csv)
+    df = pd.read_csv(comparison_csv).sort_values("final_score", ascending=False)
     cfg = _load_yaml(mission_yaml)
 
-    # ✅ de transfer.yaml
     my_profile = cfg.get("my_profile", {}) or {}
     pref = (my_profile.get("preferences", {}) or {})
     current = cfg.get("current_studies", {}) or {}
 
     student_name = my_profile.get("name", "Jhonnatan")
-    residence_country = my_profile.get("country", "Spain")
-    currency = my_profile.get("currency", "EUR")
 
     weight_match = float(pref.get("weight_match", 0.55))
     weight_prestige = float(pref.get("weight_prestige", 0.25))
     weight_cost = float(pref.get("weight_cost", 0.20))
 
-    destination_degree = current.get("degree", "Grado en Ingenieria Informatica")
+    destination_degree = current.get(
+        "degree", "Grado en Ingenieria Informatica"
+    )
 
-    # ✅ origen desde curriculum_file
-    curriculum_file = current.get("curriculum_file", "missions/my_curriculum.yaml")
-    cur = _load_yaml(curriculum_file)
-
-    origin_country = cur.get("origin_country", "Peru")
-    origin_degree = cur.get("origin_degree", "Ingenieria en Computacion y Sistemas")
-    origin_uni = cur.get("university_origin", "Universidad de origen")
-
-    # Tabla para prompt (objetiva)
-    table_md = df.to_markdown(index=False)
-
-    # Detectar universidades con datos pobres (ej. UPM bloqueada)
-    # Si match_pct == 0 y extracted no existe aquí, igual se puede advertir.
-    possible_data_issues = []
-    for _, row in df.iterrows():
-        try:
-            if float(row.get("match_pct", 0)) == 0.0:
-                possible_data_issues.append(str(row.get("university")))
-        except Exception:
-            pass
-
-    data_issue_note = ""
-    if possible_data_issues:
-        data_issue_note = (
-            "\nNOTA DE CALIDAD DE DATOS:\n"
-            f"- En estas universidades el match curricular puede estar subestimado (posible extracción fallida): "
-            + ", ".join(possible_data_issues)
-            + "\n- Si hay 0% de convalidación pero la universidad es prestigiosa, revisa la fuente (PDF/plan) manualmente.\n"
-        )
+    # Top universidades
+    best = df.iloc[0]
+    second = df.iloc[1] if len(df) > 1 else None
+    third = df.iloc[2] if len(df) > 2 else None
 
     prompt = f"""
-Eres un asesor académico universitario experto en traslados y convalidaciones en España.
-Tu respuesta debe ser MUY personalizada para el estudiante y sonar profesional (estilo informe).
+Eres un asesor académico experto en traslados universitarios en España.
 
-ESTUDIANTE
-- Nombre: {student_name}
-- País de origen: {origin_country}
-- Universidad de origen: {origin_uni}
-- Carrera de origen: {origin_degree}
-- Carrera destino equivalente en España: {destination_degree}
-- País de residencia actual: {residence_country}
-- Moneda: {currency}
+CONTEXTO
+- Estudiante: {student_name}
+- Carrera destino: {destination_degree}
+- Decisión basada en convalidación, prestigio y costo de vida.
 
-CRITERIOS DE DECISIÓN (PESOS DEL SISTEMA)
-- Convalidación curricular: {weight_match * 100:.0f}%
-- Prestigio académico: {weight_prestige * 100:.0f}%
+PESOS DEL SISTEMA
+- Convalidación: {weight_match * 100:.0f}%
+- Prestigio: {weight_prestige * 100:.0f}%
 - Costo de vida: {weight_cost * 100:.0f}%
 
-RESULTADOS OBJETIVOS DEL SISTEMA (NO MODIFICAR NÚMEROS)
-{table_md}
-{data_issue_note}
+RESULTADOS (ORDENADOS POR SCORE FINAL)
+1) {best.university} ({best.city})
+   - Convalidación: {best.match_pct}%
+   - Prestigio: {best.prestige_score}
+   - Costo de vida (score): {best.cost_score}
+   - Score final: {best.final_score}
+
+2) {second.university if second is not None else "-"}
+3) {third.university if third is not None else "-"}
 
 INSTRUCCIONES
 - Dirígete directamente a {student_name}.
-- Usa un tono claro, cercano y profesional (como asesor real).
-- Analiza cada universidad: ventajas, desventajas y riesgos.
-- Incluye una sección: "Qué significa este resultado para mi convalidacion".
-- Recomienda UNA universidad como la opción más conveniente según los pesos.
-- Justifica comparando explícitamente con las otras 2.
-- Cierra con un plan de acción de 5 pasos (qué hacer la próxima semana).
-- Escribe en ESPAÑOL.
-- Evita Markdown (no uses #, **, *). Usa títulos con MAYÚSCULAS y saltos de línea.
+- Recomienda UNA universidad (la #1).
+- Explica en 2–3 párrafos el POR QUÉ (trade-off principal).
+- Menciona brevemente por qué las otras quedan detrás.
+- Incluye una sección: PLAN DE ACCION (3 a 5 pasos, muy concretos).
+- Usa español claro y profesional.
+- NO escribas un informe largo.
+- NO repitas tablas ni números innecesarios.
+- NO uses Markdown, solo texto con saltos de línea.
 """
 
     return groq_chat(
         prompt=prompt,
-        system="Eres un asesor académico universitario. Respondes en español y en formato de informe.",
+        system=(
+            "Eres un asesor académico universitario. "
+            "Respondes de forma clara, directa y concisa."
+        ),
         temperature=0.25,
     )

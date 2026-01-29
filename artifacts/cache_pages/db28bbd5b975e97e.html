@@ -1,0 +1,5092 @@
+<!DOCTYPE html><html class="ltr yui3-js-enabled" dir="ltr" lang="en-US"><head>
+
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-C35G871LG6&amp;cx=c&amp;gtm=4e61r1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TWBMMX"></script><script class="um-gtm">
+      if ('false' == 'true') {
+        dataLayer = [{ 'userId': '$uuid_usuario' }];
+      } else {
+        dataLayer = [{ 'userId': '0' }];
+      }
+    </script>
+    <script class="um-gtm">(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-TWBMMX');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta content="initial-scale=1.0, width=device-width" name="viewport">
+
+
+
+    <meta name="description" content="Plan de estudios - Portal de Estudios">
+
+<link rel="icon" href="https://www.um.es/o/um-lr-genericov2-um-theme/images/favicon-corazon/favicon-corazon-UMU.ico" sizes="any">
+<link rel="icon" href="https://www.um.es/o/um-lr-genericov2-um-theme/images/favicon-corazon/favicon-corazon-UMU.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="https://www.um.es/o/um-lr-genericov2-um-theme/images/favicon-corazon/favicon-corazon-UMU.png">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css?browserId=chrome&amp;themeId=umlrgenericov2umtheme_WAR_umlrgenericov2umtheme&amp;minifierType=css&amp;languageId=en_US&amp;t=1769512366000">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.1.2/css/buttons.dataTables.min.css?browserId=chrome&amp;themeId=umlrgenericov2umtheme_WAR_umlrgenericov2umtheme&amp;minifierType=css&amp;languageId=en_US&amp;t=1769512366000">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="importmap">{"imports":{"@clayui/breadcrumb":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$breadcrumb.js","@clayui/form":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js","react-dom":"/o/frontend-js-react-web/__liferay__/exports/react-dom.js","@clayui/popover":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$popover.js","@clayui/charts":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$charts.js","@clayui/shared":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js","@clayui/localized-input":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$localized-input.js","@clayui/modal":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js","@clayui/empty-state":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$empty-state.js","@clayui/color-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$color-picker.js","@clayui/navigation-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$navigation-bar.js","react":"/o/frontend-js-react-web/__liferay__/exports/react.js","@clayui/pagination":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination.js","@clayui/icon":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js","@clayui/table":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js","@clayui/autocomplete":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$autocomplete.js","@clayui/slider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$slider.js","@clayui/management-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$management-toolbar.js","@clayui/multi-select":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-select.js","@clayui/nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$nav.js","@clayui/time-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$time-picker.js","@clayui/provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$provider.js","@clayui/upper-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$upper-toolbar.js","@clayui/loading-indicator":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js","@clayui/panel":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$panel.js","@clayui/drop-down":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$drop-down.js","@clayui/list":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$list.js","@clayui/date-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$date-picker.js","@clayui/label":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$label.js","@clayui/data-provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$data-provider.js","@liferay/frontend-js-api/data-set":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api$data-set.js","@clayui/core":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js","@clayui/pagination-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination-bar.js","@clayui/layout":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js","@clayui/multi-step-nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-step-nav.js","@liferay/frontend-js-api":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api.js","@clayui/css":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$css.js","@clayui/toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$toolbar.js","@clayui/alert":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js","@clayui/badge":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$badge.js","@clayui/link":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js","@clayui/card":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$card.js","@clayui/progress-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$progress-bar.js","@clayui/tooltip":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tooltip.js","@clayui/button":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js","@clayui/tabs":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tabs.js","@clayui/sticker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$sticker.js"},"scopes":{}}</script><script data-senna-track="temporary">var Liferay = window.Liferay || {};Liferay.Icons = Liferay.Icons || {};Liferay.Icons.controlPanelSpritemap = 'https://www.um.es/o/admin-theme/images/clay/icons.svg';Liferay.Icons.spritemap = 'https://www.um.es/o/um-lr-genericov2-um-theme/images/clay/icons.svg';</script>
+<script data-senna-track="permanent" src="/combo?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769659914210&amp;/o/frontend-js-jquery-web/jquery/jquery.min.js&amp;/o/frontend-js-jquery-web/jquery/init.js&amp;/o/frontend-js-jquery-web/jquery/ajax.js&amp;/o/frontend-js-jquery-web/jquery/bootstrap.bundle.min.js&amp;/o/frontend-js-jquery-web/jquery/collapsible_search.js&amp;/o/frontend-js-jquery-web/jquery/fm.js&amp;/o/frontend-js-jquery-web/jquery/form.js&amp;/o/frontend-js-jquery-web/jquery/popper.min.js&amp;/o/frontend-js-jquery-web/jquery/side_navigation.js" type="text/javascript"></script>
+<script data-senna-track="permanent" type="text/javascript">window.Liferay = window.Liferay || {}; window.Liferay.CSP = {nonce: ''};</script>
+<link data-senna-track="temporary" href="https://www.um.es/web/estudios/masteres/tecnologias-informatica/plan-guias" rel="canonical">
+<link data-senna-track="temporary" href="https://www.um.es/web/estudios/masteres/tecnologias-informatica/plan-guias" hreflang="es-ES" rel="alternate">
+<link data-senna-track="temporary" href="https://www.um.es/web/estudios/masteres/tecnologias-informatica/plan-guias" hreflang="en-US" rel="alternate">
+<link data-senna-track="temporary" href="https://www.um.es/web/estudios/masteres/tecnologias-informatica/plan-guias" hreflang="x-default" rel="alternate">
+
+
+<link href="https://www.um.es/o/um-lr-genericov2-um-theme/images/../../um-lr-74-principal-theme/images/favicon-corazon/favicon-corazon-UMU.ico" rel="apple-touch-icon">
+<link href="https://www.um.es/o/um-lr-genericov2-um-theme/images/../../um-lr-74-principal-theme/images/favicon-corazon/favicon-corazon-UMU.ico" rel="icon">
+
+
+
+<script charset="utf-8" id="yui_patched_v3_19_2_1_1769677502031_46" src="/combo/?browserId=chrome&amp;minifierType=&amp;languageId=en_US&amp;t=1763017731897&amp;/o/frontend-js-aui-web/aui/yui-throttle/yui-throttle-min.js&amp;/o/frontend-js-aui-web/aui/classnamemanager/classnamemanager-min.js&amp;/o/frontend-js-aui-web/aui/aui-classnamemanager/aui-classnamemanager-min.js&amp;/o/frontend-js-aui-web/aui/aui-debounce/aui-debounce-min.js&amp;/o/frontend-js-aui-web/aui/array-extras/array-extras-min.js&amp;/o/frontend-js-aui-web/aui/event-base/event-base-min.js&amp;/o/frontend-js-aui-web/aui/dom-core/dom-core-min.js&amp;/o/frontend-js-aui-web/aui/dom-base/dom-base-min.js&amp;/o/frontend-js-aui-web/aui/selector-native/selector-native-min.js&amp;/o/frontend-js-aui-web/aui/selector/selector-min.js&amp;/o/frontend-js-aui-web/aui/node-core/node-core-min.js&amp;/o/frontend-js-aui-web/aui/dom-style/dom-style-min.js&amp;/o/frontend-js-aui-web/aui/node-base/node-base-min.js&amp;/o/frontend-js-aui-web/aui/event-delegate/event-delegate-min.js&amp;/o/frontend-js-aui-web/aui/node-event-delegate/node-event-delegate-min.js" async=""></script><script charset="utf-8" id="yui_patched_v3_19_2_1_1769677502031_47" src="/combo/?browserId=chrome&amp;minifierType=&amp;languageId=en_US&amp;t=1763017731897&amp;/o/frontend-js-aui-web/aui/pluginhost-base/pluginhost-base-min.js&amp;/o/frontend-js-aui-web/aui/pluginhost-config/pluginhost-config-min.js&amp;/o/frontend-js-aui-web/aui/node-pluginhost/node-pluginhost-min.js&amp;/o/frontend-js-aui-web/aui/dom-screen/dom-screen-min.js&amp;/o/frontend-js-aui-web/aui/node-screen/node-screen-min.js&amp;/o/frontend-js-aui-web/aui/node-style/node-style-min.js&amp;/o/frontend-js-aui-web/aui/aui-node-base/aui-node-base-min.js&amp;/o/frontend-js-aui-web/aui/aui-timer/aui-timer-min.js&amp;/o/frontend-js-aui-web/aui/event-touch/event-touch-min.js&amp;/o/frontend-js-aui-web/aui/event-synthetic/event-synthetic-min.js&amp;/o/frontend-js-aui-web/aui/event-move/event-move-min.js" async=""></script><link rel="stylesheet" id="yui_patched_v3_19_2_1_1769677502031_55" href="/combo/?browserId=chrome&amp;minifierType=&amp;languageId=en_US&amp;t=1763017731897&amp;/o/frontend-js-aui-web/aui/widget-base/assets/skins/sam/widget-base.css"><link class="lfr-css-file" data-senna-track="temporary" href="https://www.um.es/o/um-lr-genericov2-um-theme/css/clay.css?browserId=chrome&amp;themeId=umlrgenericov2umtheme_WAR_umlrgenericov2umtheme&amp;minifierType=css&amp;languageId=en_US&amp;t=1769512366000" id="liferayAUICSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+	<link href="/combo?browserId=chrome&amp;minifierType=css&amp;themeId=umlrgenericov2umtheme_WAR_umlrgenericov2umtheme&amp;languageId=en_US&amp;com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm:%2Fo%2Fjournal-content-web%2Fcss%2Fmain.css&amp;com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_templateSearch:%2Fo%2Fportal-search-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fo%2Fproduct-navigation-product-menu-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_user_personal_bar_web_portlet_ProductNavigationUserPersonalBarPortlet:%2Fo%2Fproduct-navigation-user-personal-bar-web%2Fcss%2Fmain.css&amp;t=1769512366000" rel="stylesheet" type="text/css" data-senna-track="temporary" id="fa5a4b5b">
+
+
+
+
+
+
+
+
+<script type="text/javascript" data-senna-track="temporary">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 143.0;
+			},
+
+			getRevision: function() {
+				return '537.36';
+			},
+			getVersion: function() {
+				return '143.0';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return true;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return true;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return true;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return true;
+			},
+			isSafari: function() {
+				return true;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return true;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+		];
+
+		(function () {
+			var available = {};
+
+			var direction = {};
+
+			
+
+				available['es_ES'] = 'Spanish\x20\x28Spain\x29';
+				direction['es_ES'] = 'ltr';
+
+			
+
+				available['fr_FR'] = 'French\x20\x28France\x29';
+				direction['fr_FR'] = 'ltr';
+
+			
+
+				available['en_US'] = 'English\x20\x28United\x20States\x29';
+				direction['en_US'] = 'ltr';
+
+			
+
+				available['it_IT'] = 'Italian\x20\x28Italy\x29';
+				direction['it_IT'] = 'ltr';
+
+			
+
+				available['ar_SA'] = 'Arabic\x20\x28Saudi\x20Arabia\x29';
+				direction['ar_SA'] = 'rtl';
+
+			
+
+			Liferay.Language = {
+				available,
+				direction,
+				get: function(key) {
+					return key;
+				}
+			};
+		})();
+
+		var featureFlags = {"LPD-11018":false,"LPD-10964":false,"LPD-10887":false,"LPS-193884":false,"LPD-11218":false,"LPS-178642":false,"LPD-11253":false,"LPD-16469":false,"LPS-193005":false,"LPS-187284":false,"LPS-187285":false,"LPD-11377":false,"LPD-10562":false,"LPD-11179":false,"LPS-114786":false,"LPS-192957":false,"COMMERCE-8087":true,"LRAC-10757":false,"LPS-180090":false,"LPS-178052":false,"LPS-189856":false,"LPD-19465":false,"LPS-187436":false,"LPS-182184":false,"LPS-185892":false,"LPS-186620":false,"LPS-184404":false,"LPS-198183":false,"LPS-171364":false,"LPD-6378":false,"LPS-153714":false,"LPS-96845":false,"LPS-170670":false,"LPS-141392":false,"LPS-169981":false,"LPS-153839":false,"LPS-200135":false,"LPD-11165":false,"LPS-187793":false,"LPS-177027":false,"LPD-10793":false,"LPD-11003":false,"LPS-196847":false,"LPS-114700":false,"LPS-135430":false,"LPS-134060":false,"LPS-164563":false,"LPS-122920":false,"LPS-199086":false,"LPD-6683":false,"LPS-203351":false,"LPD-10588":false,"LPD-10862":false,"LPD-11313":false,"LPD-6368":false,"LPD-10701":false,"LPD-10703":false,"LPS-202104":false,"LPS-187142":false,"LPD-15596":false,"LPS-196935":true,"LPS-187854":false,"LPS-176691":false,"LPS-197909":false,"LPD-23210":false,"COMMERCE-8949":false,"LPS-165481":false,"LPS-153813":false,"LPS-174455":false,"LPD-10856":false,"COMMERCE-13024":false,"LPS-165482":false,"LPD-10855":false,"LPS-193551":false,"LPS-197477":false,"LPD-17965":false,"LPS-174816":false,"LPS-186360":false,"LPS-153332":false,"LPS-179669":false,"LPS-174417":false,"LPD-18730":false,"LPD-11147":false,"LPS-183882":false,"LPS-155284":false,"LRAC-15017":false,"LPD-19870":false,"LPS-200108":false,"LPS-159643":false,"LPS-161033":false,"LPS-164948":false,"LPD-11070":false,"LPS-188058":false,"LPS-129412":false,"LPS-169837":false,"LPD-20213":false};
+
+		Liferay.FeatureFlags = Object.keys(featureFlags).reduce(
+			(acc, key) => ({
+				...acc, [key]: featureFlags[key] === 'true' || featureFlags[key] === true
+			}), {}
+		);
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 104857600
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '465';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/en/group/estudios/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/en/web/estudios/masteres/tecnologias-informatica/plan-guias';
+				},
+				getLayoutURL: function() {
+					return 'https://www.um.es/en/web/estudios/masteres/tecnologias-informatica/plan-guias';
+				},
+				getParentLayoutId: function() {
+					return '462';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'en-US';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fwww\x2eum\x2ees\x2fweb\x2festudios\x2fmasteres\x2ftecnologias-informatica\x2fplan-guias';
+			},
+			getCDNBaseURL: function() {
+				return 'https://www.um.es';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '10164';
+			},
+			getCompanyId: function() {
+				return '10131';
+			},
+			getDefaultLanguageId: function() {
+				return 'es_ES';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'en_US';
+			},
+			getParentGroupId: function() {
+				return '1083928';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/en/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://www.um.es/o/um-lr-genericov2-um-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/um-lr-genericov2-um-theme';
+			},
+			getPlid: function() {
+				return '13319966';
+			},
+			getPortalURL: function() {
+				return 'https://www.um.es';
+			},
+			getRealUserId: function() {
+				return '10134';
+			},
+			getRemoteAddr: function() {
+				return '155.54.216.99';
+			},
+			getRemoteHost: function() {
+				return '155.54.216.99';
+			},
+			getScopeGroupId: function() {
+				return '1083928';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '1083928';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.um.es/group/estudios/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '1083928';
+			},
+			getURLControlPanel: function() {
+				return '/en/group/control_panel?refererPlid=13319966';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2eum\x2ees\x2fweb\x2fguest';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '10134';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+
+			isStagedPortlet: function() {
+				
+					
+						return false;
+					
+				
+			},
+
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=chrome&minifierType=&languageId=en_US&t=1763017731897&';
+			},
+			getDateFormat: function() {
+				return '%m/%d/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=chrome&minifierType=&languageId=en_US&t=1763017731897';
+			}
+		};
+
+		Liferay.authToken = 'SKbNtrjY';
+
+		
+
+		Liferay.currentURL = '\x2fen\x2fweb\x2festudios\x2fmasteres\x2ftecnologias-informatica\x2fplan-guias';
+		Liferay.currentURLEncoded = '\x252Fen\x252Fweb\x252Festudios\x252Fmasteres\x252Ftecnologias-informatica\x252Fplan-guias';
+	// ]]>
+</script>
+
+<script data-senna-track="temporary" type="text/javascript">window.__CONFIG__= {basePath: '',combine: true, defaultURLParams: null, explainResolutions: false, exposeGlobal: false, logLevel: 'warn', moduleType: 'module', namespace:'Liferay', nonce: '', reportMismatchedAnonymousModules: 'warn', resolvePath: '/o/js_resolve_modules', url: '/combo/?browserId=chrome&minifierType=js&languageId=en_US&t=1763017731897&', waitTimeout: 60000};</script><script data-senna-track="permanent" src="/o/frontend-js-loader-modules-extender/loader.js?&amp;mac=9WaMmhziBCkScHZwrrVcOR7VZF4=&amp;browserId=chrome&amp;languageId=en_US&amp;minifierType=js" type="text/javascript"></script><script data-senna-track="permanent" src="/combo?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1763017731897&amp;/o/frontend-js-aui-web/aui/aui/aui-min.js&amp;/o/frontend-js-aui-web/liferay/modules.js&amp;/o/frontend-js-aui-web/liferay/aui_sandbox.js&amp;/o/frontend-js-aui-web/aui/attribute-base/attribute-base-min.js&amp;/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex-min.js&amp;/o/frontend-js-aui-web/aui/attribute-core/attribute-core-min.js&amp;/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable-min.js&amp;/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex-min.js&amp;/o/frontend-js-aui-web/aui/oop/oop-min.js&amp;/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang-min.js&amp;/o/frontend-js-aui-web/liferay/dependency.js&amp;/o/frontend-js-aui-web/liferay/util.js&amp;/o/frontend-js-web/liferay/dom_task_runner.js&amp;/o/frontend-js-web/liferay/events.js&amp;/o/frontend-js-web/liferay/lazy_load.js&amp;/o/frontend-js-web/liferay/liferay.js&amp;/o/frontend-js-web/liferay/global.bundle.js&amp;/o/frontend-js-web/liferay/portlet.js&amp;/o/frontend-js-web/liferay/workflow.js&amp;/o/oauth2-provider-web/js/liferay.js" type="text/javascript"></script>
+<script data-senna-track="temporary" type="text/javascript">window.Liferay = Liferay || {}; window.Liferay.OAuth2 = {getAuthorizeURL: function() {return 'https://www.um.es/o/oauth2/authorize';}, getBuiltInRedirectURL: function() {return 'https://www.um.es/o/oauth2/redirect';}, getIntrospectURL: function() { return 'https://www.um.es/o/oauth2/introspect';}, getTokenURL: function() {return 'https://www.um.es/o/oauth2/token';}, getUserAgentApplication: function(externalReferenceCode) {return Liferay.OAuth2._userAgentApplications[externalReferenceCode];}, _userAgentApplications: {}}</script><script data-senna-track="temporary" type="text/javascript">try {var MODULE_MAIN='calendar-web@5.0.93/index';var MODULE_PATH='/o/calendar-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			calendar: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-calendar-a11y': {
+						path: 'calendar_a11y.js',
+						requires: ['calendar'],
+					},
+					'liferay-calendar-container': {
+						path: 'calendar_container.js',
+						requires: [
+							'aui-alert',
+							'aui-base',
+							'aui-component',
+							'liferay-portlet-base',
+						],
+					},
+					'liferay-calendar-date-picker-sanitizer': {
+						path: 'date_picker_sanitizer.js',
+						requires: ['aui-base'],
+					},
+					'liferay-calendar-interval-selector': {
+						path: 'interval_selector.js',
+						requires: ['aui-base', 'liferay-portlet-base'],
+					},
+					'liferay-calendar-interval-selector-scheduler-event-link': {
+						path: 'interval_selector_scheduler_event_link.js',
+						requires: ['aui-base', 'liferay-portlet-base'],
+					},
+					'liferay-calendar-list': {
+						path: 'calendar_list.js',
+						requires: [
+							'aui-template-deprecated',
+							'liferay-scheduler',
+						],
+					},
+					'liferay-calendar-message-util': {
+						path: 'message_util.js',
+						requires: ['liferay-util-window'],
+					},
+					'liferay-calendar-recurrence-converter': {
+						path: 'recurrence_converter.js',
+						requires: [],
+					},
+					'liferay-calendar-recurrence-dialog': {
+						path: 'recurrence.js',
+						requires: [
+							'aui-base',
+							'liferay-calendar-recurrence-util',
+						],
+					},
+					'liferay-calendar-recurrence-util': {
+						path: 'recurrence_util.js',
+						requires: ['aui-base', 'liferay-util-window'],
+					},
+					'liferay-calendar-reminders': {
+						path: 'calendar_reminders.js',
+						requires: ['aui-base'],
+					},
+					'liferay-calendar-remote-services': {
+						path: 'remote_services.js',
+						requires: [
+							'aui-base',
+							'aui-component',
+							'liferay-calendar-util',
+							'liferay-portlet-base',
+						],
+					},
+					'liferay-calendar-session-listener': {
+						path: 'session_listener.js',
+						requires: ['aui-base', 'liferay-scheduler'],
+					},
+					'liferay-calendar-simple-color-picker': {
+						path: 'simple_color_picker.js',
+						requires: ['aui-base', 'aui-template-deprecated'],
+					},
+					'liferay-calendar-simple-menu': {
+						path: 'simple_menu.js',
+						requires: [
+							'aui-base',
+							'aui-template-deprecated',
+							'event-outside',
+							'event-touch',
+							'widget-modality',
+							'widget-position',
+							'widget-position-align',
+							'widget-position-constrain',
+							'widget-stack',
+							'widget-stdmod',
+						],
+					},
+					'liferay-calendar-util': {
+						path: 'calendar_util.js',
+						requires: [
+							'aui-datatype',
+							'aui-io',
+							'aui-scheduler',
+							'aui-toolbar',
+							'autocomplete',
+							'autocomplete-highlighters',
+						],
+					},
+					'liferay-scheduler': {
+						path: 'scheduler.js',
+						requires: [
+							'async-queue',
+							'aui-datatype',
+							'aui-scheduler',
+							'dd-plugin',
+							'liferay-calendar-a11y',
+							'liferay-calendar-message-util',
+							'liferay-calendar-recurrence-converter',
+							'liferay-calendar-recurrence-util',
+							'liferay-calendar-util',
+							'liferay-scheduler-event-recorder',
+							'liferay-scheduler-models',
+							'promise',
+							'resize-plugin',
+						],
+					},
+					'liferay-scheduler-event-recorder': {
+						path: 'scheduler_event_recorder.js',
+						requires: [
+							'dd-plugin',
+							'liferay-calendar-util',
+							'resize-plugin',
+						],
+					},
+					'liferay-scheduler-models': {
+						path: 'scheduler_models.js',
+						requires: [
+							'aui-datatype',
+							'dd-plugin',
+							'liferay-calendar-util',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-alloyeditor-web@5.0.48/index';var MODULE_PATH='/o/frontend-editor-alloyeditor-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			alloyeditor: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-alloy-editor': {
+						path: 'alloyeditor.js',
+						requires: [
+							'aui-component',
+							'liferay-portlet-base',
+							'timers',
+						],
+					},
+					'liferay-alloy-editor-source': {
+						path: 'alloyeditor_source.js',
+						requires: [
+							'aui-debounce',
+							'liferay-fullscreen-source-editor',
+							'liferay-source-editor',
+							'plugin',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-js-components-web@2.0.67/index';var MODULE_PATH='/o/frontend-js-components-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			components: {
+				// eslint-disable-next-line
+				mainModule: MODULE_MAIN,
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-processes-web@5.0.57/index';var MODULE_PATH='/o/staging-processes-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			stagingprocessesweb: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-staging-processes-export-import': {
+						path: 'main.js',
+						requires: [
+							'aui-datatype',
+							'aui-dialog-iframe-deprecated',
+							'aui-modal',
+							'aui-parse-content',
+							'aui-toggler',
+							'liferay-portlet-base',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-search-web@6.0.133/index';var MODULE_PATH='/o/portal-search-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			search: {
+				base: MODULE_PATH + '/js/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-search-date-facet': {
+						path: 'date_facet.js',
+						requires: ['aui-form-validator'],
+					},
+				},
+				root: MODULE_PATH + '/js/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-state-web@1.0.21/index';var MODULE_PATH='/o/frontend-js-state-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			state: {
+				// eslint-disable-next-line
+				mainModule: MODULE_MAIN,
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='contacts-web@5.0.58/index';var MODULE_PATH='/o/contacts-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			contactscenter: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-contacts-center': {
+						path: 'main.js',
+						requires: [
+							'aui-io-plugin-deprecated',
+							'aui-toolbar',
+							'autocomplete-base',
+							'datasource-io',
+							'json-parse',
+							'liferay-portlet-base',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='dynamic-data-mapping-web@5.0.103/index';var MODULE_PATH='/o/dynamic-data-mapping-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	const LiferayAUI = Liferay.AUI;
+
+	AUI().applyConfig({
+		groups: {
+			ddm: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: LiferayAUI.getFilterConfig(),
+				modules: {
+					'liferay-ddm-form': {
+						path: 'ddm_form.js',
+						requires: [
+							'aui-base',
+							'aui-datatable',
+							'aui-datatype',
+							'aui-image-viewer',
+							'aui-parse-content',
+							'aui-set',
+							'aui-sortable-list',
+							'json',
+							'liferay-form',
+							'liferay-map-base',
+							'liferay-translation-manager',
+							'liferay-util-window',
+						],
+					},
+					'liferay-portlet-dynamic-data-mapping': {
+						condition: {
+							trigger: 'liferay-document-library',
+						},
+						path: 'main.js',
+						requires: [
+							'arraysort',
+							'aui-form-builder-deprecated',
+							'aui-form-validator',
+							'aui-map',
+							'aui-text-unicode',
+							'json',
+							'liferay-menu',
+							'liferay-translation-manager',
+							'liferay-util-window',
+							'text',
+						],
+					},
+					'liferay-portlet-dynamic-data-mapping-custom-fields': {
+						condition: {
+							trigger: 'liferay-document-library',
+						},
+						path: 'custom_fields.js',
+						requires: ['liferay-portlet-dynamic-data-mapping'],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='exportimport-web@5.0.85/index';var MODULE_PATH='/o/exportimport-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			exportimportweb: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-export-import-export-import': {
+						path: 'main.js',
+						requires: [
+							'aui-datatype',
+							'aui-dialog-iframe-deprecated',
+							'aui-modal',
+							'aui-parse-content',
+							'aui-toggler',
+							'liferay-portlet-base',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-react-web@5.0.41/index';var MODULE_PATH='/o/frontend-js-react-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			react: {
+				// eslint-disable-next-line
+				mainModule: MODULE_MAIN,
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/document-library-web@6.0.182/index';var MODULE_PATH='/o/document-library-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			dl: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'document-library-upload-component': {
+						path: 'DocumentLibraryUpload.js',
+						requires: [
+							'aui-component',
+							'aui-data-set-deprecated',
+							'aui-overlay-manager-deprecated',
+							'aui-overlay-mask-deprecated',
+							'aui-parse-content',
+							'aui-progressbar',
+							'aui-template-deprecated',
+							'liferay-search-container',
+							'querystring-parse-simple',
+							'uploader',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}</script>
+
+
+
+
+<script type="text/javascript" data-senna-track="temporary">
+	// <![CDATA[
+		
+			
+				
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.um.es/o/um-lr-genericov2-um-theme/css/main.css?browserId=chrome&amp;themeId=umlrgenericov2umtheme_WAR_umlrgenericov2umtheme&amp;minifierType=css&amp;languageId=en_US&amp;t=1769512366000" id="liferayThemeCSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<script data-senna-track="temporary">var Liferay = window.Liferay || {}; Liferay.CommerceContext = {"commerceAccountGroupIds":[],"accountEntryAllowedTypes":["person"],"commerceChannelId":"0","showUnselectableOptions":false,"currency":{"currencyId":"54227948","currencyCode":"USD"},"showSeparateOrderItems":false,"commerceSiteType":0};</script><link href="/o/commerce-frontend-js/styles/main.css" rel="stylesheet" type="text/css">
+<style data-senna-track="temporary" type="text/css">
+</style>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" data-senna-track="temporary">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title:event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/vendor/jquery-ui-1.11.3.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/vendor/datepicker-es.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/respond.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/vendor/cookies-enabler.min.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-miweb-relacion.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+
+		<script src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://cdn.datatables.net/buttons/1.1.2/js/dataTables.buttons.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://cdn.datatables.net/buttons/1.1.2/js/buttons.colVis.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/vendor/jquery.responsiveTabs.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://cdn.datatables.net/plug-ins/1.11.5/filtering/type-based/accent-neutralise.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+    
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&amp;display=swap" rel="stylesheet">
+
+
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/vendor/jquery-migrate-3.0.0.min.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.4/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.4/locale/es.js"></script>
+<script src="https://cdn.datatables.net/plug-ins/1.10.15/sorting/datetime-moment.js"></script>
+<script src="//cdn.datatables.net/plug-ins/1.10.21/dataRender/datetime.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.6.5/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.flash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.html5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.print.min.js"></script>
+<script src="//cdn.datatables.net/buttons/1.1.2/js/buttons.colVis.min.js"></script>
+<script src="//cdn.datatables.net/plug-ins/1.10.21/api/sum().js" type="text/javascript"></script>
+
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-utils.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-layout-utils.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/vendor/dataTables.bootstrap4.min.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/img-normalizer.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/slugify.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-agenda-siu.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-listado-titulaciones.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-tooltips.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-acordeon-tabs.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-destacados.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-whatsapp-contact.js?browserId=chrome&amp;amp;minifierType=js&amp;amp;languageId=en_US&amp;amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-accesibilidad.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-scroll-monitor.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-temp-fixes.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+
+
+		<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/um-plugins/um-social-sharing.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="Plan de estudios del Máster Universitario en Nuevas Tecnologías en Informática">
+<meta property="og:description" content="Plan de estudios - Portal de Estudios - Universidad de Murcia">
+<meta property="og:url" content="https://www.um.es/en/web/estudios/masteres/tecnologias-informatica/plan-guias">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://www.um.es/o/um-lr-genericov2-um-theme/images/rrss-default-image.jpg">    <title>Plan de estudios - Portal de Estudios</title>
+
+<link rel="stylesheet" type="text/css" href="/o/frontend-js-web/liferay/modal/Modal.css"><link rel="stylesheet" type="text/css" href="/o/frontend-js-web/css/notification.css"></head>
+
+<body class="chrome controls-visible  yui3-skin-sam signed-out public-page site portales">
+
+<noscript class="um-gtm">
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWBMMX"
+            style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav aria-label="Quick Links" class="bg-dark cadmin quick-access-nav text-center text-white" id="ccrd_quickAccessNav">
+		
+			
+				<a class="d-block p-2 sr-only sr-only-focusable text-reset" href="#main-content">
+		Skip to Main Content
+	</a>
+			
+			
+	</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.alert.lfr-shutdown-message.popup-alert-warning .popup-alert-close{
+ display: none;
+}
+</style>
+
+
+
+
+
+
+
+
+
+<span id="scrolltop" class="fa-solid fa-angles-up fa-2x fa-border" title="Up">
+    <span class="oculto">Up</span>
+</span>
+
+<div class="cabecera-container um">
+
+<div class="accesos hidden-xs">
+    <div class="accesos__botones" id="accesos__botones">
+        <button class="accesos__boton accesos__boton--menu collapsed btn btn--recto menu-accesible__b" role="button" data-toggle="collapse" data-target="#accesos__panel--menu" aria-expanded="false" aria-controls="accesos__panel--menu">
+            <span class="sr-only">Menu</span>
+            <span class="accesos__icono-menu fa-solid fa-bars"></span>
+        </button>
+        <button class="accesos__boton accesos__boton--buscar collapsed btn btn--recto menu-accesible__b" role="button" data-toggle="collapse" data-target="#accesos__panel--buscar" aria-expanded="false" aria-controls="accesos__panel--buscar">
+            <span class="sr-only">Search</span>
+            <span class="accesos__icono-menu fa-solid fa-magnifying-glass"></span>
+        </button>
+    </div>
+    <div class="container">
+        <div class="row accesos__cabecera">
+            <div class="col-lg-7 col-md-8 col-sm-12 accesos__genericos">
+                <p class="accesos__genericos_p accesos__p--margen">
+                    <a href="https://aulavirtual.um.es" rel="nofollow" class="um-lr-gtm-portales-accesos-aula-virtual" alt="Virtual Campus">Virtual Campus</a>
+                </p>
+                <p class="accesos__genericos_p accesos__p--margen">
+                    <a href="https://www.um.es/web/biblioteca" rel="nofollow" class="um-lr-gtm-portales-accesos-biblioteca" alt="Library">Library</a>
+                </p>
+                <p class="accesos__genericos_p accesos__p--margen hidden-xs hidden-sm">
+                    <a href="https://sede.um.es/" rel="nofollow" class="um-lr-gtm-portales-accesos-sede-electronica" alt="Electronic Office">Electronic Office</a>
+                </p>
+                <p class="accesos__genericos_p accesos__p--margen visible-sm hidden-md hidden-lg visible-xs">
+                    <a href="https://sede.um.es/" rel="nofollow" class="um-lr-gtm-portales-accesos-sede-electronica" alt="Electronic Office">e-Office</a>
+                </p>
+                <p class="accesos__genericos_p accesos__p--margen">
+                    <a href="https://tienda.um.es/" class="um-lr-gtm-portales-accesos-tienda" alt="Store">Store</a>
+                </p>
+                <p class="accesos__genericos_p accesos__p--margen">
+                    <a href="https://www.um.es/web/directorio" rel="nofollow" class="um-lr-gtm-portales-accesos-directorio" alt="Directory">Directory</a>
+                </p>
+                <p class="accesos__genericos_p accesos__p--margen">
+                    <a href="https://webmail.um.es/" rel="nofollow" class="um-lr-gtm-portales-accesos-webmail" alt="Webmail">Webmail</a>
+                </p>
+            </div>
+            <div class="col-lg-5 col-md-4 col-sm-12 accesos__redes-p">
+                <div class="row">
+                    <div class="col-sm-12 accesos__p__container d-flex justify-content-end">
+<div class="dropdown accesos__p accesos__p--margen" id="language-selector">
+    <a class="pb-0 pt-0 menu-accesible__b dropdown-toggle" role="button" href="#" id="language-selector__button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        English
+        <i class="fa-solid fa-chevron-down" aria-hidden="true" title="Desplegar submenú de idioma"></i>
+        <span class="sr-only">Desplegar submenú de idioma</span>
+    </a>
+    <ul class="dropdown-menu menu-accesible__c" aria-labelledby="language-selector__button">
+                <li class="dropdown-item menu-accesible__l">
+                    <a href="https://www.um.es/c/portal/update_language?p_l_id=13319966&amp;redirect=https%3A%2F%2Fwww.um.es%2Fen%2Fweb%2Festudios%2Fmasteres%2Ftecnologias-informatica%2Fplan-guias&amp;languageId=es_ES" class="menu-accesible__e um-lr-gtm-portales-accesos-idioma" lang="es">Español</a>
+                </li>
+    </ul>
+</div>
+
+                        <p class="accesos__p accesos__p--margen">
+                            <a href="/web/universidad/contacto" rel="nofollow" class="um-lr-gtm-portales-accesos-consultanos" alt="Contact" us="">Contact us
+                            </a>
+                        </p>
+
+                            <p class="accesos__p accesos__p--margen">
+                                <a href="https://www.um.es/c/portal/login?p_l_id=13319966" rel="nofollow" class="um-lr-gtm-portales-accesos-acceder" alt="Sign In">Sign In
+                                    <i class="fa-solid fa-lock"></i></a>
+                            </p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row accesos__panel accesos__panel--menu collapse menu-accesible__c" id="accesos__panel--menu">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-md-2 accesos__panel--columna">
+                        <ul>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/universidad">University</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/estudios">Studies</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/investigacion">Research</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/internacionalizacion">Internationalisation</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/transferencia">Transfer</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/empleo">Employment</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/universidad/estructura/centros">Faculties</a>
+                            </li><li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/umucomunica">Communication</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2 accesos__panel--columna">
+                        <ul>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/estudiantes">Students</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/pdi">PDI</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/ptgas">PTGAS</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="/web/pi">PI</a>
+                            </li>
+                            <li class="menu-accesible__l">
+                                <a class="menu-accesible__e" href="https://micampus.um.es">My Campus</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row accesos__panel accesos__panel--buscar collapse" id="accesos__panel--buscar">
+            <div class="col-sm-12">
+                <div id="buscador-container" role="search">
+                    <form name="formbuscar" class="form-search" action="/web/universidad/buscador">
+                        <label for="q">
+                            <span class="sr-only">Search in www.um.es</span>
+                            <input name="q" type="text" size="50" id="q" placeholder="Search in www.um.es" aria-label="Search" role="searchbox" class="menu-accesible__e">
+                        </label>
+                        <input type="hidden" name="ie" value="UTF-8">
+                        <input type="hidden" name="cx" value="009167550808675375826:qh8wfgo2pbk">
+                        <button type="submit" class="menu-accesible__e">
+                            <i class="form-search__icon fa-solid fa-magnifying-glass">
+                                <span class="sr-only">Search</span>
+                            </i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <header id="cabecera">
+        <div class="container franja-cabecera um">
+            <div class="row banda-cabecera">
+
+                        <div class="col-6">
+                            <div id="logo-sitio" class="d-flex flex-column justify-content-center h-100">
+                                <a href="/web/estudios">
+                                    <img src="/image/layout_set_logo?img_id=29434685&amp;t=1769660004455" alt="Portal de Estudios" class="img-responsive">
+                                </a>
+                            </div>
+
+ 
+                        </div>
+                    <div class="col-6">
+                        <div id="logo-um" class="pull-right">
+                            <a href="/en/" data-senna-off="true">
+                                <img class="img-responsive hidden-xs" src="https://www.um.es/o/um-lr-genericov2-um-theme/images/logo-um.png" alt="University of Murcia Logo">
+                                <img class="img-responsive visible-xs" src="https://www.um.es/o/um-lr-genericov2-um-theme/images/logo-universidad-sinescudo.png" alt="University of Murcia Logo">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </header>
+
+<section id="navegacion" class="hidden-xs">
+    <div class="container-fluid">
+        <div class="banda-menu row">
+            <div class="col-xl-12">
+                <nav class="navbar navbar-default" id="navegacion-sup">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle collapsed">
+                            <span class="sr-only">Menu</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="navegacion-lista">
+                        <ul class="nav navbar-nav">
+
+                                    <li class="dropdown no-menu">
+                                    <a onclick="location.href=this.href;" id="Menu-1" href="https://www.um.es/en/web/estudios/inicio">
+                                        <span class="apartado">Inicio</span>
+                                    </a>
+                                </li> 
+
+                                    <li class="dropdown">
+                                        <div class="apartado">
+                                                <a href="https://www.um.es/en/web/estudios/que-estudiar" id="Menu-2">
+                                                    <span>Qué estudiar</span>
+                                                </a>
+
+                                            <button class="btn btn-link apartado__boton-submenu pb-0 pt-0 menu-accesible__b">
+                                                <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+                                                <span class="sr-only">Desplegar submenú de Qué estudiar</span>
+                                            </button>
+                                        </div> 
+                                        <ul class="dropdown-menu menu-accesible__c">
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-2-SubMenu-1" href="https://www.um.es/en/web/estudios/que-estudiar/grados" class="menu-accesible__e">
+                                                        Grados
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-2-SubMenu-2" href="https://www.um.es/en/web/estudios/que-estudiar/m%C3%A1steres" class="menu-accesible__e">
+                                                        Másteres
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-2-SubMenu-3" href="https://www.um.es/en/web/estudios/que-estudiar/doctorados" class="menu-accesible__e">
+                                                        Doctorados
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-2-SubMenu-4" href="https://www.um.es/en/web/estudios/que-estudiar/estudios-bilingues" class="menu-accesible__e">
+                                                        Estudios bilingües
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-2-SubMenu-5" href="https://www.um.es/en/web/estudios/que-estudiar/formacion-complementaria" class="menu-accesible__e">
+                                                        Formaciones complementarias
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-2-SubMenu-6" href="https://www.um.es/en/web/estudios/que-estudiar/estudiante-visitante" class="menu-accesible__e">
+                                                        Estudiante visitante
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                </li> 
+
+                                    <li class="dropdown">
+                                        <div class="apartado">
+                                                <a href="https://www.um.es/en/web/estudios/acceso" id="Menu-3">
+                                                    <span>Acceso</span>
+                                                </a>
+
+                                            <button class="btn btn-link apartado__boton-submenu pb-0 pt-0 menu-accesible__b">
+                                                <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+                                                <span class="sr-only">Desplegar submenú de Acceso</span>
+                                            </button>
+                                        </div> 
+                                        <ul class="dropdown-menu menu-accesible__c">
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-1" href="https://www.um.es/en/web/estudios/acceso/estudiantes-bachillerato-y-ciclos-formativos" class="menu-accesible__e">
+                                                        PAU
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-2" href="https://www.um.es/en/web/estudios/acceso/pruebas-acceso-mayores-25-y-45" class="menu-accesible__e">
+                                                        Mayores de 25 y 45 años
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-3" href="https://www.um.es/en/web/estudios/acceso/pruebas-acceso-mayores-40" class="menu-accesible__e">
+                                                        Mayores de 40 años
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-4" href="https://www.um.es/en/web/estudios/acceso/sistemas-educativos-extranjeros-grado" class="menu-accesible__e">
+                                                        I am an International Student. How can I enroll in the University?
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-5" href="https://www.um.es/en/web/estudios/acceso/master" class="menu-accesible__e">
+                                                        Máster
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-6" href="https://www.um.es/en/web/estudios/acceso/doctorado" class="menu-accesible__e">
+                                                        Doctorado
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-7" href="https://www.um.es/en/web/estudios/acceso/cursos-adaptacion" class="menu-accesible__e">
+                                                        Acceso a cursos de adaptación
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-3-SubMenu-8" href="https://www.um.es/en/web/estudios/acceso/oferta-de-plazas" class="menu-accesible__e">
+                                                        Oferta de plazas
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                </li> 
+
+                                    <li class="dropdown">
+                                        <div class="apartado">
+                                                <a href="https://www.um.es/en/web/estudios/admision" id="Menu-4">
+                                                    <span>Admisión</span>
+                                                </a>
+
+                                            <button class="btn btn-link apartado__boton-submenu pb-0 pt-0 menu-accesible__b">
+                                                <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+                                                <span class="sr-only">Desplegar submenú de Admisión</span>
+                                            </button>
+                                        </div> 
+                                        <ul class="dropdown-menu menu-accesible__c">
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-4-SubMenu-1" href="https://www.um.es/en/web/estudios/admision/preinscripcion-grado" class="menu-accesible__e">
+                                                        Preinscripción Grado
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-4-SubMenu-2" href="https://www.um.es/en/web/estudios/admision/preinscripcion-master" class="menu-accesible__e">
+                                                        Preinscripción Máster
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-4-SubMenu-3" href="https://www.um.es/en/web/estudios/admision/preinscripcion-doctorado" class="menu-accesible__e">
+                                                        Preinscripción Doctorado
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-4-SubMenu-4" href="https://www.um.es/en/web/estudios/admision/homologacion" class="menu-accesible__e">
+                                                        Homologación
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                </li> 
+
+                                    <li class="dropdown">
+                                        <div class="apartado">
+                                                <a href="https://www.um.es/en/web/estudios/matricula" id="Menu-5">
+                                                    <span>Matrícula</span>
+                                                </a>
+
+                                            <button class="btn btn-link apartado__boton-submenu pb-0 pt-0 menu-accesible__b">
+                                                <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+                                                <span class="sr-only">Desplegar submenú de Matrícula</span>
+                                            </button>
+                                        </div> 
+                                        <ul class="dropdown-menu menu-accesible__c">
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-5-SubMenu-1" href="https://www.um.es/en/web/estudios/matricula/grado" class="menu-accesible__e">
+                                                        Grado
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-5-SubMenu-2" href="https://www.um.es/en/web/estudios/matricula/master" class="menu-accesible__e">
+                                                        Máster
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-5-SubMenu-3" href="https://www.um.es/en/web/estudios/matricula/doctorado" class="menu-accesible__e">
+                                                        Doctorado
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                </li> 
+
+                                    <li class="dropdown no-menu">
+                                    <a onclick="location.href=this.href;" id="Menu-6" href="https://www.um.es/en/web/estudios/becas">
+                                        <span class="apartado">Becas</span>
+                                    </a>
+                                </li> 
+
+                                    <li class="dropdown no-menu">
+                                    <a onclick="location.href=this.href;" id="Menu-7" href="https://www.um.es/en/web/estudios/normativa">
+                                        <span class="apartado">Normativa</span>
+                                    </a>
+                                </li> 
+
+                                    <li class="dropdown">
+                                        <div class="apartado">
+                                                <a href="https://www.um.es/en/web/estudios/faq" id="Menu-8">
+                                                    <span>FAQ</span>
+                                                </a>
+
+                                            <button class="btn btn-link apartado__boton-submenu pb-0 pt-0 menu-accesible__b">
+                                                <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+                                                <span class="sr-only">Desplegar submenú de FAQ</span>
+                                            </button>
+                                        </div> 
+                                        <ul class="dropdown-menu menu-accesible__c">
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-8-SubMenu-1" href="https://www.um.es/en/web/estudios/faq/grado" class="menu-accesible__e">
+                                                        Grado
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-8-SubMenu-2" href="https://www.um.es/en/web/estudios/faq/master" class="menu-accesible__e">
+                                                        Máster
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                </li> 
+
+                                    <li class="dropdown">
+                                        <div class="apartado">
+                                                <a href="https://www.um.es/en/web/estudios/utilidades" id="Menu-9">
+                                                    <span>Utilidades</span>
+                                                </a>
+
+                                            <button class="btn btn-link apartado__boton-submenu pb-0 pt-0 menu-accesible__b">
+                                                <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+                                                <span class="sr-only">Desplegar submenú de Utilidades</span>
+                                            </button>
+                                        </div> 
+                                        <ul class="dropdown-menu menu-accesible__c">
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-1" href="https://www.um.es/web/siu/servicios/calculadora-matricula" class="menu-accesible__e">
+                                                        Calculadora de matrícula
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-2" href="https://www.um.es/en/web/estudios/buscador-academico" class="menu-accesible__e">
+                                                        Buscador académico
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-3" href="https://www.um.es/en/web/estudios/utilidades/ponderaciones" class="menu-accesible__e">
+                                                        Ponderaciones
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-4" href="https://www.um.es/web/siu/simuladornotas" class="menu-accesible__e">
+                                                        Simulador de notas de corte
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-5" href="https://www.um.es/web/siu/servicios/evolucion-de-las-notas-de-corte" class="menu-accesible__e">
+                                                        Evolución de notas de corte
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-6" href="https://www.um.es/web/siu/servicios/tu-decides" class="menu-accesible__e">
+                                                        Reconocimiento de créditos
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-7" href="https://aulavirtual.um.es/" class="menu-accesible__e">
+                                                        Aula Virtual
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-8" href="https://tf.um.es/" class="menu-accesible__e">
+                                                        Trabajo fin
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-9" href="https://acadeservicios.um.es/" class="menu-accesible__e">
+                                                        Mi Campus
+                                                    </a>
+                                                </li>
+                                                <li class="menu-accesible__l">
+                                                    <a id="Menu-9-SubMenu-10" href="https://www.um.es/web/academic/secciones/seccion-estudios-grado/traslado-de-expediente" class="menu-accesible__e">
+                                                        Traslado de expediente de PAU
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                </li> 
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="navegacion-movil" class="container-fluid visible-xs-block">
+    <div class="row navegacion-movil__barra-menu">
+        <div class="col-xs-3 navegacion-movil__cabecera navegacion-movil__menu">
+            <span class="navegacion_boton-movil" role="button" data-toggle="collapse" data-target="#menu-movil" aria-expanded="false" aria-controls="menu-movil">
+                <span class="fa-solid fa-bars"></span>
+                Menu
+            </span>
+        </div> 
+        <div class="col-xs-6 navegacion-movil__cabecera navegacion-movil__buscar" role="search">
+            <form name="formbuscar" class="form-search" action="/web/universidad/buscador">
+                <label for="q2">
+                    <span class="sr-only">Search</span>
+                    <input name="q" type="text" size="50" id="q2" placeholder="Search in www.um.es" aria-label="Search" role="searchbox">
+                </label>
+                <input type="hidden" name="ie" value="UTF-8">
+                <input type="hidden" name="cx" value="009167550808675375826:qh8wfgo2pbk">
+                <button type="submit">
+                    <i class="form-search__icon fa-solid fa-magnifying-glass">
+                        <span class="sr-only">Search</span>
+                    </i>
+                </button>
+            </form>
+        </div>             <div class="col-xs-3 navegacion-movil__cabecera navegacion-movil__acceder text-right">
+                <a href="https://www.um.es/en/c/portal/login?p_l_id=13319966" rel="nofollow"><span class="fa-solid fa-right-to-bracket">&nbsp;</span></a>
+            </div>
+    </div> 
+
+    <div id="menu-movil" class="navegacion-movil__cuerpo navegacion-movil_menu collapse" style="height: 720px; max-height: 720px;">
+        <div class="navegacion-movil_submenu navegacion-movil__submenu--superior">
+            <ul id="navegacion-movil__submenu--parent">
+                    <li class="">
+                            <a href="https://www.um.es/en/web/estudios/inicio">Inicio</a>
+                    </li>
+                    <li class="has-child">
+                            <a href="https://www.um.es/en/web/estudios/que-estudiar">Qué estudiar</a>
+                            <i class="fa-solid fa-chevron-down collapsed" role="button" data-toggle="collapse" data-target="#submenumovil2" aria-expanded="false" aria-controls="submenumovil2" title="Desplegar menú Qué estudiar"></i>
+                            <ul id="submenumovil2" class="navegacion-movil__segundo-nivel collapse">
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/que-estudiar/grados">Grados</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/que-estudiar/m%C3%A1steres">Másteres</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/que-estudiar/doctorados">Doctorados</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/que-estudiar/estudios-bilingues">Estudios bilingües</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/que-estudiar/formacion-complementaria">Formaciones complementarias</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/que-estudiar/estudiante-visitante">Estudiante visitante</a>
+                                    </li>
+                            </ul> 
+                    </li>
+                    <li class="has-child">
+                            <a href="https://www.um.es/en/web/estudios/acceso">Acceso</a>
+                            <i class="fa-solid fa-chevron-down collapsed" role="button" data-toggle="collapse" data-target="#submenumovil3" aria-expanded="false" aria-controls="submenumovil3" title="Desplegar menú Acceso"></i>
+                            <ul id="submenumovil3" class="navegacion-movil__segundo-nivel collapse">
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/estudiantes-bachillerato-y-ciclos-formativos">PAU</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/pruebas-acceso-mayores-25-y-45">Mayores de 25 y 45 años</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/pruebas-acceso-mayores-40">Mayores de 40 años</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/sistemas-educativos-extranjeros-grado">I am an International Student. How can I enroll in the University?</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/master">Máster</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/doctorado">Doctorado</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/cursos-adaptacion">Acceso a cursos de adaptación</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/acceso/oferta-de-plazas">Oferta de plazas</a>
+                                    </li>
+                            </ul> 
+                    </li>
+                    <li class="has-child">
+                            <a href="https://www.um.es/en/web/estudios/admision">Admisión</a>
+                            <i class="fa-solid fa-chevron-down collapsed" role="button" data-toggle="collapse" data-target="#submenumovil4" aria-expanded="false" aria-controls="submenumovil4" title="Desplegar menú Admisión"></i>
+                            <ul id="submenumovil4" class="navegacion-movil__segundo-nivel collapse">
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/admision/preinscripcion-grado">Preinscripción Grado</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/admision/preinscripcion-master">Preinscripción Máster</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/admision/preinscripcion-doctorado">Preinscripción Doctorado</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/admision/homologacion">Homologación</a>
+                                    </li>
+                            </ul> 
+                    </li>
+                    <li class="has-child">
+                            <a href="https://www.um.es/en/web/estudios/matricula">Matrícula</a>
+                            <i class="fa-solid fa-chevron-down collapsed" role="button" data-toggle="collapse" data-target="#submenumovil5" aria-expanded="false" aria-controls="submenumovil5" title="Desplegar menú Matrícula"></i>
+                            <ul id="submenumovil5" class="navegacion-movil__segundo-nivel collapse">
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/matricula/grado">Grado</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/matricula/master">Máster</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/matricula/doctorado">Doctorado</a>
+                                    </li>
+                            </ul> 
+                    </li>
+                    <li class="">
+                            <a href="https://www.um.es/en/web/estudios/becas">Becas</a>
+                    </li>
+                    <li class="">
+                            <a href="https://www.um.es/en/web/estudios/normativa">Normativa</a>
+                    </li>
+                    <li class="has-child">
+                            <a href="https://www.um.es/en/web/estudios/faq">FAQ</a>
+                            <i class="fa-solid fa-chevron-down collapsed" role="button" data-toggle="collapse" data-target="#submenumovil8" aria-expanded="false" aria-controls="submenumovil8" title="Desplegar menú FAQ"></i>
+                            <ul id="submenumovil8" class="navegacion-movil__segundo-nivel collapse">
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/faq/grado">Grado</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/faq/master">Máster</a>
+                                    </li>
+                            </ul> 
+                    </li>
+                    <li class="has-child">
+                            <a href="https://www.um.es/en/web/estudios/utilidades">Utilidades</a>
+                            <i class="fa-solid fa-chevron-down collapsed" role="button" data-toggle="collapse" data-target="#submenumovil9" aria-expanded="false" aria-controls="submenumovil9" title="Desplegar menú Utilidades"></i>
+                            <ul id="submenumovil9" class="navegacion-movil__segundo-nivel collapse">
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/web/siu/servicios/calculadora-matricula">Calculadora de matrícula</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/buscador-academico">Buscador académico</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/en/web/estudios/utilidades/ponderaciones">Ponderaciones</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/web/siu/simuladornotas">Simulador de notas de corte</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/web/siu/servicios/evolucion-de-las-notas-de-corte">Evolución de notas de corte</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/web/siu/servicios/tu-decides">Reconocimiento de créditos</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://aulavirtual.um.es/">Aula Virtual</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://tf.um.es/">Trabajo fin</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://acadeservicios.um.es/">Mi Campus</a>
+                                    </li>
+                                    <li class="navegacion-movil__segundo-nivel--item">
+                                        <a href="https://www.um.es/web/academic/secciones/seccion-estudios-grado/traslado-de-expediente">Traslado de expediente de PAU</a>
+                                    </li>
+                            </ul> 
+                    </li>
+            </ul> 
+        </div>             <div class="navegacion-movil__submenu navegacion-movil__submenu--medio">
+                <ul>
+                    <li><a href="/web/universidad" class="um-lr-gtm-portales-menu-movil">University</a></li>
+                    <li><a href="/web/estudios" class="um-lr-gtm-portales-menu-movil">Studies</a></li>
+                    <li><a href="/web/investigacion" class="um-lr-gtm-portales-menu-movil">Research</a></li>
+                    <li><a href="/web/internacionalizacion" class="um-lr-gtm-portales-menu-movil">Internationalisation</a></li>
+                    <li><a href="/web/transferencia" class="um-lr-gtm-portales-menu-movil">Transfer</a></li>
+                    <li><a href="/web/empleo" class="um-lr-gtm-portales-menu-movil">Employment</a></li>
+                    <li><a href="/web/universidad/estructura/centros" class="um-lr-gtm-portales-menu-movil">Faculties</a></li>
+                    <li><a href="/web/umucomunica" class="um-lr-gtm-portales-menu-movil">Communication</a></li>
+                    <li><a href="/web/estudiantes" class="um-lr-gtm-portales-menu-movil">Students</a></li>
+                    <li><a href="/web/pdi" class="um-lr-gtm-portales-menu-movil">PDI</a></li>
+                    <li><a href="/web/ptgas" class="um-lr-gtm-portales-menu-movil">PTGAS</a></li>
+                    <li><a href="/web/pi" class="um-lr-gtm-portales-menu-movil">PI</a></li>
+                    <li><a href="/web/ari/euniwell" class="um-lr-gtm-portales-menu-movil">European University for Well-Being</a></li>
+                    <li><a href="https://micampus.um.es" class="um-lr-gtm-portales-menu-movil">My Campus</a></li>
+                </ul>
+            </div>
+            <div class="navegacion-movil__submenu navegacion-movil__submenu--inferior">
+                <ul>
+                    <li><a href="https://aulavirtual.um.es">Virtual Campus</a></li>
+                    <li><a href="https://www.um.es/web/biblioteca">Library</a></li>
+                    <li><a href="https://sede.um.es/">Electronic Office</a></li>
+                    <li><a href="https://tienda.um.es/">Store</a></li>
+                    <li><a href="https://www.um.es/web/directorio">Directory</a></li>
+                    <li><a href="https://webmail.um.es/">Webmail</a></li>
+                    <li><a href="https://www.um.es/web/siu/consultanos">Contact us</a></li>
+                </ul>
+                
+                <div class="container-fluid navegacion-movil__redes-sociales">
+                    <div class="row">
+                        <div class="red-social col-xs-1">
+                            <a href="https://www.facebook.com/universidadmurcia" class="um-lr-gtm-portales-accesos-facebook" title="Facebook" target="_blank">
+                                <span class="sr-only">Facebook</span>
+                                <i class="fa-brands fa-square-facebook"></i>
+                            </a>
+                        </div>
+                        <div class="red-social col-xs-1">
+                            <a href="https://twitter.com/UMU" class="um-lr-gtm-portales-accesos-twitter" title="Twitter" target="_blank">
+                                <span class="sr-only">Twitter</span>
+                                <i class="fa-brands fa-x-twitter"></i>
+                            </a>
+                        </div>
+                        <div class="red-social col-xs-1">
+                            <a href="https://pinterest.com/umnoticias/" class="um-lr-gtm-portales-accesos-pinterest" title="Pinterest" target="_blank">
+                                <span class="sr-only">Pinterest</span>
+                                <i class="fa-brands fa-pinterest"></i>
+                            </a>
+                        </div>
+                        <div class="red-social col-xs-1">
+                            <a href="https://www.youtube.com/universidaddemurcia" class="um-lr-gtm-portales-accesos-youtube" title="Youtube" target="_blank">
+                                <span class="sr-only">Youtube</span>
+                                <i class="fa-brands fa-youtube"></i>
+                            </a>
+                        </div>
+                        <div class="red-social col-xs-1">
+                            <a href="https://www.instagram.com/umunoticias/" class="um-lr-gtm-portales-accesos-instagram" title="Instagram" target="_blank">
+                                <span class="sr-only">Instagram</span>
+                                <i class="fa-brands fa-instagram"></i>
+                            </a>
+                        </div>
+                        <div class="red-social col-xs-1">
+                            <a href="https://t.me/UMUinforma" class="um-lr-gtm-portales-accesos-telegram" title="Telegram" target="_blank">
+                                <span class="sr-only">Telegram</span>
+                                <i class="fa-brands fa-telegram"></i>
+                            </a>
+                        </div>
+                        <div class="red-social col-xs-1">
+                            <a href="https://www.tiktok.com/@universidadmurcia" class="um-lr-gtm-portales-accesos-tiktok" title="TikTok" target="_blank">
+                                <span class="sr-only">TikTok</span>
+                                <i class="fa-brands fa-tiktok"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container-fluid navegacion-movil__idioma">
+                    <div class="row">
+                        <div class="col">
+<ul class="list-group list-group-horizontal">
+    <li class="list-group-item active m-1">
+        EN
+    </li>
+        <li class="list-group-item m-1">
+            <a href="https://www.um.es/c/portal/update_language?p_l_id=13319966&amp;redirect=https%3A%2F%2Fwww.um.es%2Fen%2Fweb%2Festudios%2Fmasteres%2Ftecnologias-informatica%2Fplan-guias&amp;languageId=es_ES" class="menu-accesible__e um-lr-gtm-portales-accesos-idioma" lang="es">
+                ES
+            </a>
+        </li>
+</ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+</section>
+</div>
+<div class="cuerpo um">
+    <section id="content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_  portlet-static portlet-static-end portlet-barebone portlet-breadcrumb " id="p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_">
+		<span id="p_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav aria-label="Breadcrumb" id="_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_breadcrumbs-defaultScreen">
+	
+			<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+					<a class="breadcrumb-link" href="/en/web/estudios">
+						<span class="breadcrumb-text-truncate">Portal de Estudios</span>
+					</a>
+			</li>
+			<li class="breadcrumb-item">
+					<a class="breadcrumb-link" href="https://www.um.es/en/web/estudios/masteres">
+						<span class="breadcrumb-text-truncate">Másteres</span>
+					</a>
+			</li>
+			<li class="breadcrumb-item">
+					<a class="breadcrumb-link" href="https://www.um.es/en/web/estudios/masteres/tecnologias-informatica">
+						<span class="breadcrumb-text-truncate">MSc on New Technologies in Computer Science</span>
+					</a>
+			</li>
+			<li class="breadcrumb-item">
+					<span class="active breadcrumb-text-truncate">Plan de estudios</span>
+			</li>
+	</ol>
+
+	
+</nav>
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+                <div class="fin"><hr></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<style type="text/css">
+			.master-layout-fragment .portlet-header {
+				display: none;
+			}
+		</style>
+
+		
+
+		<div class="home-secundarias-30-70-encabezado-um secundarias-um" id="main-content" role="main">
+    <div class="container-fluid franja franja-uno">
+        <div class="portlet-layout row caja caja-uno">
+            <div class="col-lg-4 portlet-column portlet-column-first" id="column-1">
+                <div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+
+	
+
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10084-22661235" data-fragments-editor-item-type="fragments-editor-mapped-item">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="22661233" data-analytics-asset-title="Menú Titulación Máster en Nuevas Tecnologías en Informática Nuevo" data-analytics-asset-type="web-content" data-analytics-web-content-resource-pk="22661235">
+			
+
+			
+<nav class="navbar titulacion-menu">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#bs-navbar-collapse-menu" data-toggle="collapse" type="button">
+                <span class="sr-only">Alternar navegación</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <p class="navbar-brand titulacion-menu-desplegable">Guía de la titulación</p>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-menu">
+
+                        <div class="titulacion-menu-logo-centro">
+                            <a class="um-lr-gtm-portales-menu-tit-logo" href="/web/informatica/inicio">
+                                <picture data-fileentryid="22607099"><source media="(max-width:128px)" srcset="/o/adaptive-media/image/22607099/Thumbnail-128x128/logo+Informatica.png?t=1614029204239"><source media="(max-width:250px) and (min-width:128px)" srcset="/o/adaptive-media/image/22607099/Preview-1000x0/logo+Informatica.png?t=1614029204239"><img alt="Logo Facultad de Informática" data-fileentryid="22607099" src="/documents/1083928/22436677/logo+Informatica.png/7a32c072-5951-4544-2d78-6ff8b6f5e9ee?t=1614029204239" class="img-responsive"></picture>
+                            </a>
+                        </div>
+
+
+
+                <ul class="nav navbar-nav titulacion-menu-opcion">
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica">Presentación</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/descripcion">Descripción de la titulación</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/admision">Admisión</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/plan-guias">Plan de estudios y guías docentes</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/tfm">Trabajos Fin de Máster</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/horarios-examenes">Horarios y exámenes<i class="fas fa-calendar-alt"></i></a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/profesorado">Profesorado</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/orientacion">Orientación</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/practicas-becas">Becas y prácticas</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/documentacion">Documentación de la titulación</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/gestion-titulacion">Gestión de la titulación</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/calidad-resultados">Calidad y resultados académicos</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/curso-anterior">Cursos anteriores</a></li>
+
+
+                        <li class=""><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/estudios/masteres/tecnologias-informatica/informacion">Otra información de interés</a></li>
+
+
+                        <li class="titulacion-menu-opcion-otros"><a class="um-lr-gtm-portales-menu-tit-menu" href="/web/informatica/estudios">Otros estudios de la Facultad de Informática</a></li>
+                </ul>
+
+
+                <div class="text-center">
+                    <a href="/web/informatica/buzon" class="um-lr-gtm-portales-menu-tit-buzon btn btn-labeled btn-primary btn-lg boton-buzon" type="button">
+                        <span class="btn-label"><i class="fas fa-envelope"></i></span>Suggestion box
+                    </a>
+                </div>
+        </div>
+    </div>
+</nav>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+		<div class="asset-links content-metadata-asset-addon-entries">
+			<div class="content-metadata-asset-addon-entry content-metadata-asset-addon-entry-links">
+				
+			</div>
+		</div>
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div>
+            </div>
+            <div class="col-lg-8 portlet-column portlet-column-last" id="column-2">
+                    <h1 class="h1-visible">Plan de estudios del Máster Universitario en Nuevas Tecnologías en Informática</h1>
+                <div class="portlet-dropzone portlet-column-content portlet-column-content-last" id="layout-column_column-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+
+	
+
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10084-13370451" data-fragments-editor-item-type="fragments-editor-mapped-item">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="13370449" data-analytics-asset-title="Guías docentes (Máster en tecnologías informáticas)" data-analytics-asset-type="web-content" data-analytics-web-content-resource-pk="13370451">
+			
+
+			<p>Esta página muestra el plan de estudios oficial de la titulación y los correspondientes enlaces a la guías docentes.</p>
+
+<div class="portlet-msg-alert">NOTA: Debido a la implantación en la Facultad de Informática de los nuevos títulos de Master en Ciberseguridad y Master en Ingeniería del Software. A partir del curso &nbsp;2023/2024 solo se impartirán tres de las especialidades contempladas en el titulo:
+<ul>
+	<li>Arquitectura de Altas Prestaciones y Supercomputación</li>
+	<li>Informática Industrial</li>
+	<li>Inteligencia Artificial y Aplicaciones Médicas&nbsp;</li>
+</ul>
+Se indican en color amarillo y con un “*”, aquellas asignaturas que se impartirán y por tanto de las que será posible matricularse el curso 2023/2024.<br>
+&nbsp;</div>
+
+<h2>Guías Docentes</h2>
+
+<ul>
+	<li><a href="/web/estudios/masteres/tecnologias-informatica/2025-26/guias"><strong>Guías docentes 2025-26</strong></a></li>
+	<li><a href="/web/estudios/masteres/tecnologias-informatica/2024-25/guias">Guías docentes 2024-25</a></li>
+</ul>
+
+<h3>Histórico Guías Docentes</h3>
+
+<ul id="yui_patched_v3_11_0_1_1595485598081_539">
+	<li id="yui_patched_v3_11_0_1_1595485598081_538"><a href="/web/estudios/masteres/tecnologias-informatica/historico-guias">Listado&nbsp;Guías docentes años anteriores</a></li>
+</ul>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+
+	
+
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10084-13370479" data-fragments-editor-item-type="fragments-editor-mapped-item">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="13370477" data-analytics-asset-title="Plan de estudios del Máster Universitario en tecnologías informáticas" data-analytics-asset-type="web-content" data-analytics-web-content-resource-pk="13370479">
+			
+
+			<h2>General Organization</h2>
+
+<p>Since the course 2012/2013 <bold> several courses are being taught in English</bold>.</p>
+
+<p>The Master Degree in New Technologies in Computer Science from the University of Murcia is organized according to the following basic structure:</p>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Type of Courses</th>
+			<th>ECTS Credits</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>SPECIALISM</td>
+			<td>42</td>
+		</tr>
+		<tr>
+			<td>MASTER THESIS</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>TOTAL</td>
+			<td>60</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Every student can chose one of the following specialist options:</p>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>SPECIALISM</th>
+			<th>SHORT DESCRIPTION</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Intelligent and knowledge technologies with applications in medicine (Most in Spanish)</td>
+			<td>The goal of the IKTAM specialism is to train students in both advanced Artificial Intelligence techniques and Medical Informatics. This academic program combines theoretical and practical aspects and introduces the student to the research field. Artificial Intelligence courses provide the students a solid knowledge to face data analysis problems using data mining techniques, the semantic web and the development of knowledge-based systems. Medical Informatics courses focus on electronic health records, current medical standards, data-ware housing and clinical data analysis. The IKTAM provides the students an up-to-date knowledge and skills required in today's research and R+D activities in both areas from an interdisciplinary perspective.
+			<p><strong>Keywords</strong>: Data Mining, Knowledge-based Systems, Artificial Intelligence in Medicine, Medical Informatics, Business Intelligence, Semantic Web, Biomedical Applications.</p>
+			<!--      The aim is to train students to be able to select, integrate and evaluate models and theories of computer science in the identification, analysis, description and resolution of ICT-related problems in the field of biomedicine.--></td>
+		</tr>
+		<tr>
+			<td>Networks and Telematics</td>
+			<td>The main goal of this itinerary is to provide the students with the most important concepts to model, design, deploy, evaluate and manage network communication architectures, improving their abilities for innovation paying attention in new trends and research lines in this area. In particular, the itinerary will be focused in advanced concepts in security and mobility as well as different types of innovative network architectures, such as heterogeneous and multi-hop networks.
+			<p><strong>Keywords</strong>:Advanced Security, Mobility, Security in Heterogenous Networks and Multi-hop Networks.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Engineering ubiquitous computing environments</td>
+			<td>The main goal of this group of subjects include delivering to the students the necessary training skills for development, deployment and management of typical applications and services for the ubiquitous computing domain.
+			<p><strong>Keywords</strong>: traceability, domotics, logistics, intelligent monitoring, adaptive systems and mobile services.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Software Technologies</td>
+			<td>The general objective of this specialism is to provide students with a sound grounding of scientific, methodological and technological fundamentals in the most relevant Software Technologies. These courses cover a wide range of topics, from new paradigms for requirements engineering, software development and testing methods, techniques, tools and international standards, to new trends on semantics, services and technologies for the development of the semantic and social web of data.
+			<p><strong>Keywords</strong>: Model driven engineering, Requirements engineering, software quality, Semantic Web, Distributed software, Software as a Service, Social Web.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Mathematics applied to Information and Communications Technology</td>
+			<td>The aim is to train students to be able to efficiently apply advanced mathematical methods in computer science. The frontier between Mathematics and Computer Science has been always a fruitful field for research. In this line, an engineer can go deeper in the foundations and a scientist in the applications of the information and communication technologies. Both of them can find interesting interactions between each other.</td>
+		</tr>
+		<tr>
+			<td>Industrial Informatics (Only Spanish)</td>
+			<td>The aim is students to be able to use and develop methodologies, methods and research techniques in the field of Industrial Informatics.</td>
+		</tr>
+		<tr>
+			<td>High Performance Architectures and Supercomputing</td>
+			<td>
+			<p>Students who follow this itinerary will get a deep understanding about different aspects of multi/many-core and specific purpose architectures, and high performance systems, including high performance programming and operating systems.</p>
+
+			<p>At the end of the itinerary students will be able to model, design, define, and organize the architecture; deploy, manage, operate, and administrate the systems, networks, services and applications. They will also have the ability to analyze, design, develop, debug and optimize parallel applications by exploiting the programming model and the underlying architecture.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Common courses</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Project Management for Research, Development and Innovation</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Specific methodologies, techniques and professional skills to manage projects.</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>Specialist Courses</h2>
+
+<h3>Intelligent and knowledge technologies with applications in medicine</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Intelligent Data Analysis</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Spa</td>
+			<td>Data mining, Evolutive computing, Models Evaluation, Time Series processing.</td>
+		</tr>
+		<tr>
+			<td>Biomedical Information Systems</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Medical Informatics, Electronic Health Records, Biomedical Standards, Interoperability and Legal Aspects.</td>
+		</tr>
+		<tr>
+			<td>Semantic Web</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Semantic Web, Ontology Engineering, Reasoning, Ontology learning, Semantic Query Languages, Linked Data.</td>
+		</tr>
+		<tr>
+			<td>Advanced Techniques for Intelligent Systems</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Spa</td>
+			<td>Knowledge Representation, Reasoning under uncertainty, Temporal Reasoning, Case-based Reasoning, Validation.</td>
+		</tr>
+		<tr>
+			<td>Business Intelligence in Biomedicine</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Data Warehouse, OLAP, Pattern Discovery in Biomedical Databases, Intelligent Systems in Biomedicine.</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>6</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 6 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose 6 credits among the rest of courses.</p>
+
+<h3>Networks and Telematics</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Basic Communication Technologies</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Foundations of digital communications systems, wireless technologies, technology of fixed networks , basic security.</td>
+		</tr>
+		<tr>
+			<td>Wireless Networks</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Wireless sensor networks, ad hoc networks, vehicular networks, wireless mesh networks, distributed network protocols.</td>
+		</tr>
+		<tr>
+			<td>Security and Trust in Distributed Systems</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Security in cloud computing, privacy, identity management, trust and reputation management</td>
+		</tr>
+		<tr>
+			<td>Network Integration</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Mobility in Heterogeneous Networks, Security and Mobility in Heterogeneous Networks, Authentication and Authorization Services in Mobile and Heterogeneous Networks</td>
+		</tr>
+		<tr>
+			<td>(Option 1) Development Technologies for Ubiquitous Systems</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Ubiquitous systems, context-awareness, context reasoning, testing and validation of ubiquitous systems, complex event processing, middlewares, embedded systems.</td>
+		</tr>
+		<tr>
+			<td>(Option 2) Sensor technologies for heterogeneous environments</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Sensor Basics, Positioning, Global Navigation Satellite Systems, Inertial Sensors, Short Range Communications, Domotics, Home Automation.</td>
+		</tr>
+		<tr>
+			<td>(Option 3) Mobility-Supporting Services</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Intelligent Transportation Systems, Outdoor navigation, Map-matching, Indoor Navigation, Vehicular Communications and Services, Mobile Robotics.</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>6</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 6 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose one of the 3 options and 6 credits among the rest of courses.</p>
+
+<h3>Engineering ubiquitous computing environments</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Sensor technologies for heterogeneous environments</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Sensor Basics, Positioning, Global Navigation Satellite Systems, Inertial Sensors, Short Range Communications, Domotics, Home Automation.</td>
+		</tr>
+		<tr>
+			<td>Development Technologies for Ubiquitous Systems</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Ubiquitous systems, context-awareness, context reasoning, testing and validation of ubiquitous systems, complex event processing, middlewares, embedded systems</td>
+		</tr>
+		<tr>
+			<td>Wireless Networks</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Wireless sensor networks, ad hoc networks, vehicular networks, wireless mesh networks, distributed network protocols.</td>
+		</tr>
+		<tr>
+			<td>Adaptive Ubiquitous Systems</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>User models for adaptive systems, adaptive systems architectures, data analysis for adaptive behavior, intelligent techniques for user modeling.</td>
+		</tr>
+		<tr>
+			<td>Mobility-Supporting Services</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Intelligent Transportation Systems, Outdoor navigation, Map-matching, Indoor Navigation, Vehicular Communications and Services, Mobile Robotics.</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>6</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 6 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose 6 credits among the rest of courses.</p>
+
+<h3>Software Technologies</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Current Trends in Web</td>
+			<td>3</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Web2.0, RSS, Microformats, Microdata, RDFa, Mashups, Social Networks, AJAX.</td>
+		</tr>
+		<tr>
+			<td>Distributed Software and Software-as-a-Service</td>
+			<td>3</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Distributed Systems, SaaS, Software-Oriented Computing, Web Services, REST, Semantic Web Services, Cloud Computing.</td>
+		</tr>
+		<tr>
+			<td>Model-Driven Software Development</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Model-driven engineering, domain specific languages, metamodeling, model transformations, software modernization.</td>
+		</tr>
+		<tr>
+			<td>Semantic Web</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Semantic Web, Ontology Engineering, Reasoning, Ontology learning, Semantic Query Languages, Linked Data.</td>
+		</tr>
+		<tr>
+			<td>Requirements Engineering</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Spa</td>
+			<td>Requirements Documents and Techniques, Requirements Engineering Standards, Reusability, Requirements Engineering Methods, RM-Tools, CMMi, i*, Software Requirements Specification, IEEE 830-98.</td>
+		</tr>
+		<tr>
+			<td>Software Quality</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Testing methods and techniques, software vulnerabilities, mutation testing, testing tools.</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>6</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 6 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose 6 credits among the rest of courses.</p>
+
+<h3>Mathematics applied to Information and Communications Technology</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Foundations of Secure Communications</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Secure communication channels, cryptography, cryptoanalysis, hash functions, digital signatures.</td>
+		</tr>
+		<tr>
+			<td>Mathematical Foundations of Computer Vision and Image Analysis</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Camera Geometry, Matrix Computations, Principal component analysis.</td>
+		</tr>
+		<tr>
+			<td>Foundations of Modeling and Simulation</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Simulation of random numbers, generating random variables, networks of queues, Markov process.</td>
+		</tr>
+		<tr>
+			<td>Mathematical Foundations of Signals and Systems</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Fourier transform, Laplace transform, sampling, aliasing, wavelets.</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>12</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 12 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose 6 credits among the rest of courses and 12 credits from:</p>
+
+<ul>
+	<li>Basic Technologies for Communications (Eng)</li>
+	<li>Software as a Distributed Service (Eng)</li>
+	<li>Intelligent data analysis</li>
+	<li>Discrete and Hybrid Event Systems</li>
+	<li>Parallel Programming and High Performance Computing</li>
+</ul>
+
+<h3>Industrial Informatics</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Industrial Automation</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>Discrete and Hybrid Event Systems</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>Image Processing</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>Mathematical Foundations of Computer Vision and Image Analysis</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Camera Geometry, Matrix Computations, Principal component analysis.</td>
+		</tr>
+		<tr>
+			<td>Mathematical Foundations of Signals and Systems</td>
+			<td>3</td>
+			<td>1</td>
+			<td>Spa</td>
+			<td>Fourier transform, Laplace transform, sampling, aliasing, wavelets.</td>
+		</tr>
+		<tr>
+			<td>Computer Systems and Robotics</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Spa</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Computer Vision</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Spa</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>6</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 6 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose 6 credits among the rest of courses.</p>
+
+<h3>High Performance Architectures and Supercomputing</h3>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>ECTS</th>
+			<th>Semester</th>
+			<th>Language</th>
+			<th>Descriptors</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Parallel Programming and High Performance Computing</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Parallel programming, supercomputing, high performance computing, shared-memory programming, message-passing programming, matrix computation, hybrid parallelism, hierarchical systems, scientific applications of parallelism.</td>
+		</tr>
+		<tr>
+			<td>Advanced Issues in Multicore Architectures for General Purposes</td>
+			<td>6</td>
+			<td>1</td>
+			<td>Eng</td>
+			<td>Multicore processors, high-performance, energy-efficiency, cache coherence protocols, cache organization, synchronization mechanisms, hardware transactional memory, reliability and fault-tolerance.</td>
+		</tr>
+		<tr>
+			<td>Advanced Programming of Multicore Architectures</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>Multicore programming, Cell Be, GPGPU, heterogeneous computing, high performance computing, synchronization mechanisms.</td>
+		</tr>
+		<tr>
+			<td>Operating Systems for High Performance Environments</td>
+			<td>6</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>System monitoring, resource optimization, high availability, workload balancing, parallel file systems, deduplication, logical volume management, backup, batch job systems, administration.</td>
+		</tr>
+		<tr>
+			<td>Elective Courses</td>
+			<td>12</td>
+			<td>-</td>
+			<td>-</td>
+			<td>The student will choose 12 credits among the rest of courses</td>
+		</tr>
+		<tr>
+			<td>Master's Thesis</td>
+			<td>18</td>
+			<td>2</td>
+			<td>Eng</td>
+			<td>The student will choose one research line for doing a project under the supervision of one lecturer.</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>The student will choose 6 credits among the rest of courses.</p>
+
+<h2>Courses taught in english</h2>
+
+<table class="table table-striped">
+	<tbody>
+		<tr>
+			<th>Code</th>
+			<th>Course</th>
+			<th>Semester</th>
+			<th>Credits</th>
+		</tr>
+		<tr>
+			<td>4915</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4915_2021_M_I">Software Quality</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4913</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4913_2021_M_I">Semantic Web</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4898</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4898_2021_M_I">Current Trends in Web</a></td>
+			<td>C2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>4899</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4899_2021_M_I">Distributed Software and Software-as-a-Service</a></td>
+			<td>C2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>4895</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4895_2021_M_I">Foundations of Secure Communication</a></td>
+			<td>C1</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>4896</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4896_2021_M_I">Mathematical Foundations of Computer Vision and Image Analysis</a></td>
+			<td>C1</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>4904</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4904_2021_M_I">Basic Communication Technologies</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4900</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4900_2021_M_I">Sensor technologies for heterogeneous environments</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4901</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4901_2021_M_I">Development Technologies for Ubiquitous Systems</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4902</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4902_2021_M_I">Adaptive Ubiquitous Systems</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4903</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4903_2021_M_I">Mobility-Supporting Services</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4905</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4905_2021_M_I">Wireless Networks</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4906</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4906_2021_M_I">Security and Trust in Distributed Systems</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4907</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4907_2021_M_I">Network Integration</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>6459</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/6459_2021_M_I">Methodologies and Technologies for Project Management R + D + I</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4910</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4910_2021_M_I">Advanced Techniques for Intelligent Systems</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4914</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4914_2021_M_I">Ingeniería de Requisitos - Requirements Engineering</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4921</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4921_2021_M_I">Parallel Programming and High Performance Computing</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4922</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4922_2021_M_I">Advanced Issues in Multicore Architectures for General Purposes</a></td>
+			<td>C1</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4923</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4923_2021_M_I">Advanced Programming of Multicore Architectures</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4924</td>
+			<td><a href="https://aulavirtual.um.es/umugdocente-tool/guiahtml/4924_2021_M_I">Operating Systems for High Performance Environments</a></td>
+			<td>C2</td>
+			<td>6</td>
+		</tr>
+	</tbody>
+</table>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	
+
+
+<form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><button hidden="" type="submit">Hidden</button></form>
+
+	
+    </section> 
+</div>         <div class="pie-container um">
+            <div class="container-fluid franja-pie-sitio um fondo-gris">
+                <div class="caja-pie-sitio">
+                    <section id="custompie-sitio">
+                        <p class="text-center"><strong>Portal de Estudios de la Universidad de Murcia</strong><br>
+Teléfono:&nbsp;868 88 88 88<br>
+<a href="mailto:cau@um.es?subject=Portal%20de%20Estudios">cau@um.es</a></p>
+                    </section>
+                </div>
+
+            </div>
+        </div>
+
+<div id="info-nodos" title="webslprod2:-1">&nbsp;</div>
+
+<div class="container-fluid franja-pie um">
+    <div class="caja-pie">
+        <section id="pie">
+            <div class="banda-pie row">
+                <div class="col-md-7">
+                    <div id="logo-um-pie" class="d-flex">
+                        <a class="um-lr-gtm-portales-pie-logo" href="/en/" data-senna-off="true">
+                                <img class="img-responsive" src="https://www.um.es/o/um-lr-genericov2-um-theme/images/logo-universidad-de-murcia-blanco.png" alt="University of Murcia Logo">
+                            </a>
+                        <div>
+                            <img class="logo-dierm img-responsive" src="https://www.um.es/o/um-lr-genericov2-um-theme/images/Logo-DIERM-blanco.png" alt="Logo del Distintivo de Igualdad de la Empresa de la Región de Murcia">
+                        </div>
+                        <a href="https://www.um.es/web/hrs4r" class="um-lr-gtm-portales-pie-hrs4r">
+                            <img class="logo-hr img-responsive" src="https://www.um.es/o/um-lr-genericov2-um-theme/images/logo-hr-500.png" alt="Logo Human Resources Strategy for Researchers">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-5 redes-pie">
+                    <p>
+                        <a href="https://www.facebook.com/universidadmurcia" target="_blank" title="Facebook Profile of University of Murcia" class="um-lr-gtm-portales-pie-rrss-fb">
+                            <span class="fa-brands fa-facebook-f" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access Facebook Profile</span>
+                        </a>
+                        <a href="https://twitter.com/UMU" target="_blank" title="Twitter profile of University of Murcia" class="um-lr-gtm-portales-pie-rrss-tw">
+                            <span class="fa-brands fa-x-twitter" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access Twitter profile</span>
+                        </a>
+                        <a href="https://bsky.app/profile/um.es" target="_blank" title="Bluesky channel of University of Murcia" class="um-lr-gtm-portales-pie-rrss-bs">
+                            <span class="fa-brands fa-bluesky" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access Bluesky channel</span>
+                        </a>
+                        <a href="https://www.youtube.com/universidaddemurcia" target="_blank" title="YouTube channel of University of Murcia" class="um-lr-gtm-portales-pie-rrss-yt">
+                            <span class="fa-brands fa-youtube" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access YouTube channel</span>
+                        </a>
+                        <a href="https://www.instagram.com/umu/" target="_blank" title="Instagram Profile of University of Murcia" class="um-lr-gtm-portales-pie-rrss-in">
+                            <span class="fa-brands fa-instagram" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access to Instagram Profile</span>
+                        </a>
+                        <a href="https://www.um.es/web/podcast/" target="_blank" title="Podcast UMU" class="um-lr-gtm-portales-pie-rrss-pd">
+                            <span class="fa-solid fa-microphone-lines" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access Podcast UMU</span>
+                        </a>
+                        <a href="https://www.whatsapp.com/channel/0029Vas33IcCnA7sX7jPFi16" target="_blank" title="WhatsApp channel of University of Murcia" class="um-lr-gtm-portales-pie-rrss-wa">
+                            <span class="fa-brands fa-whatsapp" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access WhatsApp channel</span>
+                        </a>
+                        <a href="https://t.me/UMUinforma" target="_blank" title="University of Murcia Telegram" class="um-lr-gtm-portales-pie-rrss-tg">
+                            <span class="fa-brands fa-telegram" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Access University of Murcia Telegram</span>
+                        </a>
+                        <a href="https://es.linkedin.com/school/universidad-de-murcia/" target="_blank" title="Perfil de Linkedin de la Universidad de Murcia" class="um-lr-gtm-portales-pie-rrss-li">
+                            <span class="fa-brands fa-linkedin-in" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Acceder al perfil de Linkedin</span>
+                        </a>
+                        <a href="https://www.tiktok.com/@universidadmurcia" target="_blank" title="Perfil de TikTok de la Universidad de Murcia" class="um-lr-gtm-portales-pie-rrss-li">
+                            <span class="fa-brands fa-tiktok" role="img" aria-hidden="true"></span>
+                            <span class="sr-only">Acceder al perfil de TikTok</span>
+                        </a>
+                    </p>
+                </div> <!-- .col-md-6 -->
+            </div> <!-- #banda-pie -->
+            <div class="row">
+                <div class="col-md-6 copyright-pie">
+                    <p class="copyright-pie-titulo text-uppercase">University of Murcia</p>
+                    <p>Avda. Teniente Flomesta, 5 · 30003 · Murcia
+                        <br>Telephone: <a href="tel:+34868883000">+34 868 88 3000</a> (Main telephone) / <a href="tel:+34868888888">+34 868 88 8888</a> (Information)
+                    </p>
+                </div>
+                <div class="col-md-6 como-llegar-pie">
+                    <p>
+                        <a href="https://www.um.es/departamentos" class="um-lr-gtm-portales-pie-departamentos">Departments</a> -
+                        <a href="https://www.um.es/servicios" class="um-lr-gtm-portales-pie-servicios">Services</a>
+                    </p>
+                    <p>
+                        <a class="um-lr-gtm-principal-pie-perfil" href="/web/estudiantes" title="Students portal" itemprop="url">Students</a> - 
+                        <a class="um-lr-gtm-principal-pie-perfil" href="/web/pdi" title="PDI Portal" itemprop="url">PDI</a> - 
+                        <a class="um-lr-gtm-principal-pie-perfil" href="/web/ptgas" title="PTGAS Portal" itemprop="url">PTGAS</a> - 
+                        <a class="um-lr-gtm-principal-pie-perfil" href="/web/pi" title="PI Portal" itemprop="url">PI</a> 
+                    </p>
+                    <p>
+                        <a href="https://general.um.es/general/inspeccion.buzon" class="um-lr-gtm-portales-pie-buzon">University Mailbox</a> -
+                        <a href="https://www.um.es/web/universidad/buzon-del-informante" class="um-lr-gtm-portales-pie-buzon-informante">Whistleblower Mailbox</a> -
+                        <a href="https://www.um.es/web/universidad/lucha-contra-el-fraude" class="um-lr-gtm-portales-pie-fraude">Anti-fraud</a> -
+                        <a href="http://dumbo.um.es/" class="um-lr-gtm-portales-pie-dumbo">DUMBO System</a>
+                    </p>
+                    <p>
+                        <a href="https://www.um.es/web/universidad/accesibilidad" class="um-lr-gtm-portales-pie-accesibilidad">Accessibility</a> -
+                        <a href="/web/universidad/contenido/como-llegar" class="um-lr-gtm-portales-pie-como-llegar">How to get to University of Murcia</a> -
+                        <a href="/web/emergencias" class="um-lr-gtm-portales-pie-emergencias">Emergency</a> -
+                        <a href="/web/ayuda/" class="um-lr-gtm-portales-pie-ayuda">Help</a>
+                    </p>
+                </div>
+            </div>
+        </section> <!-- section pie -->
+    </div>
+</div>
+
+
+<div class="contacto-whatsapp">
+    <a class="d-none" href="https://web.whatsapp.com/send?phone=34618042559" id="whatsapp-contact-link" rel="noreferrer noopener" target="_blank" data-phone-number="618042559" title="Contáctenos por Whatsapp" style="top: 4.29534px; left: 10.6276px; inset-inline-start: 10.6276px; inset-block-start: 4.29534px;">
+        <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+        <span class="sr-only">Contáctenos por Whatsapp</span>
+    </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+
+	function getValueByAttribute(node, attr) {
+		return (
+			node.dataset[attr] ||
+			(node.parentElement && node.parentElement.dataset[attr])
+		);
+	}
+
+	function sendDocumentDownloadedAnalyticsEvent(anchor) {
+		var fileEntryId = getValueByAttribute(
+			anchor,
+			'analyticsFileEntryId'
+		);
+		var title = getValueByAttribute(
+			anchor,
+			'analyticsFileEntryTitle'
+		);
+		var version = getValueByAttribute(
+			anchor,
+			'analyticsFileEntryVersion'
+		);
+
+		if (fileEntryId) {
+			Analytics.send('documentDownloaded', 'Document', {
+				groupId: themeDisplay.getScopeGroupId(),
+				fileEntryId,
+				preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+				title,
+				version,
+			});
+		}
+	}
+
+	function handleDownloadClick(event) {
+		if (window.Analytics) {
+			if (event.target.nodeName.toLowerCase() === 'a') {
+				sendDocumentDownloadedAnalyticsEvent(
+					event.target
+				);
+			}
+			else if (
+				event.target.parentNode &&
+				event.target.parentNode.nodeName.toLowerCase() === 'a'
+			) {
+				sendDocumentDownloadedAnalyticsEvent(
+					event.target.parentNode
+				);
+			}
+			else {
+				var target = event.target;
+				var matchTextContent =
+					target.textContent &&
+					target.textContent.toLowerCase() ===
+						'download';
+				var matchTitle =
+					target.title && target.title.toLowerCase() === 'download';
+				var matchAction = target.action === 'download';
+				var matchLexiconIcon = !!target.querySelector(
+					'.lexicon-icon-download'
+				);
+				var matchLexiconClassName = target.classList.contains(
+					'lexicon-icon-download'
+				);
+				var matchParentTitle =
+					target.parentNode &&
+					target.parentNode.title &&
+					target.parentNode.title.toLowerCase() === 'download';
+				var matchParentLexiconClassName =
+					target.parentNode &&
+					target.parentNode.classList.contains('lexicon-icon-download');
+
+				if (
+					matchTextContent ||
+					matchTitle ||
+					matchParentTitle ||
+					matchAction ||
+					matchLexiconIcon ||
+					matchLexiconClassName ||
+					matchParentLexiconClassName
+				) {
+					var selectedFiles = document.querySelectorAll(
+						'.form .custom-control-input:checked'
+					);
+
+					selectedFiles.forEach(({value}) => {
+						var selectedFile = document.querySelector(
+							'[data-analytics-file-entry-id="' + value + '"]'
+						);
+
+						sendDocumentDownloadedAnalyticsEvent(
+							selectedFile
+						);
+					});
+				}
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', () => {
+		document.body.removeEventListener(
+			'click',
+			handleDownloadClick
+		);
+	});
+
+	Liferay.once('portletReady', () => {
+		document.body.addEventListener(
+			'click',
+			handleDownloadClick
+		);
+	});
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			let title = event.contentTitle;
+
+			if (!title) {
+				const dmNode = document.querySelector(
+					'[data-analytics-file-entry-id="' + event.classPK + '"]'
+				);
+
+				if (dmNode) {
+					title = dmNode.dataset.analyticsFileEntryTitle;
+				}
+			}
+
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score,
+				title,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			const eventProperties = {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text,
+			};
+
+			const blogNode = document.querySelector(
+				'[data-analytics-asset-id="' + event.classPK + '"]'
+			);
+
+			const dmNode = document.querySelector(
+				'[data-analytics-file-entry-id="' + event.classPK + '"]'
+			);
+
+			if (blogNode) {
+				eventProperties.title = blogNode.dataset.analyticsAssetTitle;
+			}
+			else if (dmNode) {
+				eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
+			}
+
+			Analytics.send('posted', 'Comment', eventProperties);
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	Liferay.Util.delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.add('open');
+		}
+	);
+
+	Liferay.Util.delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.remove('open');
+		}
+	);
+})();
+
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fen\x2fweb\x2festudios\x2fmasteres\x2ftecnologias-informatica\x2fplan-guias';
+		Liferay.currentURLEncoded = '\x252Fen\x252Fweb\x252Festudios\x252Fmasteres\x252Ftecnologias-informatica\x252Fplan-guias';
+
+	// ]]>
+
+
+		// <![CDATA[
+			
+				
+
+				
+
+				
+			
+		// ]]>
+	
+(function() {var $ = AUI.$;var _ = AUI._;
+		import(Liferay.ThemeDisplay.getPathContext() + '/o/frontend-js-web/__liferay__/index.js').then(
+			({openToast}) => {
+				AUI().use(
+					'liferay-session',
+					function() {
+						Liferay.Session = new Liferay.SessionBase(
+							{
+								autoExtend: true,
+								redirectOnExpire: false,
+								redirectUrl: 'https\x3a\x2f\x2fwww\x2eum\x2ees\x2fweb\x2fguest',
+								sessionLength: 5400,
+								sessionTimeoutOffset: 70,
+								warningLength: 300
+							}
+						);
+
+						
+					}
+				);
+			}
+		)
+	})();
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_',
+			portletId: 'com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet',
+			refreshURL: '\x2fen\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d13319966\x26p_p_id\x3dcom_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fen\x252Fweb\x252Festudios\x252Fmasteres\x252Ftecnologias-informatica\x252Fplan-guias',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9',
+			refreshURL: '\x2fen\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d13319966\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Qx51NdNDq6v9\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fen\x252Fweb\x252Festudios\x252Fmasteres\x252Ftecnologias-informatica\x252Fplan-guias',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G',
+			refreshURL: '\x2fen\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d13319966\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_k8iUod8t3C9G\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fen\x252Fweb\x252Festudios\x252Fmasteres\x252Ftecnologias-informatica\x252Fplan-guias',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 1,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm',
+			refreshURL: '\x2fen\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d13319966\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FqpJAtMqHcOm\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fen\x252Fweb\x252Festudios\x252Fmasteres\x252Ftecnologias-informatica\x252Fplan-guias',
+			refreshURLData: {}
+		}
+	);
+
+
+</script><script type="module">
+import {InfoItemActionHandler as ComponentModule} from '/o/layout-taglib/__liferay__/index.js';
+AUI().use(
+  'liferay-menu',
+function(A) {
+{
+Liferay.component('infoItemActionComponent', new ComponentModule({"executeInfoItemActionURL":"https:\/\/www.um.es\/en\/c\/portal\/execute_info_item_action?p_l_mode=view&plid=13319966","namespace":"","spritemap":"https:\/\/www.um.es\/o\/um-lr-genericov2-um-theme\/images\/clay\/icons.svg"}), { destroyOnNavigate: true, portletId: ''});
+}
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();
+});
+
+</script><script type="text/javascript" id="" charset="">focus();var iframeSelector="iframe#um-lr-principal-video_historias_um",gaEventName="iframe_click",iframeListener=window.addEventListener("blur",function(){document.activeElement===document.querySelector(iframeSelector)&&dataLayer.push({event:"GAIframeEvent",event_name:gaEventName});window.removeEventListener("blur",iframeListener)});</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.um.es/o/um-lr-genericov2-um-theme/js/main.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1769512366000" type="text/javascript"></script>
+
+
+
+
+<script type="module">
+import {default as main} from '/o/frontend-js-alert-support-web/__liferay__/index.js';
+{
+main();
+}
+
+</script><script type="module">
+import {default as main} from '/o/frontend-js-tabs-support-web/__liferay__/index.js';
+{
+main();
+}
+
+</script><script type="module">
+import {default as main} from '/o/frontend-js-collapse-support-web/__liferay__/index.js';
+{
+main();
+}
+
+</script><script type="module">
+import {default as main} from '/o/frontend-js-tooltip-support-web/__liferay__/index.js';
+{
+main();
+}
+
+</script><script type="module">
+import {default as main} from '/o/frontend-js-dropdown-support-web/__liferay__/index.js';
+{
+main();
+}
+
+</script><script type="module">
+import {runThirdPartyCookiesInterval} from '/o/cookies-banner-web/__liferay__/index.js';
+{
+runThirdPartyCookiesInterval();
+}
+
+</script><script type="text/javascript">
+Liferay.CustomDialogs = {enabled: false};
+
+</script><script>
+
+</script>
+
+
+
+		
+	
+
+<div id="tooltipContainer" class="lfr-tooltip-scope"></div><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div></body></html>

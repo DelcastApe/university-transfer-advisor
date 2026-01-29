@@ -1,0 +1,74 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Castilla-La Mancha grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:uclm.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática",
+      "link": "https://www.uclm.es/estudios/grados/ingenieria-informatica",
+      "snippet": "El Grado en Ingeniería Informática se engloba dentro del campo de las tecnologías de la información y comunicaciones (TIC). Dentro de este ámbito, ...",
+      "position": 1
+    },
+    {
+      "title": "Plan de Estudios - Escuela Superior de Informática - UCLM",
+      "link": "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/plan-de-estudios/",
+      "snippet": "Plan de estudios del Grado en Ingeniería Informática en la Escuela Superior de Informática de Ciudad Real (Universidad de Castilla-La Mancha)",
+      "position": 2
+    },
+    {
+      "title": "Plan de Estudios del Grado - ESIIAB - UCLM",
+      "link": "https://esiiab.uclm.es/plan-de-estudios/",
+      "snippet": "El Módulo I es el módulo de Formación Básica comprende 60 ECTS. Está integrado por 9 asignaturas de 6 ECTS asociadas a la rama de Arquitectura e Ingeniería y 1 ...",
+      "position": 3
+    },
+    {
+      "title": "GUÍA DOCENTE",
+      "link": "https://guias.apps.uclm.es/2023-24/422/59705/GuiaES.pdf",
+      "snippet": "GUÍA DOCENTE. 1. DATOS GENERALES. Asignatura: INFORMÁTICA. Código: 59705. Tipología: BáSICA. Créditos ECTS: 6. Grado: 422 - GRADO EN INGENIERÍA BIOMÉDICA. Curso ...",
+      "position": 4
+    },
+    {
+      "title": "GUÍA DOCENTE (Comentada)",
+      "link": "https://esi.uclm.es/assets/uploads/2022/04/guiaDocenteVLSI_comentada.pdf",
+      "snippet": "UNIVERSIDAD DE CASTILLA - LA MANCHA. GUÍA DOCENTE (Comentada). 1. DATOS GENERALES. Asignatura: DISEÑO VLSI. Código: 42373. Tipología: OPTATIVA. Créditos ECTS: 6.",
+      "position": 5
+    },
+    {
+      "title": "GUÍA DOCENTE",
+      "link": "https://guias.apps.uclm.es/2023-24/385/59671/GuiaES.pdf",
+      "snippet": "El objetivo de esta asignatura será mostrar la aplicación de los conocimientos aprendidos sobre tecnologías de telecomunicaciones en entornos.",
+      "position": 6
+    },
+    {
+      "title": "2023/2024 - Escuela Superior de Informática - UCLM",
+      "link": "https://esi.uclm.es/assets/uploads/2023/09/LibroCEP2023-24.pdf",
+      "snippet": "Se han observado dificultades en los alumnos de primer curso de los estudios en. Ingeniería Informática para abordar asignaturas básicas como ...",
+      "date": "12 sept 2023",
+      "position": 7
+    },
+    {
+      "title": "GUÍA DOCENTE",
+      "link": "https://guias.apps.uclm.es/2023-24/315/59312/GuiaES.pdf",
+      "snippet": "Grado: 315 - GRADO EN INGENIERÍA DE EDIFICACIÓN. Curso académico: 2023 ... EN RELACION CON OTRAS ASIGNATURAS DEL PLAN DE ESTUDIOS: El aprendizaje de la ...",
+      "position": 8
+    },
+    {
+      "title": "JENUI 2011 - Grupo Alarcos - UCLM",
+      "link": "https://alarcos.esi.uclm.es/ALARNET2/FILES/Congresos/2011-JENUI-G%C2%AA-Rosado.pdf",
+      "snippet": "nuevo plan de estudios para el grado en Ingeniería. Informática donde se han establecido 4 intensificaciones o ramas de especialización en las cuales se han ...",
+      "position": 9
+    },
+    {
+      "title": "memoria 2010/2011 - RUIdeRA - UCLM",
+      "link": "https://ruidera.uclm.es/xmlui/bitstream/handle/10578/1952/Memoria_10-11.pdf?sequence=1&isAllowed=y",
+      "snippet": "2.1.- Docencia en Grado. PLAN DE ESTUDIOS. ESTUDIOS. Grado en Ingeniería Informática. CENTRO. Escuela Superior de Informática (Ciudad Real). BOE. BOE núm. 5 de ...",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

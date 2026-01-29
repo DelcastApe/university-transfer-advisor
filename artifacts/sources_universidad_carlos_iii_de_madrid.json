@@ -1,0 +1,29 @@
+{
+  "university": "Universidad Carlos III de Madrid",
+  "city": "Madrid",
+  "links_used": [
+    "https://www.uc3m.es/cld/media/cld/doc/archivo/doc_mem_ing-informatica/memoria-modificacion-ing.-informatica-2022_23-v3-2.pdf",
+    "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_informatica/memoria-informatica_def_2025-1.pdf",
+    "https://www.uc3m.es/calidad/media/calidad/doc/archivo/doc_acre23-autoinforme-gr-ciencia-ingenieria-datos/10-informe-autoevaluacion_-2503783---grado-en-ciencia-e-ingenieria-de-datos.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.uc3m.es/cld/media/cld/doc/archivo/doc_mem_ing-informatica/memoria-modificacion-ing.-informatica-2022_23-v3-2.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_informatica/memoria-informatica_def_2025-1.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.uc3m.es/calidad/media/calidad/doc/archivo/doc_acre23-autoinforme-gr-ciencia-ingenieria-datos/10-informe-autoevaluacion_-2503783---grado-en-ciencia-e-ingenieria-de-datos.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    }
+  ]
+}

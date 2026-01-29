@@ -1,0 +1,339 @@
+{
+  "university": "Universidad de Zaragoza",
+  "city": "Zaragoza",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "http://academico.unizar.es/sites/academico/files/archivos/ofiplan/informapublica/Ing_Datos/ingenieria_datos.pdf",
+    "http://webdiis.unizar.es/areas/ISA/wp-content/uploads/2010/09/MemoriaGradoInformaticaFinalv3211009.pdf",
+    "https://sia.unizar.es/documentos/doa/guiadocente/2025/30210_es.pdf",
+    "https://zaguan.unizar.es/record/44758/files/guia.pdf"
+  ],
+  "preferred_domains": [
+    "unizar.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 32.5,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "NORMAS DE PERMANENCIA",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "NORMAS DE PERMANENCIA",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "AGENCIA EVALUADORA",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "de la memoria",
+      "method": "none",
+      "score": 56,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tratar temas muy diferentes"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "Institución pública",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Insdustria Inteligente.",
+      "method": "none",
+      "score": 43,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "SOLICITUD DE VERIFICACIÓN",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Insdustria Inteligente.",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "mantenimiento programados.",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "mantenimiento programados.",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B se enfoca en mantenimiento, mientras que la A se enfoca en programación orientada a objetos, temas diferentes."
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "de datos adecuado.",
+      "method": "llm",
+      "score": 61,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la organización y manipulación de datos en computadoras."
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "NORMAS DE PERMANENCIA",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tratar temas completamente diferentes"
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "LISTADO DE CENTROS",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la estructura y diseño de software, aunque el nombre de la segunda asignatura no es claro."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de computadoras"
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "CE07 - Utilizar conceptos de la electrónica analógica, digital, instrumentación y sistemas",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B se enfoca en electrónica y no en sistemas operativos"
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 71,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la planificación y diseño de sistemas informáticos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "y Acreditación, ANECA.",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Pública de Navarra), Grado en Ciencia de Datos (Universitat Politécnica de Valencia).",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de datos en bases de datos, lo que sugiere una equivalencia temática clara."
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "- Asesoría de estudios.",
+      "method": "none",
+      "score": 62,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tener temas completamente diferentes."
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "implantación de estos sistemas en las organizaciones.",
+      "method": "llm",
+      "score": 65,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la implementación de sistemas de información en organizaciones"
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "4.2 REQUISITOS DE ACCESO Y CRITERIOS DE ADMISIÓN",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la definición y análisis de los requisitos de un sistema o proyecto de ingeniería informática."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "de Ingeniería Técnica Industrial",
+      "method": "none",
+      "score": 60,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con temas diferentes, la primera con la creación de software y la segunda con la ingeniería industrial."
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "de Ingeniería Técnica Industrial",
+      "method": "none",
+      "score": 63,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con temas diferentes, la primera con la ingeniería de software y la segunda con la ingeniería industrial."
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "procesos de producción en la industria.",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de procesos en un contexto industrial."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "Otros cauces de información de temas académicos son:",
+      "method": "none",
+      "score": 62,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "Dirección a efectos de notificación:",
+      "method": "none",
+      "score": 58,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, ya que 'Direccion de Proyectos' se refiere a la gestión de proyectos, mientras que 'Dirección a efectos de notificación:' parece estar relacionada con la notificación legal o administrativa."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "implantación de estos sistemas en las organizaciones.",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la implementación de sistemas en organizaciones, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "de la elaboración de la memoria",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la elaboración y estructura de la investigación y la memoria de tesis, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "ACADÉMICO, CIENTÍFICO O PROFESIONAL DEL MISMO",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ética profesional y la conducta académica."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "problemas de clasificación y predicción.",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "TIEMPO PARCIAL",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de sistemas informáticos."
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "parcialmente de acuerdo.",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "LENGUAS EN LAS QUE SE IMPARTE",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "LENGUAS EN LAS QUE SE IMPARTE",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "- Asesoría psicológica.",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Pública de Navarra), Grado en Ciencia de Datos (Universitat Politécnica de Valencia).",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la fundamentación teórica de la ciencia y la tecnología, aunque con enfoques diferentes."
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "afinidad entre asignaturas y programas.",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "AGENCIA EVALUADORA",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Actividad Entidad responsable Fecha",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

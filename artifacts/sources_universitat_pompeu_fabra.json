@@ -1,0 +1,29 @@
+{
+  "university": "Universitat Pompeu Fabra",
+  "city": "Barcelona",
+  "links_used": [
+    "https://www.esci.upf.edu/frontend/web/uploads/files/1.%20Memo%CC%80ria%20del%20BDBI%20%28curs%202023-2024%29.pdf",
+    "https://www.esci.upf.edu/uploads/imgen/800-versio-6-sg-10-02-2015x.pdf",
+    "https://www.upf.edu/es/web/enginyeria/enginyeria-informatica-2016-informacio-estudiant"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.esci.upf.edu/frontend/web/uploads/files/1.%20Memo%CC%80ria%20del%20BDBI%20%28curs%202023-2024%29.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.esci.upf.edu/uploads/imgen/800-versio-6-sg-10-02-2015x.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.upf.edu/es/web/enginyeria/enginyeria-informatica-2016-informacio-estudiant",
+      "kind": "html",
+      "extracted_lines": 1,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "university": "Universidad de Castilla-La Mancha",
+  "city": "Toledo",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Castilla-La Mancha grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Castilla-La Mancha grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uclm.es"
+  ],
+  "selected": [
+    "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/plan-de-estudios/",
+    "https://esi.uclm.es/index.php/doble-grado-informatica-ade/plan-de-estudios-ii-ade/",
+    "https://esiiab.uclm.es/plan-de-estudios/",
+    "https://guias.apps.uclm.es/2023-24/422/59705/GuiaES.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/plan-de-estudios/",
+      "domain": "esi.uclm.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://esi.uclm.es/index.php/doble-grado-informatica-ade/plan-de-estudios-ii-ade/",
+      "domain": "esi.uclm.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://esiiab.uclm.es/plan-de-estudios/",
+      "domain": "esiiab.uclm.es",
+      "score": 125,
+      "reasons": [
+        "+70 dominio preferido (esiiab.uclm.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://guias.apps.uclm.es/2023-24/422/59705/GuiaES.pdf",
+      "domain": "guias.apps.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (guias.apps.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esi.uclm.es/assets/uploads/2022/04/guiaDocenteVLSI_comentada.pdf",
+      "domain": "esi.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://guias.apps.uclm.es/2023-24/385/59671/GuiaES.pdf",
+      "domain": "guias.apps.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (guias.apps.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://esi.uclm.es/assets/uploads/2023/09/LibroCEP2023-24.pdf",
+      "domain": "esi.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://guias.apps.uclm.es/2023-24/315/59312/GuiaES.pdf",
+      "domain": "guias.apps.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (guias.apps.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://alarcos.esi.uclm.es/ALARNET2/FILES/Congresos/2011-JENUI-G%C2%AA-Rosado.pdf",
+      "domain": "alarcos.esi.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (alarcos.esi.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://ruidera.uclm.es/xmlui/bitstream/handle/10578/1952/Memoria_10-11.pdf?sequence=1&isAllowed=y",
+      "domain": "ruidera.uclm.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (ruidera.uclm.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://movilidad.esiiab.uclm.es/plan.php?que=grado&curso=2025-26",
+      "domain": "movilidad.esiiab.uclm.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (movilidad.esiiab.uclm.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uclm.es/estudios/grados/ingenieria-informatica",
+      "domain": "www.uclm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uclm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/",
+      "domain": "esi.uclm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/grado-bilingue/",
+      "domain": "esi.uclm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/intensificaciones/",
+      "domain": "esi.uclm.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://esi.uclm.es/index.php/recursos/guia-del-estudiante/",
+      "domain": "esi.uclm.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (esi.uclm.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

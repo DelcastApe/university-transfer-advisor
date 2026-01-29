@@ -1,0 +1,340 @@
+{
+  "university": "Universidad Complutense de Madrid",
+  "city": "Madrid",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://web.fdi.ucm.es/Guias_Docentes/Guia_docente_2011-12_(grado_Ing_Software).pdf",
+    "https://informatica.ucm.es/data/cont/docs/titulaciones/1917.pdf",
+    "https://informatica.ucm.es/data/cont/media/www/pag-64266/GII-201011-MemoriaAnualSeguimiento.pdf",
+    "https://informatica.ucm.es/file/19-20-informatica-gingenieria-informatica.pdf",
+    "https://informatica.ucm.es/data/cont/media/www/pag-86285/memoriaGDV1516.pdf"
+  ],
+  "preferred_domains": [
+    "ucm.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 65.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Matemática Discreta y Lógica",
+      "method": "llm",
+      "score": 55,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con fundamentos matemáticos, específicamente con la lógica y la teoría de conjuntos, que son comunes en la ingeniería informática."
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Matemática Discreta y Lógica",
+      "method": "llm",
+      "score": 58,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con conceptos matemáticos aplicados a la informática, específicamente con la lógica y la discreción."
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "Álgebra Lineal 18 Programación Declarativa 6",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la misma área de la matemática aplicada a la programación."
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Matemática Discreta y Lógica",
+      "method": "fuzzy",
+      "score": 76,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "Matemática Discreta y Lógica",
+      "method": "none",
+      "score": 38,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Ingeniería Informática /",
+      "method": "none",
+      "score": 42,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "Plan de Estudios",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Ingeniería Informática /",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "Programación Concurrente 6",
+      "method": "llm",
+      "score": 58,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la programación, aunque la segunda tiene un enfoque en la concurrencia, que es un aspecto de la algoritmia y programación."
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "Programación Concurrente 6",
+      "method": "none",
+      "score": 62,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B se enfoca en programación concurrente, mientras que la asignatura A se enfoca en programación orientada a objetos, temas diferentes."
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "Estructuras de datos y Algoritmos (9 Cred.)",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "Programador de aplicaciones",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y los paradigmas de programación, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Grado en Ingeniería del Software",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con el diseño y la ingeniería de software"
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "AIC: Arquitectura e Ingeniería de Computadores",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de los sistemas computacionales."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "Estructura de Computadores (6 Cred.) Sistemas Operativos (6 Cred.)",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Redes (6 Cred.) Administración de sistemas y redes (6",
+      "method": "llm",
+      "score": 73,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la administración y configuración de redes, aunque con un enfoque ligeramente diferente."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Programación Concurrente 6",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Bases de Datos (6 Cred.)",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "Bases de Datos (6 Cred.)",
+      "method": "fuzzy",
+      "score": 77,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Consultor de sistemas",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la consultoria y diseño de sistemas de información, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "Especificación de los requisitos software para satisfacer los objetivos de las",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la especificación y definición de requisitos en el desarrollo de software."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "Grado en Ingeniería del Software",
+      "method": "fuzzy",
+      "score": 78,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Grado en Ingeniería del Software",
+      "method": "fuzzy",
+      "score": 77,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "Procesadores de Lenguaje 6",
+      "method": "none",
+      "score": 56,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la gestión de procesos de negocio, mientras que la asignatura B se enfoca en la programación de procesadores de lenguaje, lo que sugiere un enfoque diferente en la informática."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "BDSI: Bases de Datos y Sistemas de Información",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de proyectos relacionados con sistemas de información y bases de datos."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "Modelado de Software (6 Cred.) Gestión de proyectos de software y",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas involucran gestión de proyectos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "modelos de gestión y gestión de la empresa.",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de empresas y modelos de gestión, lo que sugiere una equivalencia temática clara."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "metodologías de desarrollo (6 Cred.)",
+      "method": "llm",
+      "score": 56,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y ejecución de investigaciones y proyectos de desarrollo, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "(con mención de calidad ANECA) y diversos títulos propios de especialización profesional",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ética y la conducta profesional en el ámbito de la ingeniería informática."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Total 360 Inteligencia Artificial I y II 4,5 + 4,5",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a Inteligencia Artificial, con un enfoque en principios y técnicas."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "Álgebra Computacional 6",
+      "method": "none",
+      "score": 72,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura 'Percepcion Computacional' se enfoca en la interpretación de la información visual por parte de las computadoras, mientras que 'Álgebra Computacional 6' se centra en el uso de técnicas algebraicas en el desarrollo de algoritmos y soluciones computacionales."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "AISO: Arquitectura Interna de los Sistemas Operativos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "Consultor de sistemas",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "Procesadores de Lenguaje 6",
+      "method": "fuzzy",
+      "score": 88,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Procesadores de Lenguaje 6",
+      "method": "fuzzy",
+      "score": 84,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Desarrollo de sistemas fiables, eficientes, asequibles de desarrollar y mantener y que",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con campos completamente diferentes"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Facultad de Ciencias Matemáticas",
+      "method": "none",
+      "score": 58,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "cumplan normas de calidad.",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "Matemática Discreta y Lógica",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Perfil del graduado y salidas profesionales",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

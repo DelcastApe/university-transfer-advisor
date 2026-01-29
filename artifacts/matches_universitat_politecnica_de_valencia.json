@@ -20,7 +20,7 @@
       "method": "llm",
       "score": 70,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se enfocan en conceptos matemáticos relacionados con la discreción, lo que sugiere una equivalencia temática."
+      "reason": "Ambas asignaturas se enfocan en conceptos matemáticos aplicados a la informática, aunque con enfoques ligeramente diferentes."
     },
     {
       "my_course": "Matematica II",
@@ -68,7 +68,7 @@
       "method": "none",
       "score": 57,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La estadística descriptiva se enfoca en el análisis de datos, mientras que la matemática discreta se enfoca en conceptos como conjuntos, relaciones y funciones. No hay una relación directa entre ambos temas."
+      "reason": "LLM says not equivalent (conf=0.20) - La estadística descriptiva se enfoca en el análisis de datos, mientras que la matemática discreta se enfoca en conceptos como conjuntos, relaciones y funciones. No hay una relación clara entre ambos temas."
     },
     {
       "my_course": "Estadistica Inferencial",
@@ -76,7 +76,7 @@
       "method": "none",
       "score": 55,
       "llm_conf": 0.0,
-      "reason": "LLM says not equivalent (conf=0.00) - La asignatura B es un título de grado y no una asignatura específica, por lo que no es comparable con la asignatura A."
+      "reason": "LLM says not equivalent (conf=0.00) - La asignatura B es un título de grado, no una asignatura específica de estadística"
     },
     {
       "my_course": "Algoritmia y Programacion",
@@ -92,7 +92,7 @@
       "method": "none",
       "score": 57,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece ser una introducción general a la informática, mientras que la asignatura A se enfoca en programación orientada a objetos, lo que sugiere un enfoque más específico y avanzado."
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece ser más básica y no se centra en programación orientada a objetos."
     },
     {
       "my_course": "Estructuras de Datos y Algoritmos",
@@ -116,7 +116,7 @@
       "method": "llm",
       "score": 64,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se relacionan con la creación de soluciones software, aunque 'Patrones de Diseño de Software' se enfoca en patrones y 'Ingeniería del software' es más amplia, pero están estrechamente relacionadas."
+      "reason": "Ambas asignaturas se relacionan con el diseño y la ingeniería de software, aunque 'Patrones de Diseño de Software' se enfoca en patrones específicos, mientras que 'Ingeniería del software' es más amplia."
     },
     {
       "my_course": "Arquitectura de Computadoras",
@@ -172,7 +172,7 @@
       "method": "llm",
       "score": 71,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a sistemas de información en organizaciones, aunque con ligeras variaciones en el enfoque."
+      "reason": "Ambas asignaturas se refieren a sistemas de información en organizaciones, con un enfoque en la integración de la información."
     },
     {
       "my_course": "Ingenieria de Requisitos",
@@ -180,7 +180,7 @@
       "method": "llm",
       "score": 70,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se enfocan en el análisis y definición de requisitos para sistemas o proyectos de ingeniería informática."
+      "reason": "Ambas asignaturas se refieren al proceso de análisis y definición de los requisitos de un sistema o proyecto, lo que sugiere una equivalencia temática cercana."
     },
     {
       "my_course": "Ingenieria de Software I",
@@ -204,7 +204,7 @@
       "method": "llm",
       "score": 68,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a la gestión de procesos o proyectos en un contexto de negocio, lo que sugiere una equivalencia temática cercana."
+      "reason": "Ambas asignaturas se refieren a la gestión de procesos o proyectos en un contexto de negocio, lo que sugiere una equivalencia temática clara."
     },
     {
       "my_course": "Gestion de Proyectos de Sistemas de Informacion",
@@ -236,7 +236,7 @@
       "method": "none",
       "score": 58,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la metodología de la investigación, mientras que la asignatura B se enfoca en la gestión de tecnologías de la información, lo que sugiere que son temas distintos."
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en metodologías de investigación, mientras que la asignatura B se enfoca en gestión de tecnologías de la información, lo que sugiere que son temas distintos."
     },
     {
       "my_course": "Deontologia Profesional",
@@ -292,7 +292,7 @@
       "method": "llm",
       "score": 64,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas parecen estar relacionadas con la enseñanza de un segundo idioma, específicamente el inglés, dado que se menciona 'Lenguaje II' y 'language' en el nombre de la segunda asignatura."
+      "reason": "Ambas asignaturas parecen estar relacionadas con la enseñanza de un segundo idioma, específicamente el inglés, dado el contexto de la ingeniería informática."
     },
     {
       "my_course": "Psicologia y Desarrollo Humano",

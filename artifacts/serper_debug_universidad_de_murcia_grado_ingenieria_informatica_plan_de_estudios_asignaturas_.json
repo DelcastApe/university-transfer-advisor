@@ -1,0 +1,74 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Murcia grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:um.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Plan de estudios y guías docentes del Grado en Ingeniería ...",
+      "link": "https://www.um.es/web/estudios/grados/informatica/plan-guias",
+      "snippet": "Esta página muestra el plan de estudios oficial de la titulación y los correspondientes enlaces a la guías docentes. La oferta de asignaturas optativas ...",
+      "position": 1
+    },
+    {
+      "title": "Guía docente de la asignatura",
+      "link": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1917/G/2025/E/pdf",
+      "snippet": "Guía docente de la asignatura. (1917) ... MATEMÁTICAS Y GRADO EN INGENIERÍA INFORMÁTICA, ... https://www.um.es/web/estudios/grados/informatica/2025-26#horarios.",
+      "position": 2
+    },
+    {
+      "title": "Título de Grado en Ingeniería Informática",
+      "link": "https://www.um.es/documents/120586/13327772/grado_v3.pdf/9d8a30ec-3721-4a9e-91ab-6a7f56421e71",
+      "snippet": "asignaturas del Título de Grado en Ingeniería Informática por la Universidad de Murcia ... que estar recogidos en el Plan de Estudios y en las guías docentes de ...",
+      "position": 3
+    },
+    {
+      "title": "DATOS IDENTIFICATIVOS FICHA DEL TÍTULO",
+      "link": "https://www.um.es/documents/120586/46374861/IFCAS_IndepEspec_EuroInf_2500494_UMU_GII_v7docx.pdf/5f86b75c-2d58-fd3b-9241-1324dd285897?t=1707766201879",
+      "snippet": "✓ Asignaturas del plan de estudios y su profesorado (Tabla 2). ... oficiales de Grado en Ingeniería Informática por la Universidad de Murcia requiere estar en.",
+      "position": 4
+    },
+    {
+      "title": "Grado Ingeniería Informática",
+      "link": "https://www.um.es/documents/120586/22020323/MemoriaGradoIngenieriaInformatica%28Modif.2%29_Sede_electro%E2%95%A0%C3%BCnica.pdf/7062f3f3-aea4-bf39-3f08-282068b210ac?t=1610106268155",
+      "snippet": "· Al estudiante se le reconocerá el mayor número de créditos ECTS de los Estudios ... Nombre :Bloque 5.1 Descripcion del plan de estudios.pdf. HASH SHA1 ...",
+      "position": 5
+    },
+    {
+      "title": "Título de",
+      "link": "https://ditec.um.es/~fgarcia/FIUMadaptado.pdf",
+      "snippet": "A continuación mostramos el desglose en asignaturas de las materias propuestas por el Título de Grado en Ingeniería Informática por la Universidad de Murcia.",
+      "position": 6
+    },
+    {
+      "title": "Guía docente de la asignatura",
+      "link": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1612/G/2025/E/pdf/redirect",
+      "snippet": "PROGRAMA ACADÉMICO DE SIMULTANEIDAD DE DOBLE. TITULACIÓN CON ITINERARIO ESPECIFICO DE GRADO EN. MATEMÁTICAS Y GRADO EN INGENIERÍA INFORMÁTICA. Nombre de la ...",
+      "position": 7
+    },
+    {
+      "title": "Desarrollo de Sistemas de Información",
+      "link": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/3887/G/2025/E/pdf/redirect",
+      "snippet": "El objetivo de esta asignatura es que el alumno sea capaz de llevar a cabo la planificación de los sistemas de información de una.",
+      "position": 8
+    },
+    {
+      "title": "Nuevo Grado Interuniversitario en Ciencia e Ingeniería de ...",
+      "link": "https://www.um.es/documents/877924/19433799/Grado+en+Ciencia+e+Ingenieria+de+Datos.pdf/20da9e06-c3b8-42da-b4c3-ef64530df251",
+      "snippet": "Denominación. Grado Interuniversitario en Ciencia e Ingeniería de Datos. Número de créditos. 240 ECTS. Centros proponentes.",
+      "date": "9 nov 2020",
+      "position": 9
+    },
+    {
+      "title": "Destrezas Profesionales de la Ingenieria Informática",
+      "link": "https://api.um.es/aulavirtual/guiasdocentes-api/public/v1/guias/1916/G/2024/E/pdf/redirect",
+      "snippet": "Esta asignatura tiene carácter interdepartamental participando cinco áreas de conocimiento y tiene como finalidad acercar la.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

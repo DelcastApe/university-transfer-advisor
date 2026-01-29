@@ -1,0 +1,204 @@
+{
+  "university": "Universidad de Sevilla",
+  "city": "Sevilla",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Sevilla grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Sevilla grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "us.es"
+  ],
+  "selected": [
+    "https://www.informatica.us.es/index.php/grados/ingenieria-del-software/plan-de-estudios",
+    "https://www.informatica.us.es/docs/estudios/ing_computadores/memoria_IC.pdf",
+    "https://www.informatica.us.es/pub/docs/acuerdosJC/acuerdosJC19-07-24.pdf",
+    "https://www.informatica.us.es/docs/estudios/ing_software/memoria_IS.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.informatica.us.es/index.php/grados/ingenieria-del-software/plan-de-estudios",
+      "domain": "www.informatica.us.es",
+      "score": 135,
+      "reasons": [
+        "+70 dominio preferido (www.informatica.us.es)",
+        "+40 contiene 'plan-de-estudios'",
+        "+15 contiene 'plan'",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.informatica.us.es/docs/estudios/ing_computadores/memoria_IC.pdf",
+      "domain": "www.informatica.us.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.informatica.us.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.informatica.us.es/pub/docs/acuerdosJC/acuerdosJC19-07-24.pdf",
+      "domain": "www.informatica.us.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.informatica.us.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.informatica.us.es/docs/estudios/ing_software/memoria_IS.pdf",
+      "domain": "www.informatica.us.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.informatica.us.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "http://www.informatica.us.es/docs/estudios/tec_informaticas/memoria_TI.pdf",
+      "domain": "www.informatica.us.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.informatica.us.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://grupo.us.es/gtocoma/pid/PID-5.pdf",
+      "domain": "grupo.us.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (grupo.us.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://alojawebapps.us.es/fichape/Doc/AUTOSEG/IG/2020_204_autoglobal.pdf",
+      "domain": "alojawebapps.us.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (alojawebapps.us.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://alojawebapps.us.es/fichape/Doc/MV/206_memverif.pdf",
+      "domain": "alojawebapps.us.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (alojawebapps.us.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://alojawebapps.us.es/fichape/Doc/MV/268_memverif.pdf",
+      "domain": "alojawebapps.us.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (alojawebapps.us.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://alojawebapps.us.es/fichape/Doc/MV/205_memverif.pdf",
+      "domain": "alojawebapps.us.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (alojawebapps.us.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://alojawebapps.us.es/centrosdptos/titulaciones/planesse.php?plan=268",
+      "domain": "alojawebapps.us.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (alojawebapps.us.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://alojawebapps.us.es/centrosdptos/titulaciones/planesse.php?plan=226",
+      "domain": "alojawebapps.us.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (alojawebapps.us.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-tecnologias-informaticas",
+      "domain": "www.us.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.us.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software",
+      "domain": "www.us.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.us.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-inteligencia-artificial",
+      "domain": "www.us.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.us.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-grados/doble-grado-en-ingenieria-informatica-tecnologias",
+      "domain": "www.us.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.us.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://sevius4.us.es/index.php?PyP=LISTA&programa=2060026",
+      "domain": "sevius4.us.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (sevius4.us.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.us.es/estudiar/que-estudiar/oferta-de-grados",
+      "domain": "www.us.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.us.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

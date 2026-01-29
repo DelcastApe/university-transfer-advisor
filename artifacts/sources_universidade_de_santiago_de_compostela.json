@@ -1,0 +1,29 @@
+{
+  "university": "Universidade de Santiago de Compostela",
+  "city": "Santiago de Compostela",
+  "links_used": [
+    "https://assets.usc.gal/sites/default/files/plan/2021-09/Matema%CC%81tica_Industrial_Min.pdf",
+    "https://assets.usc.gal/sites/default/files/documents/2025-05/2025_05_21_acordos-xe.pdf",
+    "https://assets.usc.gal/sites/default/files/documents/2022-06/2022_05_10_Acordos-XE.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://assets.usc.gal/sites/default/files/plan/2021-09/Matema%CC%81tica_Industrial_Min.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2025-05/2025_05_21_acordos-xe.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2022-06/2022_05_10_Acordos-XE.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    }
+  ]
+}

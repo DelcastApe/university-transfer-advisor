@@ -1,0 +1,29 @@
+{
+  "university": "Universidad Complutense de Madrid",
+  "city": "Madrid",
+  "links_used": [
+    "https://web.fdi.ucm.es/Guias_Docentes/Guia_docente_2011-12_(grado_Ing_Software).pdf",
+    "https://informatica.ucm.es/data/cont/docs/titulaciones/1917.pdf",
+    "https://informatica.ucm.es/data/cont/media/www/pag-64266/GII-201011-MemoriaAnualSeguimiento.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://web.fdi.ucm.es/Guias_Docentes/Guia_docente_2011-12_(grado_Ing_Software).pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://informatica.ucm.es/data/cont/docs/titulaciones/1917.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://informatica.ucm.es/data/cont/media/www/pag-64266/GII-201011-MemoriaAnualSeguimiento.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    }
+  ]
+}

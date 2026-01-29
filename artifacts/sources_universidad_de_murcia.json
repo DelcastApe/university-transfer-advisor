@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Murcia",
+  "city": "Murcia",
+  "links_used": [
+    "https://www.um.es/web/estudios/grados/informatica/plan-guias",
+    "https://www.um.es/web/estudios/grados/matematicas-informatica/plan-guias",
+    "https://www.um.es/en/web/estudios/masteres/tecnologias-informatica/plan-guias"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.um.es/web/estudios/grados/informatica/plan-guias",
+      "kind": "html",
+      "extracted_lines": 76,
+      "error": null
+    },
+    {
+      "url": "https://www.um.es/web/estudios/grados/matematicas-informatica/plan-guias",
+      "kind": "html",
+      "extracted_lines": 155,
+      "error": null
+    },
+    {
+      "url": "https://www.um.es/en/web/estudios/masteres/tecnologias-informatica/plan-guias",
+      "kind": "html",
+      "extracted_lines": 156,
+      "error": null
+    }
+  ]
+}

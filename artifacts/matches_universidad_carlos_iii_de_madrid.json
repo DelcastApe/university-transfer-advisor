@@ -1,0 +1,340 @@
+{
+  "university": "Universidad Carlos III de Madrid",
+  "city": "Madrid",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://www.uc3m.es/cld/media/cld/doc/archivo/doc_mem_ing-informatica/memoria-modificacion-ing.-informatica-2022_23-v3-2.pdf",
+    "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_informatica/memoria-informatica_def_2025-1.pdf",
+    "https://www.uc3m.es/calidad/media/calidad/doc/archivo/doc_acre23-autoinforme-gr-ciencia-ingenieria-datos/10-informe-autoevaluacion_-2503783---grado-en-ciencia-e-ingenieria-de-datos.pdf",
+    "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_ciencia-ingenieria-de-datos/memoria-ceidatos_def_2025-2.pdf",
+    "https://aplicaciones.uc3m.es/cpa/generaFicha?est=218&plan=489&asig=13884&idioma=1"
+  ],
+  "preferred_domains": [
+    "uc3m.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 47.5,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "mínima máxima mínima máxima",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "mínima máxima mínima máxima",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "Legal and Ethical Legal and Ethical Legal and Ethical Legal and Ethical",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Architectures Architectures Management",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "2. Justificación",
+      "method": "none",
+      "score": 41,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "INGENIERÍA INFORMÁTICA",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "1. Descripción del Título",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "INGENIERÍA INFORMÁTICA",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "NIVEL DENOMINACIÓN CORTA",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "RAMA DE CONOCIMIENTO ÁMBITO DE CONOCIMIENTO CONJUNTO",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "1.11-1.13 OBJETIVOS FORMATIVOS, ESTRUCTURAS CURRICULARES ESPECÍFICAS Y DE",
+      "method": "llm",
+      "score": 65,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y la organización de datos en la informática."
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "LISTADO DE MENCIONES",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Distributed Distributed Software Design Distributed Systems",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la creación de patrones y diseños para software, aunque la segunda incluye sistemas distribuidos, que es un aspecto relacionado pero no excluyente del diseño de software."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Ingeniería y Arquitectura Ingeniería informática y de sistemas No",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de los sistemas informáticos."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": " Information Systems.",
+      "method": "llm",
+      "score": 63,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a sistemas informáticos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 71,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la planificación y diseño de sistemas informáticos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Computer Computer Software Information",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "1. DATOS DE LA UNIVERSIDAD, CENTRO Y TÍTULO QUE PRESENTA LA SOLICITUD",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y organización de datos en un contexto informático."
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "3. PROTECCIÓN DE DATOS PERSONALES",
+      "method": "none",
+      "score": 58,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B se enfoca en protección de datos personales, mientras que la asignatura A se enfoca en la gestión de bases de datos en general."
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Ingeniería informática y de sistemas",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ingeniería informática y la gestión de sistemas de información."
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "Ingeniería informática y de sistemas",
+      "method": "llm",
+      "score": 56,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la planificación y diseño de sistemas informáticos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": " Software Engineering.",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la ingeniería de software, aunque con nombres ligeramente diferentes."
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Engineering Circuits and Software Software",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y el desarrollo de software, aunque la segunda tiene un enfoque más en el aspecto de circuitos electrónicos."
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "LISTADO DE MENCIONES",
+      "method": "llm",
+      "score": 55,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la gestión de procesos y sistemas de negocio"
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "Ingeniería informática y de sistemas",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión y el desarrollo de sistemas de información, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "la dirección y gestión de proyectos hasta consultoría, función pública o regulación y",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y dirección de proyectos"
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Centro de Postgrado – Unidad de Gestión de Postgrado",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la gestión de empresas y la organización, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "de investigación.",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la investigación y el método científico, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "académico, científico o profesional del mismo",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ética profesional en el ámbito académico y laboral."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Edimburgo Artificial Intelligence INV / ACAD 12 meses",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "TIEMPO COMPLETO TIEMPO PARCIAL",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas diferentes, la primera con procesamiento de imágenes y la segunda con programación de algoritmos de tiempo complejidad"
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Ingeniería y Arquitectura Ingeniería informática y de sistemas No",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "Systems Systems and Development",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con el desarrollo de sistemas y la creación de productos o servicios para clientes."
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "*IDEA League",
+      "method": "llm",
+      "score": 63,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y el desarrollo de software, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "*IDEA League",
+      "method": "none",
+      "score": 60,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Lenguaje II se refiere a un curso de programación, mientras que IDEA League parece ser un nombre de una alianza de universidades, no una asignatura específica."
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "cabo trabajos de investigación, diseño, desarrollo e innovación en esta área, todo ello",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "LISTADO DE CENTROS",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "RESULTADOS DEL PROCESO DE FORMACIÓN Y DE APRENDIZAJE",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "AGENCIA EVALUADORA",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Académica Investigación Profesional X",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

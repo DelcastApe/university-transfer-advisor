@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Castilla-La Mancha",
+  "city": "Toledo",
+  "links_used": [
+    "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/plan-de-estudios/",
+    "https://esi.uclm.es/index.php/doble-grado-informatica-ade/plan-de-estudios-ii-ade/",
+    "https://esiiab.uclm.es/plan-de-estudios/"
+  ],
+  "telemetry": [
+    {
+      "url": "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/plan-de-estudios/",
+      "kind": "html",
+      "extracted_lines": 262,
+      "error": null
+    },
+    {
+      "url": "https://esi.uclm.es/index.php/doble-grado-informatica-ade/plan-de-estudios-ii-ade/",
+      "kind": "html",
+      "extracted_lines": 224,
+      "error": null
+    },
+    {
+      "url": "https://esiiab.uclm.es/plan-de-estudios/",
+      "kind": "html",
+      "extracted_lines": 226,
+      "error": null
+    }
+  ]
+}

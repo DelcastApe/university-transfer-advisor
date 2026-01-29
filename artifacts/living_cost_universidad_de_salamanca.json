@@ -1,0 +1,40 @@
+{
+  "housing": {
+    "min": 382.5,
+    "max": 517.5,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Salamanca"
+    ]
+  },
+  "food": {
+    "min": 306.0,
+    "max": 414.0,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Salamanca"
+    ]
+  },
+  "transport": {
+    "min": 29.75,
+    "max": 40.25,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Salamanca"
+    ]
+  },
+  "utilities": {
+    "min": 74.38,
+    "max": 100.62,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Salamanca"
+    ]
+  },
+  "leisure": {
+    "min": 57.8,
+    "max": 78.2,
+    "sources": [
+      "https://www.numbeo.com/cost-of-living/in/Salamanca"
+    ]
+  },
+  "total_min": 850.43,
+  "total_max": 1150.57,
+  "confidence": "MEDIUM"
+}

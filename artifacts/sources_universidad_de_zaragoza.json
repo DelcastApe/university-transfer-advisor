@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Zaragoza",
+  "city": "Zaragoza",
+  "links_used": [
+    "http://academico.unizar.es/sites/academico/files/archivos/ofiplan/informapublica/Ing_Datos/ingenieria_datos.pdf",
+    "http://webdiis.unizar.es/areas/ISA/wp-content/uploads/2010/09/MemoriaGradoInformaticaFinalv3211009.pdf",
+    "https://sia.unizar.es/documentos/doa/guiadocente/2025/30210_es.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "http://academico.unizar.es/sites/academico/files/archivos/ofiplan/informapublica/Ing_Datos/ingenieria_datos.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "http://webdiis.unizar.es/areas/ISA/wp-content/uploads/2010/09/MemoriaGradoInformaticaFinalv3211009.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://sia.unizar.es/documentos/doa/guiadocente/2025/30210_es.pdf",
+      "kind": "pdf",
+      "extracted_lines": 41,
+      "error": null
+    }
+  ]
+}

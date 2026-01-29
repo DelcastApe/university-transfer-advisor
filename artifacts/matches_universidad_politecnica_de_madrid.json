@@ -1,0 +1,340 @@
+{
+  "university": "Universidad Politecnica de Madrid",
+  "city": "Madrid",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf",
+  "links": [
+    "https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas",
+    "https://www.fi.upm.es/docs/estudios/ingenieria_informatica/58_Plan96_08-09.pdf",
+    "https://www.eui.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+    "https://www.etsisi.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+    "https://www.fi.upm.es/docs/estudios/4_Guia_curso_09-10_plan96.pdf"
+  ],
+  "preferred_domains": [
+    "upm.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 0,
+  "match_pct": 0.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": null,
+      "method": "none",
+      "score": 0,
+      "llm_conf": 0.0,
+      "reason": "No uni courses"
+    }
+  ]
+}

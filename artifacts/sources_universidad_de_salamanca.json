@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Salamanca",
+  "city": "Salamanca",
+  "links_used": [
+    "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_5.pdf",
+    "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_3.pdf",
+    "https://guias.usal.es/historico/files/guias2015/Fichas_Plan_Docente_Grado_en_Ing_Informatica_16-17%20actualizado%206-10-16_Mofic%20feb%202017.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_5.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://guias.usal.es/filesg/guias2015/Fichas%20Asignaturas_3.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://guias.usal.es/historico/files/guias2015/Fichas_Plan_Docente_Grado_en_Ing_Informatica_16-17%20actualizado%206-10-16_Mofic%20feb%202017.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    }
+  ]
+}

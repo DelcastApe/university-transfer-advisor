@@ -1,0 +1,339 @@
+{
+  "university": "Universitat Pompeu Fabra",
+  "city": "Barcelona",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://www.esci.upf.edu/frontend/web/uploads/files/1.%20Memo%CC%80ria%20del%20BDBI%20%28curs%202023-2024%29.pdf",
+    "https://www.esci.upf.edu/uploads/imgen/800-versio-6-sg-10-02-2015x.pdf",
+    "https://www.upf.edu/es/web/enginyeria/enginyeria-informatica-2016-informacio-estudiant",
+    "https://www.upf.edu/web/graus/grau-enginyeria-informatica"
+  ],
+  "preferred_domains": [
+    "upf.edu"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 25.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "1.5.a) Centro de impartición",
+      "method": "none",
+      "score": 40,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "grandes datos e inteligencia artificial.",
+      "method": "none",
+      "score": 41,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "BACHELOR IN",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "1.5.a) Centro de impartición",
+      "method": "none",
+      "score": 42,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "No aplica",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "No aplica",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "ESCRIPCIÓN OBJETIVOS FORMATIVOS Y JUSTIFICACIÓN DEL",
+      "method": "none",
+      "score": 45,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "esta área.",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "médica y de la genética de poblaciones.",
+      "method": "none",
+      "score": 49,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "con la retroalimentación del profesorado.",
+      "method": "none",
+      "score": 49,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "1.3. Estructuras curriculares específicas y justificación de sus objetivos 8",
+      "method": "llm",
+      "score": 65,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a estructuras de datos y algoritmos, siendo un tema fundamental en la Ingeniería Informática."
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "médica y de la genética de poblaciones.",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Universitat Autònoma de Barcelona",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Oferta de plazas",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "4.3. Sistemas de evaluación 29",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la gestión de recursos y procesos en un entorno informático."
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Negocios y Marketing Internacionales",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Negocios y Marketing Internacionales",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "-Análisis de datos",
+      "method": "fuzzy",
+      "score": 75,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "-Análisis de datos",
+      "method": "llm",
+      "score": 61,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión y análisis de datos, aunque con enfoques diferentes."
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "4.3. Sistemas de evaluación 29",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "3.1. Requisitos de acceso y procedimientos de admisión de estudiantes 14",
+      "method": "none",
+      "score": 70,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar relacionada con procedimientos administrativos, mientras que la asignatura A se enfoca en el diseño y gestión de requisitos en ingeniería de software."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "universitàries de Grau i Màster.",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "universitàries de Grau i Màster.",
+      "method": "none",
+      "score": 49,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "Grau en Negocis i Màrqueting",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "y teorías de la informática en el modelado y diseño de sistemas biológicos.",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la gestión de proyectos de sistemas de información, mientras que la asignatura B se enfoca en el modelado y diseño de sistemas biológicos, lo que sugiere un enfoque diferente en la informática."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "problemas y gestionar proyectos para poder interpretar visualizaciones complejas de datos",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y dirección de proyectos, con un enfoque en la interpretación de datos complejos."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "de visualización de datos y herramientas de aprendizaje estadístico",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "1.4. Estrategias metodológicas de innovación docente",
+      "method": "llm",
+      "score": 55,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a estrategias y metodologías de investigación y enseñanza"
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "1.5.bis Actividad profesional regulada habilitada por el título 10",
+      "method": "llm",
+      "score": 64,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la ética profesional y la regulación de actividades profesionales en el ámbito de la ingeniería informática."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "grandes datos e inteligencia artificial.",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a inteligencia artificial y técnicas relacionadas."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "y biología computacional para que puedan desarrollar e impulsar proyectos",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas involucran la aplicación de técnicas computacionales en biología, lo que sugiere una equivalencia temática"
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "4.3. Sistemas de evaluación 29",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la estructura y diseño de sistemas informáticos."
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "del Centro",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "GRADO EN",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Eliminar los que no",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "desarrollo sostenible.",
+      "method": "none",
+      "score": 62,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas muy diferentes."
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Universitat de Barcelona",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "desde el compromiso con los derechos fundamentales, la justicia social, la democracia y",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "Menciones y",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Negocios y Marketing Internacionales",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tratar temas muy diferentes, la primera se enfoca en aspectos políticos y culturales del Perú, mientras que la segunda se enfoca en marketing y negocios internacionales."
+    }
+  ]
+}

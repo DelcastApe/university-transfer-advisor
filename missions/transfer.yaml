@@ -1,4 +1,4 @@
-id: transfer-v1
+id: transfer-v2-20
 goal: "Find the best university in Spain to transfer and graduate, maximizing course validation (convalidacion), prestige, and cost of living."
 
 my_profile:
@@ -10,8 +10,6 @@ my_profile:
     weight_prestige: 0.25
     weight_cost: 0.20
 
-
-# ✅ ahora el plan actual viene de un archivo (todos tus cursos)
 current_studies:
   degree: "Grado en Ingenieria Informatica"
   curriculum_file: "missions/my_curriculum.yaml"
@@ -20,20 +18,100 @@ targets:
   universities:
     - name: "Universitat Politecnica de Valencia"
       city: "Valencia"
-      program_query: "grado ingenieria informatica plan de estudios asignaturas"
-      program_urls:
-        - "https://www.upv.es/pls/oalu/SIC_PLA.lisbloques?p_tit=157&p_cen=J&p_calendario=&p_tipo=plan&p_cabecera=1&p_idioma=c&p_acceso=G&p_vista=&p_listodmod=S&P_NAVEGA=1&p_caca=2025&p_vermiplan=N"
-        - "https://www.upv.es/titulaciones/GII-A/menu_urlc.html?https://www.epsa.upv.es/pla_estudios/2025/157_plan_estudios_2025_es.pdf"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["upv.es", "epsa.upv.es"]
 
-    - name: "Universidad de León"
-      city: "León"
-      program_query: "grado ingenieria informatica plan de estudios asignaturas"
-      program_urls:
-        - "https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-ingenieria-informatica/plan-estudios"
- 
     - name: "Universitat Politecnica de Catalunya"
       city: "Barcelona"
-      program_query: "grado ingenieria informatica plan de estudios asignaturas"
-      program_urls:
-        - "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios"
-        - "https://www.fib.upc.edu/es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/asignaturas"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["upc.edu", "fib.upc.edu"]
+
+    - name: "Universidad Politecnica de Madrid"
+      city: "Madrid"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+      preferred_domains: ["upm.es"]
+
+    - name: "Universidad Carlos III de Madrid"
+      city: "Madrid"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uc3m.es"]
+
+    - name: "Universidad Autonoma de Madrid"
+      city: "Madrid"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uam.es"]
+
+    - name: "Universidad Complutense de Madrid"
+      city: "Madrid"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["ucm.es"]
+
+    - name: "Universidad de Granada"
+      city: "Granada"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["ugr.es"]
+
+    - name: "Universidad de Sevilla"
+      city: "Sevilla"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["us.es"]
+
+    - name: "Universidad de Malaga"
+      city: "Malaga"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uma.es"]
+
+    - name: "Universidad de Zaragoza"
+      city: "Zaragoza"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["unizar.es"]
+
+    - name: "Universidad de Salamanca"
+      city: "Salamanca"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["usal.es"]
+
+    - name: "Universidad de Valladolid"
+      city: "Valladolid"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uva.es"]
+
+    - name: "Universitat Pompeu Fabra"
+      city: "Barcelona"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["upf.edu"]
+
+    - name: "Universitat Autonoma de Barcelona"
+      city: "Barcelona"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uab.cat"]
+
+    - name: "Universidad de Oviedo"
+      city: "Oviedo"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uniovi.es"]
+
+    - name: "Universidad de Cadiz"
+      city: "Cadiz"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uca.es"]
+
+    - name: "Universidad de Murcia"
+      city: "Murcia"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["um.es"]
+
+    - name: "Universidad Publica de Navarra"
+      city: "Pamplona"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["unavarra.es", "upna.es"]
+
+    - name: "Universidad de Castilla-La Mancha"
+      city: "Toledo"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["uclm.es"]
+
+    - name: "Universidade de Santiago de Compostela"
+      city: "Santiago de Compostela"
+      program_query: "grado ingenieria informatica plan de estudios asignaturas guia docente ects"
+      preferred_domains: ["usc.gal"]

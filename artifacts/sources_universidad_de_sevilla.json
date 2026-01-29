@@ -1,0 +1,29 @@
+{
+  "university": "Universidad de Sevilla",
+  "city": "Sevilla",
+  "links_used": [
+    "https://www.informatica.us.es/index.php/grados/ingenieria-del-software/plan-de-estudios",
+    "https://www.informatica.us.es/docs/estudios/ing_computadores/memoria_IC.pdf",
+    "https://www.informatica.us.es/pub/docs/acuerdosJC/acuerdosJC19-07-24.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.informatica.us.es/index.php/grados/ingenieria-del-software/plan-de-estudios",
+      "kind": "html",
+      "extracted_lines": 35,
+      "error": null
+    },
+    {
+      "url": "https://www.informatica.us.es/docs/estudios/ing_computadores/memoria_IC.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    },
+    {
+      "url": "https://www.informatica.us.es/pub/docs/acuerdosJC/acuerdosJC19-07-24.pdf",
+      "kind": "pdf",
+      "extracted_lines": 300,
+      "error": null
+    }
+  ]
+}

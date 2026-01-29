@@ -1,0 +1,73 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Oviedo grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:uniovi.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática del Software",
+      "link": "https://ingenieriainformatica.uniovi.es/infoacademica/grado",
+      "snippet": "Plan de estudios BOE y BOPA; Autorización de implantación y carácter oficial del título. Asignaturas, horarios, profesores guías docentes y competencias del ...",
+      "position": 1
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Tecnologías de la ...",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion",
+      "snippet": "Grado en Ingeniería Informática en Tecnologías de la Información · Datos generales · Ingreso y salidas profesionales · Plan de estudios · Información adicional.",
+      "position": 2
+    },
+    {
+      "title": "Grado en Ingeniería Informática del Software (PARS)",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware",
+      "snippet": "Grado en Ingeniería Informática del Software · Datos generales · Ingreso y salidas profesionales · Plan de estudios · Información adicional.",
+      "position": 3
+    },
+    {
+      "title": "INDICE DE ASIGNATURAS",
+      "link": "https://www.uniovi.es/documents/39158/dab445e3-2543-82e4-c765-0043516677cf",
+      "snippet": "INDICE DE ASIGNATURAS. Grado en Ingeniería Informática de Software .................................................................. 2. Fundamentos de ...",
+      "position": 4
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Tecnologías de la ...",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-4-006",
+      "snippet": "La asignatura de Inteligencia de Negocio (ING) compone, junto con las asignaturas Sistemas Inteligentes e Inteligencia Ambiental, la materia Aplicaciones ...",
+      "position": 5
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Tecnologías de la ...",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-010",
+      "snippet": "La asignatura de Tecnologías y Paradigmas de Programación (TPP) se imparte en el segundo cuatrimestre del segundo curso del grado. Forma parte de la materia ...",
+      "position": 6
+    },
+    {
+      "title": "Grado en Ingeniería Informática en Tecnologías de la ...",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-1-001",
+      "snippet": "Esta asignatura está incluida en la materia Fundamentos Matemáticos perteneciente al módulo Fundamentos de la Ingeniería del grado de Ingeniería Informática ...",
+      "position": 7
+    },
+    {
+      "title": "Comunicación Persona Máquina",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-006",
+      "snippet": "La asignatura 'Comunicación Persona-Máquina' (CPM) compone junto con 'Bases de datos', 'Ingeniería del software', 'Sistemas de información', ...",
+      "position": 8
+    },
+    {
+      "title": "Bachelor´s Degree in Informatics Engineering ...",
+      "link": "https://www.uniovi.es/en/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-008",
+      "snippet": "Universidad de Oviedo ... Memoria PARS del Máster Universitario en Ingeniería Informática vía Ingeniería en Tecnologías de la Información (pdf 148,7 kB).",
+      "position": 9
+    },
+    {
+      "title": "Grado en Ingeniería Informática del Software (PARS)",
+      "link": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-1-002",
+      "snippet": "Esta asignatura forma parte de la materia Fundamentos Matemáticos incluida en el módulo de Formación Básica del grado de Ingeniería Informática del Software ...",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

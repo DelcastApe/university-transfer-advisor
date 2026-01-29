@@ -1,0 +1,35 @@
+{
+  "university": "Universidad Politecnica de Madrid",
+  "city": "Madrid",
+  "links_used": [
+    "https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas",
+    "https://www.fi.upm.es/docs/estudios/ingenieria_informatica/58_Plan96_08-09.pdf",
+    "https://www.eui.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf"
+  ],
+  "telemetry": [
+    {
+      "url": "https://www.fi.upm.es/docs/estudios/ingenieria_informatica/58_Plan96_08-09.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.eui.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.etsisi.upm.es/sites/default/files/PLANES%20DE%20ESTUDIOS_11-12_Tec_WEB_1.pdf",
+      "kind": "pdf",
+      "extracted_lines": null,
+      "note": "pdf extractor (no telemetry)"
+    },
+    {
+      "url": "https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas",
+      "kind": "html",
+      "extracted_lines": 0,
+      "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.fi.upm.es/es/gradoingenieriainformatica/asignaturas\", waiting until \"domcontentloaded\"\n | PDF fallback failed: HTTPSConnectionPool(host='www.fi.upm.es', port=443): Max retries exceeded with url: /es/gradoingenieriainformatica/asignaturas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fi.upm.es', port=443) at 0x7951a0697aa0>, 'Connection to www.fi.upm.es timed out. (connect timeout=60)'))"
+    }
+  ]
+}

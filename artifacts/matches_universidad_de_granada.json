@@ -1,0 +1,339 @@
+{
+  "university": "Universidad de Granada",
+  "city": "Granada",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/ingenieria-sistemas-informacion/guia-docente",
+    "https://grados.ugr.es/informatica/docencia/plan-estudios/programacion-tecnica-y-cientifica-especialidad-computacion-y-sistemas-inteligentes/guia-docente",
+    "https://grados.ugr.es/informatica/docencia/plan-estudios/tecnologias-emergentes-especialidad-ingenieria-computadores/guia-docente",
+    "https://grados.ugr.es/informatica-ceuta/docencia/plan-estudios/informatica-grafica/guia-docente"
+  ],
+  "preferred_domains": [
+    "ugr.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 264,
+  "match_pct": 40.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Parte teórica",
+      "method": "llm",
+      "score": 56,
+      "llm_conf": 0.9,
+      "reason": "La asignatura 'Parte teórica' probablemente se refiera a la parte teórica de la matemática, lo que la hace equivalente a 'Matematica I'"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Parte teórica",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "Neural Engineering",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Parte teórica",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "Cuestiones básicas.",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "ICM invasivos.",
+      "method": "none",
+      "score": 43,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "Plan de estudios",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Grado en Ingeniería Informática",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - La asignatura B es un título de grado y no una asignatura específica, por lo que no puede ser equivalente a la asignatura A."
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "Programacion tecnica y cientifica especialidad computacion y sistemas inteligentes",
+      "method": "llm",
+      "score": 71,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y la resolución de problemas computacionales."
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "Esquemas de programación.",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a principios de programación y estructuras de datos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "Bases de datos",
+      "method": "none",
+      "score": 72,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, estructuras de datos y algoritmos vs bases de datos"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "Esquemas de programación.",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen referirse a la clasificación de paradigmas de programación, como imperativo, funcional, orientado a objetos, etc."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "El proceso de diseño de software.",
+      "method": "fuzzy",
+      "score": 80,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Tema 2. Arquitectura de los sistemas de información.",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y diseño de los sistemas de información y computadoras."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "Sistemas distribuidos",
+      "method": "llm",
+      "score": 65,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión de recursos y procesos en entornos informáticos, aunque \"Sistemas distribuidos\" puede ser un curso más especializado en la arquitectura de sistemas distribuidos."
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Ingeniería y Arquitectura",
+      "method": "llm",
+      "score": 71,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la planificación y diseño de sistemas informáticos, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Tema 4. Integración de datos",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tratar temas diferentes, la interacción hombre máquina se refiere a la interacción entre humanos y sistemas informáticos, mientras que la integración de datos se refiere a la unión de datos de diferentes fuentes."
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Bases de datos relacionales y herramientas de O/R mapping.",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "Bases de datos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Ingenieria sistemas informacion",
+      "method": "fuzzy",
+      "score": 78,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "Ingeniería de la Rehabilitación.",
+      "method": "none",
+      "score": 64,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con temas diferentes, la Ingeniería de Requisitos se enfoca en el desarrollo de software y la Ingeniería de la Rehabilitación se enfoca en la recuperación de habilidades y la mejora de la calidad de vida de personas con discapacidad."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "Software Libre",
+      "method": "none",
+      "score": 72,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la ingeniería de software en general, mientras que la asignatura B se enfoca en software libre, lo que sugiere un enfoque más específico y limitado."
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Software Libre",
+      "method": "none",
+      "score": 72,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la ingeniería de software en general, mientras que la asignatura B se enfoca en software libre, lo que sugiere un enfoque diferente."
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "El proceso de diseño de software.",
+      "method": "llm",
+      "score": 56,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión y diseño de procesos y sistemas, aunque con enfoques diferentes."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "Ingenieria sistemas informacion",
+      "method": "fuzzy",
+      "score": 78,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "Patrones de diseño",
+      "method": "none",
+      "score": 65,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la gestión de proyectos, mientras que la asignatura B se enfoca en la creación de patrones de diseño, temas que no están directamente relacionados."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Sistemas de Información en la Empresa",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión de empresas y sistemas de información, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "Metodología docente",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la planificación y ejecución de investigaciones, aunque con un enfoque diferente (investigación en general vs. investigación en educación)"
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "Salidas profesionales",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Principios de Ingeniería Biomédica.",
+      "method": "none",
+      "score": 59,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en inteligencia artificial, mientras que la asignatura B se enfoca en ingeniería biomédica, temas muy diferentes."
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "Información adicional",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Tema 2. Arquitectura de los sistemas de información.",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "Examen de contenidos teóricos",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "Elementos básicos del lenguaje.",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Condiciones legales",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Propuesta de proyecto de diseño y desarrollo de un sistema de información.",
+      "method": "none",
+      "score": 57,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - La asignatura A se enfoca en aspectos psicológicos y humanos, mientras que la asignatura B se enfoca en diseño y desarrollo de sistemas de información, temas completamente distintos."
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Ingeniería de la Rehabilitación.",
+      "method": "none",
+      "score": 58,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas abordan temas completamente diferentes."
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "Horarios y calendarios",
+      "method": "none",
+      "score": 54,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "ICM no invasivos.",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Pasar al contenido principal",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

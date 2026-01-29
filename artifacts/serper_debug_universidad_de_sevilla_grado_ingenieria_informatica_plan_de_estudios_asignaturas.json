@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Sevilla grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:us.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Grado en Ingeniería Informática-Ingeniería del Software",
+      "link": "https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software",
+      "snippet": "El Grado en Ingeniería Informática – Ingeniería del Software capacita a sus estudiantes para el desarrollo, mantenimiento y evaluación de servicios y ...",
+      "position": 1
+    },
+    {
+      "title": "ingeniería de computadores",
+      "link": "https://www.informatica.us.es/docs/estudios/ing_computadores/memoria_IC.pdf",
+      "snippet": "Los estudios de informática en la Universidad de Sevilla, no obstante, inicia- ron su andadura mucho antes, en el año 1985 en la antigua Escuela Univer ...",
+      "position": 2
+    },
+    {
+      "title": "ficha de asignaturas de ii para guía docente.",
+      "link": "https://grupo.us.es/gtocoma/pid/PID-5.pdf",
+      "snippet": "Créditos prácticos (LRU/ECTS):. 3.00 / 3.00. CURSO: 5. CUATRIMESTRE: 1. CICLO: 2. DATOS BÁSICOS DE LOS PROFESORES. NOMBRE: Mª José Jiménez Rodriguez.",
+      "position": 3
+    },
+    {
+      "title": "anexos jc 19-07-2024",
+      "link": "https://www.informatica.us.es/pub/docs/acuerdosJC/acuerdosJC19-07-24.pdf",
+      "snippet": "Actualmente la Universidad de Sevilla oferta tres Grados en Ingeniería Informática, que sigue experimentando un crecimiento sostenido de la ...",
+      "date": "19 jul 2024",
+      "position": 4
+    },
+    {
+      "title": "Autoinforme Global de Grado en Ingeniería Informática- ...",
+      "link": "https://alojawebapps.us.es/fichape/Doc/AUTOSEG/IG/2020_204_autoglobal.pdf",
+      "snippet": "por W del Centro · 2021 — las asignaturas que componen el plan de estudios. Adicionalmente se incluye un enlace al SGC, y en la parte privada se tienen las aplicaciones de las que ...",
+      "position": 5
+    },
+    {
+      "title": "ingeniería del software",
+      "link": "https://www.informatica.us.es/docs/estudios/ing_software/memoria_IS.pdf",
+      "snippet": "Los estudios de informática en la Universidad de Sevilla, no obstante, inicia- ron su andadura mucho antes, en el año 1985 en la antigua Escuela Univer ...",
+      "position": 6
+    },
+    {
+      "title": "TECNOLOGÍAS INFORMÁTICAS POR LA UN",
+      "link": "http://www.informatica.us.es/docs/estudios/tec_informaticas/memoria_TI.pdf",
+      "snippet": "narán las materias o asignaturas del plan o planes de estudios en extinción ... La Universidad de Sevilla y la E.T.S. de Ingeniería Informática disponen de un.",
+      "position": 7
+    },
+    {
+      "title": "Memoria de Verificación",
+      "link": "https://alojawebapps.us.es/fichape/Doc/MV/206_memverif.pdf",
+      "snippet": "Universidad de Sevilla para publicar la información sobre el plan de estudios, su desarrollo y sus resultados. La aplicación de dicho procedimiento.",
+      "position": 8
+    },
+    {
+      "title": "Grado en Ingeniería Informática-Inteligencia Artificial",
+      "link": "https://alojawebapps.us.es/fichape/Doc/MV/268_memverif.pdf",
+      "snippet": "postgrado de la Universidad, guía de titulaciones, planes de estudio y asignaturas, perfil esperado, criterios de acceso, especialidades ...",
+      "date": "23 jul 2024",
+      "position": 9
+    },
+    {
+      "title": "Memoria de Verificación",
+      "link": "https://alojawebapps.us.es/fichape/Doc/MV/205_memverif.pdf",
+      "snippet": "Los estudios de informática en la Universidad de Sevilla ... coordinación docente horizontal y vertical del plan de estudios según la guía de ...",
+      "date": "23 mar 2022",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

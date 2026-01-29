@@ -1,0 +1,188 @@
+{
+  "university": "Universidad Carlos III de Madrid",
+  "city": "Madrid",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad Carlos III de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad Carlos III de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uc3m.es"
+  ],
+  "selected": [
+    "https://www.uc3m.es/cld/media/cld/doc/archivo/doc_mem_ing-informatica/memoria-modificacion-ing.-informatica-2022_23-v3-2.pdf",
+    "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_informatica/memoria-informatica_def_2025-1.pdf",
+    "https://www.uc3m.es/calidad/media/calidad/doc/archivo/doc_acre23-autoinforme-gr-ciencia-ingenieria-datos/10-informe-autoevaluacion_-2503783---grado-en-ciencia-e-ingenieria-de-datos.pdf",
+    "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_ciencia-ingenieria-de-datos/memoria-ceidatos_def_2025-2.pdf",
+    "https://aplicaciones.uc3m.es/cpa/generaFicha?est=218&plan=489&asig=13884&idioma=1"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.uc3m.es/cld/media/cld/doc/archivo/doc_mem_ing-informatica/memoria-modificacion-ing.-informatica-2022_23-v3-2.pdf",
+      "domain": "www.uc3m.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_informatica/memoria-informatica_def_2025-1.pdf",
+      "domain": "www.uc3m.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uc3m.es/calidad/media/calidad/doc/archivo/doc_acre23-autoinforme-gr-ciencia-ingenieria-datos/10-informe-autoevaluacion_-2503783---grado-en-ciencia-e-ingenieria-de-datos.pdf",
+      "domain": "www.uc3m.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uc3m.es/grado/media/grado/doc/archivo/doc_memoria_ciencia-ingenieria-de-datos/memoria-ceidatos_def_2025-2.pdf",
+      "domain": "www.uc3m.es",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://aplicaciones.uc3m.es/cpa/generaFicha?est=218&plan=489&asig=13884&idioma=1",
+      "domain": "aplicaciones.uc3m.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (aplicaciones.uc3m.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Acta_del_Consejo_de_Gobierno_del_15_de_junio_de_2020%3A_Plan_docente_UC3M_2020%2F2021.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371573562139&ssbinary=true",
+      "domain": "www.uc3m.es",
+      "score": 85,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+15 contiene 'plan'"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/grado/informatica",
+      "domain": "www.uc3m.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/grado/parsi-informatica",
+      "domain": "www.uc3m.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/master/ingenieria-informatica",
+      "domain": "www.uc3m.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/master/ciencia-tecnologia-informatica",
+      "domain": "www.uc3m.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/doble-grado/informatica-ade",
+      "domain": "www.uc3m.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/doctorado/ciencia-tecnologia-informatica",
+      "domain": "www.uc3m.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/grado/datos",
+      "domain": "www.uc3m.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/grado/telecomunicacion",
+      "domain": "www.uc3m.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/grado/tecnologias-industriales",
+      "domain": "www.uc3m.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Syllabus_content.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371577089586&ssbinary=true",
+      "domain": "www.uc3m.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=attachment%3B+filename%3D%22cv_Jose_manuel_molina_lopez.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371546199672&ssbinary=true",
+      "domain": "www.uc3m.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uc3m.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

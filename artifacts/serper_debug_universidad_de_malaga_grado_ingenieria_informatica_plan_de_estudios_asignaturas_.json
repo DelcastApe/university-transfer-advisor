@@ -1,0 +1,77 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Malaga grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:uma.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Graduado/a en Ingeniería Informática. Plan 2023",
+      "link": "https://www.uma.es/centers/subjects_center/etsi-informatica/5389/",
+      "snippet": "Trabajo fin de estudios, Troncal. Programación Docente de Graduado/a en Ingeniería Informática. Plan 2023. Código, Asignatura, Curso, Semestre, Carácter ...",
+      "position": 1
+    },
+    {
+      "title": "ETS INGENIERÍA INFORMÁTICA",
+      "link": "https://www.uma.es/consejo-de-gobierno/navegador_de_ficheros/SesionesConsejoGobierno/descargar/CG2025/20250925/17.pdf",
+      "snippet": "... Universidad de Málaga para la elaboración de las guías docentes ... planes de estudios conducentes a títulos de carácter oficial de grado y máster.",
+      "date": "25 sept 2025",
+      "position": 2
+    },
+    {
+      "title": "GUÍA PARA ESTUDIANTES DE NUEVO INGRESO",
+      "link": "https://www.uma.es/escuela-de-ingenierias-industriales/navegador_de_ficheros/Curso2022-23/descargar/EII.%20Guia%20Estudiantes%20Nuevo%20Ingreso%202022-23.pdf",
+      "snippet": "GUIA DOCENTE DE LAS ASIGNATURAS. Todas las asignaturas de los Grados en Ingeniería de la EII cuentan con una Guía Docente que recoge: ‐ Descripción. ‐ Equipo ...",
+      "position": 3
+    },
+    {
+      "title": "ModificacionesIncorporadas_Pro...",
+      "link": "https://www.uma.es/media/files/POD_CURSOS_2025_2026_2027.pdf",
+      "snippet": "La planificación docente de las titulaciones oficiales impartidas por la UMA conlleva: • la determinación de la oferta académica. • la ...",
+      "date": "9 abr 2025",
+      "position": 4
+    },
+    {
+      "title": "Plan de Ordenación Docente de la Universidad de Málaga",
+      "link": "https://www.uma.es/media/files/editado-POD_CURSO_ACADEMICO_2022-2023.pdf",
+      "snippet": "• el establecimiento de los grupos docentes y sus horarios;. • la elaboración de la guía docente de las asignaturas;. • la asignación de asignaturas al ...",
+      "position": 5
+    },
+    {
+      "title": "guía para ESTUDIANTES DE NUEVO INGRESO",
+      "link": "https://www.uma.es/escuela-de-ingenierias-industriales/navegador_de_ficheros/Curso2021-22/descargar/EII.%20GuiaEstudiantesNI21-22.pdf",
+      "snippet": "El curso está organizado en dos semestres con 30 ECTS cada uno, desarrollados en 15 semanas lectivas más el periodo de exámenes correspondiente.",
+      "date": "2 oct 2017",
+      "position": 6
+    },
+    {
+      "title": "LIST OF COURSES TAUGHT IN ENGLISH",
+      "link": "https://www.uma.es/relaciones-internacionales/navegador_de_ficheros/Incoming/descargar/2324/2324-Asignaturas_en_ingles.pdf",
+      "snippet": "Para más información consultar las GUÍAS DOCENTES DE LAS ASIGNATURAS. For further information, please check the TEACHING GUIDES OF THE SUBEJECTS u.uma.es/d18/.",
+      "position": 7
+    },
+    {
+      "title": "PLAN DE ORDENACIÓN DOCENTE DE LA ...",
+      "link": "https://www.uma.es/media/files/POD_CURSO_2020-2021_Y6ZtMpd.pdf",
+      "snippet": "Plan de Ordenación Docente. Curso 2020-2021. 18. • Aprobar la Guía Docente de las asignaturas con anterioridad al inicio del período de.",
+      "date": "5 may 2020",
+      "position": 8
+    },
+    {
+      "title": "Anexo I Justificación Informática",
+      "link": "https://www.uma.es/etsi-industrial/navegador_de_ficheros/docs/descargar/Planes2023/AnexosINF/Anexo%20I%20Justificacion%20Informatica.pdf",
+      "snippet": "las guías docentes de las asignaturas que servirían como base para la modificación del plan. La. Comisión de Grado estuvo en todo momento coordinada para ...",
+      "position": 9
+    },
+    {
+      "title": "Comisión Mixta para el desarrollo y seguimiento de ...",
+      "link": "https://www.uma.es/secretariageneral/normativa/propia/consejo/Abril_2016/Anexo10.pdf",
+      "snippet": "• Selección de algunas asignaturas en el plan de estudios ... correspondientes al plan de estudios que vienen cursando en la Universidad de Málaga, cuyo.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

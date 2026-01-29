@@ -1,0 +1,81 @@
+{
+  "university": "Universidade de Santiago de Compostela",
+  "city": "Santiago de Compostela",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidade de Santiago de Compostela grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidade de Santiago de Compostela grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "usc.gal"
+  ],
+  "selected": [
+    "https://assets.usc.gal/sites/default/files/plan/2021-09/Matema%CC%81tica_Industrial_Min.pdf",
+    "https://assets.usc.gal/sites/default/files/documents/2025-05/2025_05_21_acordos-xe.pdf",
+    "https://assets.usc.gal/sites/default/files/documents/2022-06/2022_05_10_Acordos-XE.pdf",
+    "https://assets.usc.gal/sites/default/files/documents/2023-06/2023_04_18_Acordos-XE.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://assets.usc.gal/sites/default/files/plan/2021-09/Matema%CC%81tica_Industrial_Min.pdf",
+      "domain": "assets.usc.gal",
+      "score": 110,
+      "reasons": [
+        "+70 dominio preferido (assets.usc.gal)",
+        "+15 contiene 'plan'",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2025-05/2025_05_21_acordos-xe.pdf",
+      "domain": "assets.usc.gal",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (assets.usc.gal)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2022-06/2022_05_10_Acordos-XE.pdf",
+      "domain": "assets.usc.gal",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (assets.usc.gal)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2023-06/2023_04_18_Acordos-XE.pdf",
+      "domain": "assets.usc.gal",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (assets.usc.gal)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2023-06/2023_06_01_Acordos-CCalidade.pdf",
+      "domain": "assets.usc.gal",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (assets.usc.gal)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://assets.usc.gal/sites/default/files/documents/2022-07/2022_06_16_Acordos-XE.pdf",
+      "domain": "assets.usc.gal",
+      "score": 95,
+      "reasons": [
+        "+70 dominio preferido (assets.usc.gal)",
+        "+25 es PDF"
+      ],
+      "is_pdf": true
+    }
+  ]
+}

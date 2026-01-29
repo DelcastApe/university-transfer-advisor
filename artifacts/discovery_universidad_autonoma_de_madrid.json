@@ -1,0 +1,144 @@
+{
+  "university": "Universidad Autonoma de Madrid",
+  "city": "Madrid",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad Autonoma de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad Autonoma de Madrid grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uam.es"
+  ],
+  "selected": [
+    "https://www.uam.es/uam/media/doc/1606887446271/grado-ingenieria-informatica-2022-23-2022-definitivo.pdf",
+    "https://www.uam.es/uam/media/doc/1606943990163/grado-ingenieria-informatica-2024-25-definitivo.pdf",
+    "https://www.uam.es/uam/media/doc/1606850068243/grado-ingenieria-informatica-2021-22-definitivo.pdf",
+    "https://www.uam.es/uam/media/doc/1606969710080/doble-grado-informaticamatematicas-2025-26-definitivo.pdf",
+    "https://www.uam.es/uam/media/doc/1606894896399/doble-grado-informaticamatematicas-2022-23--2022-definitivo.pdf"
+  ],
+  "candidates": [
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606887446271/grado-ingenieria-informatica-2022-23-2022-definitivo.pdf",
+      "domain": "www.uam.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606943990163/grado-ingenieria-informatica-2024-25-definitivo.pdf",
+      "domain": "www.uam.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606850068243/grado-ingenieria-informatica-2021-22-definitivo.pdf",
+      "domain": "www.uam.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606969710080/doble-grado-informaticamatematicas-2025-26-definitivo.pdf",
+      "domain": "www.uam.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606894896399/doble-grado-informaticamatematicas-2022-23--2022-definitivo.pdf",
+      "domain": "www.uam.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uam.es/uam/media/doc/1606943989718/doble-grado-informaticamatematicas-2024-25-definitivo.pdf",
+      "domain": "www.uam.es",
+      "score": 105,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+25 es PDF",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": true
+    },
+    {
+      "url": "https://www.uam.es/uam/informatica",
+      "domain": "www.uam.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uam.es/eps/estudios/programa-academico-ingenieria-informatica",
+      "domain": "www.uam.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uam.es/uam/master-universitario-ingenieria-informatica",
+      "domain": "www.uam.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uam.es/ss/Satellite?c=Page&cid=1446764153625&language=en&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal&rendermode=preview",
+      "domain": "www.uam.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uam.es/ss/Satellite?pagename=EscuelaPolitecnica%2FPage%2FFAC_listadoGuiasDocentes&cid=1242665593159&language=es&busca_combo=1242678693670",
+      "domain": "www.uam.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uam.es/ss/Satellite?c=Page&cid=1242665593159&language=es&pagename=EscuelaPolitecnica%2FPage%2FFAC_listadoGuiasDocentes&rendermode=preview",
+      "domain": "www.uam.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uam.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

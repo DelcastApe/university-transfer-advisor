@@ -1,0 +1,339 @@
+{
+  "university": "Universidad de Castilla-La Mancha",
+  "city": "Toledo",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://esi.uclm.es/index.php/grado-en-ingenieria-informatica/plan-de-estudios/",
+    "https://esi.uclm.es/index.php/doble-grado-informatica-ade/plan-de-estudios-ii-ade/",
+    "https://esiiab.uclm.es/plan-de-estudios/",
+    "https://guias.apps.uclm.es/2023-24/422/59705/GuiaES.pdf"
+  ],
+  "preferred_domains": [
+    "uclm.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 50.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Algebra and Discrete Mathematics",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Technical English I",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "Algebra and Discrete Mathematics",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a conceptos matemáticos fundamentales en la ingeniería informática, como la resolución de sistemas lineales y análisis de estructuras matemáticas."
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Algebra and Discrete Mathematics",
+      "method": "llm",
+      "score": 66,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la rama de las matemáticas que estudia la teoría de conjuntos, lógica y estructuras discretas."
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "Technical English I",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Technical English II",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas de Física II y Technical English II son de temas completamente diferentes."
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "Statistical Methods in Engineering",
+      "method": "none",
+      "score": 52,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Grado en Ingeniería Informática",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - La asignatura B es un título de grado y no una asignatura específica, por lo que no es comparable con la asignatura A."
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "Programa FORTE",
+      "method": "llm",
+      "score": 61,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y el desarrollo de algoritmos."
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "Programming Fundamentals I",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en programación orientada a objetos, mientras que la asignatura B se enfoca en fundamentos de programación en general."
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "Data Structure",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "Declarative Programming",
+      "method": "llm",
+      "score": 65,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a paradigmas de programación, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Software design",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la creación de patrones y principios para el diseño de software."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Computer Architecture",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.95,
+      "reason": "Tienen el mismo tema core y nombres muy similares en inglés y español."
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "Operating Systems I",
+      "method": "llm",
+      "score": 73,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a sistemas operativos, siendo 'Operating Systems I' una variante común en universidades anglosajonas."
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Personal de Administración y Servicios",
+      "method": "none",
+      "score": 65,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas diferentes, la primera con la infraestructura de redes y la segunda con personal y servicios."
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Human-Computer Interaction I",
+      "method": "llm",
+      "score": 55,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la interacción entre humanos y sistemas informáticos"
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Accesos directos",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "Access and Registration",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de bases de datos, aunque con nombres ligeramente diferentes."
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Information Systems Audit",
+      "method": "llm",
+      "score": 59,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la auditoría y seguridad de sistemas de información transaccionales."
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "Requirements Engineering",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.95,
+      "reason": "Ambas asignaturas se refieren a la planificación y gestión de requisitos en el desarrollo de software."
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "Software Engineering I",
+      "method": "fuzzy",
+      "score": 78,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Software Engineering II",
+      "method": "fuzzy",
+      "score": 79,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "Equipo de Gobierno",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "OFFER OF ELECTION IN THE SUBJECT OF INFORMATION SYSTEMS",
+      "method": "llm",
+      "score": 62,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión de proyectos relacionados con sistemas de información."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "Final Degree Project",
+      "method": "llm",
+      "score": 61,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la culminación de un proyecto en el campo de la ingeniería informática."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Organización Docente",
+      "method": "llm",
+      "score": 55,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y gestión de empresas, aunque con un enfoque diferente (empresas en general vs. entorno académico)"
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "Investiga en la ESI",
+      "method": "llm",
+      "score": 56,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la investigación en el campo de la ingeniería, con un enfoque en la metodología y el proceso de investigación."
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "Professional outings",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la ética y responsabilidad profesional en el ámbito laboral."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Professional Certifications",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "Computational Numerical Methods",
+      "method": "none",
+      "score": 58,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la percepción computacional, mientras que la asignatura B se enfoca en métodos numéricos computacionales, lo que sugiere que son temas distintos."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Software Systems Quality",
+      "method": "llm",
+      "score": 58,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la estructura y calidad de los sistemas informáticos."
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "Web Systems Development",
+      "method": "none",
+      "score": 74,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "Bilingual Degree",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Bilingual Degree",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Discursos y memorias",
+      "method": "none",
+      "score": 44,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Investiga en la ESI",
+      "method": "llm",
+      "score": 57,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la reflexión crítica y el análisis de la ciencia y la tecnología, aunque desde perspectivas diferentes."
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "Jardines y Paseos",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "Valorant League",
+      "method": "none",
+      "score": 53,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Resicla Solidarity Program",
+      "method": "none",
+      "score": 48,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    }
+  ]
+}

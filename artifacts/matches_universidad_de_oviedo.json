@@ -1,0 +1,339 @@
+{
+  "university": "Universidad de Oviedo",
+  "city": "Oviedo",
+  "query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "links": [
+    "https://ingenieriainformatica.uniovi.es/infoacademica/grado",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-3-003",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-1-002"
+  ],
+  "preferred_domains": [
+    "uniovi.es"
+  ],
+  "my_courses_count": 40,
+  "uni_courses_count": 300,
+  "match_pct": 60.0,
+  "matches": [
+    {
+      "my_course": "Matematica I",
+      "best_match": "Fundamentos Matemáticos",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Matematica II",
+      "best_match": "Fundamentos Matemáticos",
+      "method": "none",
+      "score": 50,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Algebra Lineal",
+      "best_match": "Álgebra lineal",
+      "method": "fuzzy",
+      "score": 92,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Matematica Discreta",
+      "best_match": "Autómatas y Matemáticas Discretas",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a conceptos matemáticos aplicados a la informática y la computación, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Fisica I",
+      "best_match": "Práctica Profesional",
+      "method": "none",
+      "score": 42,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Fisica II",
+      "best_match": "Repositorio digital",
+      "method": "none",
+      "score": 42,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Estadistica Descriptiva",
+      "best_match": "Instalaciones deportivas",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas tienen temas completamente diferentes"
+    },
+    {
+      "my_course": "Estadistica Inferencial",
+      "best_match": "Nuestra transferencia",
+      "method": "none",
+      "score": 68,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tener temas completamente diferentes"
+    },
+    {
+      "my_course": "Algoritmia y Programacion",
+      "best_match": "Introducción a la Programación",
+      "method": "llm",
+      "score": 61,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la introducción y fundamentos de la programación y algoritmos."
+    },
+    {
+      "my_course": "Programacion Orientada a Objetos",
+      "best_match": "Introducción a la Programación",
+      "method": "none",
+      "score": 61,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en programación orientada a objetos, mientras que la asignatura B es una introducción general a la programación, lo que sugiere un enfoque diferente en el contenido."
+    },
+    {
+      "my_course": "Estructuras de Datos y Algoritmos",
+      "best_match": "Estructuras de Datos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Paradigmas de Programacion",
+      "best_match": "Tecnologías y Paradigmas de la Programación",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a paradigmas de programación, lo que sugiere una equivalencia temática clara."
+    },
+    {
+      "my_course": "Patrones de Diseno de Software",
+      "best_match": "Diseño del Software",
+      "method": "llm",
+      "score": 73,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren al diseño de software, con ligeras variaciones en el nombre."
+    },
+    {
+      "my_course": "Arquitectura de Computadoras",
+      "best_match": "Arquitectura de Computadores",
+      "method": "fuzzy",
+      "score": 96,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Sistemas Operativos",
+      "best_match": "Sistemas Operativos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Arquitectura y Administracion de Redes",
+      "best_match": "Administración de Sistemas y Redes",
+      "method": "fuzzy",
+      "score": 80,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Interaccion Hombre Maquina",
+      "best_match": "Interacción y Multimedia",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la interacción entre el ser humano y las tecnologías de la información, con un enfoque en la experiencia del usuario y la creación de interfaces interactivas."
+    },
+    {
+      "my_course": "Bases de Datos",
+      "best_match": "Bases de Datos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Bases de Datos",
+      "best_match": "Bases de Datos",
+      "method": "fuzzy",
+      "score": 100,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Sistemas de Informacion Transaccionales",
+      "best_match": "Sistemas de Información para la Web",
+      "method": "llm",
+      "score": 72,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a sistemas de información, aunque con enfoques ligeramente diferentes, pero con un tema core similar."
+    },
+    {
+      "my_course": "Ingenieria de Requisitos",
+      "best_match": "Ingeniería de Requisitos",
+      "method": "fuzzy",
+      "score": 95,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Software I",
+      "best_match": "Ingeniería del Software",
+      "method": "fuzzy",
+      "score": 89,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Ingenieria de Software II",
+      "best_match": "Ingeniería del Software",
+      "method": "fuzzy",
+      "score": 87,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Gestion de Procesos de Negocio",
+      "best_match": "Servicio de Control de Procesos",
+      "method": "llm",
+      "score": 69,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se refieren a la gestión y control de procesos en un contexto de negocio, lo que sugiere una equivalencia temática clara."
+    },
+    {
+      "my_course": "Gestion de Proyectos de Sistemas de Informacion",
+      "best_match": "Sistemas de Información para la Web",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas se relacionan con la gestión y desarrollo de sistemas de información, aunque con enfoques ligeramente diferentes."
+    },
+    {
+      "my_course": "Direccion de Proyectos",
+      "best_match": "Dirección y gestión de proyectos de Ingeniería del software.",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Tienen un enfoque similar en la gestión de proyectos, aunque con un enfoque específico en Ingeniería del software."
+    },
+    {
+      "my_course": "Organizacion y Gestion de Empresas",
+      "best_match": "Empresas y organismos externos",
+      "method": "llm",
+      "score": 68,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la gestión de empresas y su interacción con entornos externos."
+    },
+    {
+      "my_course": "Metodologia de la Investigacion",
+      "best_match": "Portal de la investigación",
+      "method": "llm",
+      "score": 73,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la investigación y su metodología"
+    },
+    {
+      "my_course": "Deontologia Profesional",
+      "best_match": "Práctica Profesional",
+      "method": "llm",
+      "score": 70,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la formación ética y profesional en el ámbito laboral, lo que sugiere una equivalencia temática."
+    },
+    {
+      "my_course": "Inteligencia Artificial: Principios y Tecnicas",
+      "best_match": "Servicios Científico Técnicos (SCT)",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Percepcion Computacional",
+      "best_match": "Proyección internacional",
+      "method": "none",
+      "score": 62,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen estar relacionadas con temas completamente diferentes."
+    },
+    {
+      "my_course": "Arquitectura de Sistemas",
+      "best_match": "Arquitectura del Software",
+      "method": "fuzzy",
+      "score": 77,
+      "llm_conf": 0.0,
+      "reason": "High fuzzy similarity"
+    },
+    {
+      "my_course": "Customer Development",
+      "best_match": "Cursos de verano",
+      "method": "none",
+      "score": 55,
+      "llm_conf": 0.0,
+      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas parecen tener temas completamente diferentes"
+    },
+    {
+      "my_course": "Lenguaje I",
+      "best_match": "Diseño de Lenguajes de Programación",
+      "method": "none",
+      "score": 47,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Lenguaje II",
+      "best_match": "Diseño de Lenguajes de Programación",
+      "method": "none",
+      "score": 46,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Psicologia y Desarrollo Humano",
+      "best_match": "Cooperación al desarrollo",
+      "method": "none",
+      "score": 61,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen tener temas diferentes, la Psicología y Desarrollo Humano se enfoca en el desarrollo personal y social, mientras que Cooperación al Desarrollo se enfoca en la ayuda internacional y el desarrollo económico y social en países en desarrollo."
+    },
+    {
+      "my_course": "Filosofia de la Ciencia",
+      "best_match": "Ciencias de la salud",
+      "method": "none",
+      "score": 74,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Ciudadania y Derechos Humanos",
+      "best_match": "Recursos humanos",
+      "method": "none",
+      "score": 60,
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en derechos humanos y ciudadanía, mientras que la asignatura B se enfoca en recursos humanos, que es un tema más específico y relacionado con la gestión de personal en empresas."
+    },
+    {
+      "my_course": "Etica y Valores",
+      "best_match": "Ficha de resumen",
+      "method": "none",
+      "score": 51,
+      "llm_conf": 0.0,
+      "reason": "Below threshold"
+    },
+    {
+      "my_course": "Realidad Nacional y Regional",
+      "best_match": "Realidad y Accesibilidad Aumentadas",
+      "method": "llm",
+      "score": 60,
+      "llm_conf": 0.9,
+      "reason": "Ambas asignaturas parecen estar relacionadas con la percepción y representación de la realidad a través de tecnologías, aunque con un enfoque ligeramente diferente."
+    }
+  ]
+}

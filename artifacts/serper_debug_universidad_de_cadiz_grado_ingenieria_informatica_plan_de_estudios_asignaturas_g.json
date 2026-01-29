@@ -1,0 +1,76 @@
+{
+  "searchParameters": {
+    "q": "Universidad de Cadiz grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf (site:uca.es)",
+    "gl": "es",
+    "hl": "es",
+    "type": "search",
+    "num": 20,
+    "engine": "google"
+  },
+  "organic": [
+    {
+      "title": "Guía de uso del ECTS - European Education Area",
+      "link": "https://internacional.uca.es/wp-content/uploads/2020/02/guia-usuario-ects.es_.pdf",
+      "snippet": "Objetivos: Los objetivos de esta asignatura son: Reforzar y ampliar los conceptos teóricos e instrumentales introducidos durante el plan de estudios de Grado.",
+      "position": 1
+    },
+    {
+      "title": "asignaturas — Universidad de Cádiz - UCA",
+      "link": "http://asignaturas2.uca.es/wuca_fichasig_todasasig_xtitulacionad9e.html?titul=21714",
+      "snippet": "GRADO EN INGENIERÍA INFORMÁTICA, Créditos Prácticos, 3.75. Curso, 3, Tipo, Obligatoria. Créd. ECTS, 6. Departamento, C137, INGENIERÍA INFORMÁTICA. Requisitos ...",
+      "position": 2
+    },
+    {
+      "title": "Asignaturas de Bases de Datos en estudios de Grado en ...",
+      "link": "https://rodin.uca.es/bitstream/handle/10498/20657/BBDDenUniversidadesEspanolas2018.pdf?sequence=1&isAllowed=y",
+      "snippet": "por F Carrillo Chaves · 2018 · Mencionado por 2 — ... grado-en-ingenieria-informatica/informacion-basica/guias-docentes. Cádiz http://asignaturas.uca.es/. Cantabria https://web.unican.es/estudios/asignaturas?p=98&c ...",
+      "position": 3
+    },
+    {
+      "title": "PLAN DE DEDICACION ACADÉMICA",
+      "link": "https://transparencia.uca.es/wp-content/uploads/2025/04/PLAN-DEDICACION-ACADEMICA-2025-26-1.pdf",
+      "snippet": "El presente Plan de Dedicación Académica (PDA) se sustenta en la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario (LOSU), ...",
+      "date": "15 abr 2025",
+      "position": 4
+    },
+    {
+      "title": "MÁSTER UNIVERSITARIO EN INGENIERÍA INFORMÁTICA ...",
+      "link": "https://esingenieria.uca.es/wp-content/uploads/2015/01/MemoriaMasterIngenieriaInformatica.pdf",
+      "snippet": "DISTRIBUCIÓN DEL PLAN DE ESTUDIOS EN CRÉDITOS ECTS POR MATERIA. Créditos totales: 90. Número de créditos en Prácticas Externas: 0. Número de créditos Optativos ...",
+      "position": 5
+    },
+    {
+      "title": "GRADO EN INGENIERÍA EN TECNOLOGÍAS INDUSTRIALES",
+      "link": "https://etsingenieria.uca.es/wp-content/uploads/2022/03/Autoinforme_GITI_2019_20.pdf",
+      "snippet": "... guía docente/programa de la asignatura. No obstante, hay que seguir trabajando en la bibliografía y otras fuentes de información recomendadas en el programa ...",
+      "date": "2021",
+      "position": 6
+    },
+    {
+      "title": "Informe Final para la renovación de la acreditación del ...",
+      "link": "https://esingenieria.uca.es/wp-content/uploads/2023/07/InformeACCUA_GII_2021-22.pdf",
+      "snippet": "... Grado en Ingeniería Informática. ... se contempló la modificación de la estructura del plan de estudios reordenando las asignaturas para alcanzar, ...",
+      "date": "5 jul 2023",
+      "position": 7
+    },
+    {
+      "title": "Recomendaciones para cumplimentar el Programa Docente ...",
+      "link": "https://esingenieria.uca.es/wp-content/uploads/2021/06/Indicaciones_Programas_Docentes_ESI%20_v2.pdf",
+      "snippet": "Recomendaciones para cumplimentar el Programa Docente (fichas 1B) de las asignaturas de. Grado de la Escuela Superior de Ingeniería. 1. Introducción.",
+      "position": 8
+    },
+    {
+      "title": "Autoinforme de seguimiento curso 22/23 (Convocatoria febrero ...",
+      "link": "https://esingenieria.uca.es/wp-content/uploads/2025/07/GII_Autoinforme_Seguimiento_22_23.pdf",
+      "snippet": "Inclusión en la web del grado (Plan de estudios ... estudios oficiales de Grado de la Universidad de Cádiz, ... docente del Grado en Ingeniería Informática.",
+      "position": 9
+    },
+    {
+      "title": "IMPRESO SOLICITUD PARA VERIFICACIÓN DE TÍTULOS ...",
+      "link": "https://esingenieria.uca.es/wp-content/uploads/2025/07/2023_M-Seguridad-Inform_MOD-NS_Memoria.pdf",
+      "snippet": "... plan de estudios en la Universidad de Cádiz. b) Alumnos que hayan realizado estudios en una escuela o facultad e inician nuevos estudios en el mismo centro o.",
+      "position": 10
+    }
+  ],
+  "credits": 1
+}

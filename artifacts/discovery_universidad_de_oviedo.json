@@ -1,0 +1,141 @@
+{
+  "university": "Universidad de Oviedo",
+  "city": "Oviedo",
+  "program_query": "grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+  "queries_used": [
+    "Universidad de Oviedo grado ingenieria informatica plan de estudios asignaturas guia docente ects",
+    "Universidad de Oviedo grado ingenieria informatica plan de estudios asignaturas guia docente ects pdf"
+  ],
+  "preferred_domains": [
+    "uniovi.es"
+  ],
+  "selected": [
+    "https://ingenieriainformatica.uniovi.es/infoacademica/grado",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-3-003",
+    "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-1-002"
+  ],
+  "candidates": [
+    {
+      "url": "https://ingenieriainformatica.uniovi.es/infoacademica/grado",
+      "domain": "ingenieriainformatica.uniovi.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (ingenieriainformatica.uniovi.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware",
+      "domain": "www.uniovi.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-3-003",
+      "domain": "www.uniovi.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/informaticasoftware/-/fof/asignatura/GIISOF01-1-002",
+      "domain": "www.uniovi.es",
+      "score": 80,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)",
+        "+10 relacionado con informatica"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-4-006",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-010",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-3-009",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/documents/39158/dab445e3-2543-82e4-c765-0043516677cf",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-009",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-006",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-1-001",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    },
+    {
+      "url": "https://www.uniovi.es/en/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-008",
+      "domain": "www.uniovi.es",
+      "score": 70,
+      "reasons": [
+        "+70 dominio preferido (www.uniovi.es)"
+      ],
+      "is_pdf": false
+    }
+  ]
+}

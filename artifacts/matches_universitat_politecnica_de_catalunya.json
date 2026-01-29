@@ -44,7 +44,7 @@
       "method": "llm",
       "score": 68,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a conceptos matemáticos relacionados con la teoría de conjuntos, lógica y estructuras algebraicas, fundamentales en la Ingeniería Informática."
+      "reason": "Ambas asignaturas se refieren a conceptos matemáticos relacionados con la teoría de conjuntos, lógica y estructuras discretas."
     },
     {
       "my_course": "Fisica I",
@@ -68,15 +68,15 @@
       "method": "llm",
       "score": 58,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a la descripción y análisis de datos estadísticos."
+      "reason": "Ambas asignaturas se refieren a la descripción y análisis de datos estadísticos"
     },
     {
       "my_course": "Estadistica Inferencial",
       "best_match": "Inteligencia Artificial",
       "method": "none",
       "score": 60,
-      "llm_conf": 0.0,
-      "reason": "LLM says not equivalent (conf=0.00) - Las asignaturas de Estadistica Inferencial y Inteligencia Artificial son temas distintos en Ingenieria Informatica."
+      "llm_conf": 0.2,
+      "reason": "LLM says not equivalent (conf=0.20) - La estadística inferencial es un tema de análisis de datos y probabilidad, mientras que la inteligencia artificial es un campo más amplio que incluye la resolución de problemas complejos mediante algoritmos y aprendizaje automático."
     },
     {
       "my_course": "Algoritmia y Programacion",
@@ -84,7 +84,7 @@
       "method": "llm",
       "score": 70,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y el desarrollo de algoritmos, lo que sugiere una equivalencia temática."
+      "reason": "Ambas asignaturas parecen estar relacionadas con la programación y la resolución de problemas mediante algoritmos."
     },
     {
       "my_course": "Programacion Orientada a Objetos",
@@ -108,7 +108,7 @@
       "method": "llm",
       "score": 70,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a la programación y sus paradigmas o lenguajes, lo que sugiere una relación cercana."
+      "reason": "Ambas asignaturas se refieren a la programación y sus paradigmas/lenguajes"
     },
     {
       "my_course": "Patrones de Diseno de Software",
@@ -148,7 +148,7 @@
       "method": "none",
       "score": 62,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la interacción entre humanos y sistemas informáticos, mientras que la asignatura B se enfoca en el marketing en línea, lo que sugiere que son temas distintos."
+      "reason": "LLM says not equivalent (conf=0.20) - Las asignaturas parecen estar relacionadas con temas diferentes, la interacción hombre máquina se refiere a la interacción entre humanos y sistemas informáticos, mientras que el marketing en Internet se refiere a la promoción de productos o servicios en línea."
     },
     {
       "my_course": "Bases de Datos",
@@ -204,7 +204,7 @@
       "method": "llm",
       "score": 62,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se relacionan con la gestión y organización de procesos y recursos en el ámbito de la informática, aunque con enfoques ligeramente diferentes."
+      "reason": "Ambas asignaturas se relacionan con la gestión y organización de procesos, aunque con un enfoque diferente en la tecnología y la infraestructura."
     },
     {
       "my_course": "Gestion de Proyectos de Sistemas de Informacion",
@@ -220,7 +220,7 @@
       "method": "llm",
       "score": 72,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a la gestión y planificación de proyectos en el ámbito de la programación, lo que sugiere una equivalencia temática clara."
+      "reason": "Ambas asignaturas se relacionan con la gestión y planificación de proyectos en el ámbito de la programación, lo que sugiere una equivalencia temática cercana."
     },
     {
       "my_course": "Organizacion y Gestion de Empresas",
@@ -236,7 +236,7 @@
       "method": "none",
       "score": 63,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en metodologías de investigación, mientras que la asignatura B se enfoca en tecnologías de la información, temas diferentes."
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en metodologías de investigación, mientras que la asignatura B se enfoca en tecnologías de la información, lo que sugiere que son temas distintos."
     },
     {
       "my_course": "Deontologia Profesional",
@@ -244,7 +244,7 @@
       "method": "llm",
       "score": 64,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas parecen estar relacionadas con el desarrollo profesional y la ética en la ingeniería, aunque con enfoques ligeramente diferentes."
+      "reason": "Ambas asignaturas parecen estar relacionadas con el desarrollo profesional y la ética en el ámbito de la ingeniería, aunque con enfoques ligeramente diferentes."
     },
     {
       "my_course": "Inteligencia Artificial: Principios y Tecnicas",
@@ -252,7 +252,7 @@
       "method": "llm",
       "score": 68,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se refieren a la misma área de estudio, Inteligencia Artificial, con solo una variación en la descripción de su contenido."
+      "reason": "Ambas asignaturas se refieren a la misma área de inteligencia artificial, aunque la primera incluye un enfoque en principios y técnicas, lo que sugiere una mayor profundidad en el tema."
     },
     {
       "my_course": "Percepcion Computacional",
@@ -260,7 +260,7 @@
       "method": "llm",
       "score": 72,
       "llm_conf": 0.9,
-      "reason": "Ambas asignaturas se relacionan con la representación y manipulación de formas geométricas en el ámbito de la computación, aunque con enfoques ligeramente diferentes."
+      "reason": "Ambas asignaturas se relacionan con la representación y procesamiento de formas geométricas en el ámbito de la informática."
     },
     {
       "my_course": "Arquitectura de Sistemas",
@@ -308,7 +308,7 @@
       "method": "none",
       "score": 60,
       "llm_conf": 0.2,
-      "reason": "LLM says not equivalent (conf=0.20) - La asignatura A se enfoca en la filosofía de la ciencia en general, mientras que la asignatura B se enfoca en la ciencia e ingeniería de datos, lo que sugiere un enfoque más práctico y aplicado."
+      "reason": "LLM says not equivalent (conf=0.20) - La asignatura B parece estar más enfocada en la aplicación práctica de la ciencia y la ingeniería en el campo de los datos, mientras que la asignatura A se enfoca en la filosofía y el enfoque teórico de la ciencia."
     },
     {
       "my_course": "Ciudadania y Derechos Humanos",
